@@ -1,0 +1,1610 @@
+From netnews.upenn.edu!central.cis.upenn.edu Tue Oct  6 22:07:25 EDT 1992
+Article: 2891 of upenn.cis.grad
+Path: netnews.upenn.edu!central.cis.upenn.edu
+From: nan@central.cis.upenn.edu (Nan Biltz)
+Newsgroups: upenn.cis.grad
+Subject: Beckman Institute Fellows Program 1993
+Message-ID: <91909@netnews.upenn.edu>
+Date: 6 Oct 92 21:50:03 GMT
+Sender: news@netnews.upenn.edu
+Distribution: upenn
+Organization: University of Pennsylvania
+Lines: 120
+Nntp-Posting-Host: central.cis.upenn.edu
+From netnews.upenn.edu!gradient.cis.upenn.edu Mon Oct 19 13:22:37 EDT 1992
+Article: 2911 of upenn.cis.grad
+Path: netnews.upenn.edu!gradient.cis.upenn.edu
+From: klivas@gradient.cis.upenn.edu (Steve Klivansky)
+Newsgroups: upenn.cis.grad,upenn.cis.wpe
+Subject: GSB! GSB! GSB!
+Message-ID: <93308@netnews.upenn.edu>
+Date: 15 Oct 92 23:28:19 GMT
+Sender: news@netnews.upenn.edu
+Followup-To: upenn.cis.grad
+Distribution: upenn
+Organization: University of Pennsylvania
+Lines: 23
+Xref: netnews.upenn.edu upenn.cis.grad:2911 upenn.cis.wpe:215
+Nntp-Posting-Host: gradient.cis.upenn.edu
+From netnews.upenn.edu!graphics.cis.upenn.edu Mon Oct 19 13:23:39 EDT 1992
+Article: 2915 of upenn.cis.grad
+Path: netnews.upenn.edu!graphics.cis.upenn.edu
+From: hollick@graphics.cis.upenn.edu (Mike Hollick)
+Newsgroups: upenn.cis.grad
+Subject: X Windows Programmer Needed
+Message-ID: <93664@netnews.upenn.edu>
+Date: 19 Oct 92 14:54:16 GMT
+Sender: news@netnews.upenn.edu
+Distribution: upenn
+Organization: UPENN Computer Graphics Research Laboratory
+Lines: 37
+Nntp-Posting-Host: graphics.cis.upenn.edu
+From netnews.upenn.edu!central.cis.upenn.edu Mon Oct 19 13:24:00 EDT 1992
+Article: 2917 of upenn.cis.grad
+Path: netnews.upenn.edu!central.cis.upenn.edu
+From: nan@central.cis.upenn.edu (Nan Biltz)
+Newsgroups: upenn.cis.grad
+Subject: 93-94 IBM Postdoctoral Fellowship In Mathematical Sciences
+Message-ID: <93677@netnews.upenn.edu>
+Date: 19 Oct 92 16:49:30 GMT
+Sender: news@netnews.upenn.edu
+Distribution: upenn
+Organization: University of Pennsylvania
+Lines: 52
+Nntp-Posting-Host: central.cis.upenn.edu
+From netnews.upenn.edu!central.cis.upenn.edu Mon Oct 26 13:07:27 EST 1992
+Article: 2937 of upenn.cis.grad
+Path: netnews.upenn.edu!central.cis.upenn.edu
+From: nan@central.cis.upenn.edu (Nan Biltz)
+Newsgroups: upenn.cis.grad,upenn.seas.general
+Subject: NOV 25th Interviews for Lecturer Positions - Chinese Univ of Hong Kong
+Message-ID: <94659@netnews.upenn.edu>
+Date: 26 Oct 92 15:56:41 GMT
+Sender: news@netnews.upenn.edu
+Followup-To: upenn.cis.grad
+Distribution: upenn
+Organization: University of Pennsylvania
+Lines: 50
+Xref: netnews.upenn.edu upenn.cis.grad:2937 upenn.seas.general:1682
+Nntp-Posting-Host: central.cis.upenn.edu
+From netnews.upenn.edu!central.cis.upenn.edu Tue Oct 27 20:56:36 EST 1992
+Article: 2946 of upenn.cis.grad
+Path: netnews.upenn.edu!central.cis.upenn.edu
+From: nan@central.cis.upenn.edu (Nan Biltz)
+Newsgroups: upenn.cis.grad
+Subject: 1993 DOE Computational Science Grad Fellowship Program
+Message-ID: <94976@netnews.upenn.edu>
+Date: 27 Oct 92 21:15:21 GMT
+Sender: news@netnews.upenn.edu
+Distribution: upenn
+Organization: University of Pennsylvania
+Lines: 54
+Nntp-Posting-Host: central.cis.upenn.edu
+From netnews.upenn.edu!central.cis.upenn.edu Tue Oct 27 20:56:40 EST 1992
+Article: 2947 of upenn.cis.grad
+Path: netnews.upenn.edu!central.cis.upenn.edu
+From: elaine@central.cis.upenn.edu (Elaine Benedetto)
+Newsgroups: upenn.jobs.offered,upenn.cis.grad
+Subject: Concordia University - Tenure Track Position Opening
+Message-ID: <94979@netnews.upenn.edu>
+Date: 27 Oct 92 21:25:34 GMT
+Sender: news@netnews.upenn.edu
+Followup-To: upenn.jobs.offered
+Distribution: upenn
+Organization: University of Pennsylvania
+Lines: 31
+Xref: netnews.upenn.edu upenn.jobs.offered:261 upenn.cis.grad:2947
+Nntp-Posting-Host: central.cis.upenn.edu
+From netnews.upenn.edu!central.cis.upenn.edu Wed Oct 28 14:24:14 EST 1992
+Article: 2949 of upenn.cis.grad
+Path: netnews.upenn.edu!central.cis.upenn.edu
+From: nan@central.cis.upenn.edu (Nan Biltz)
+Newsgroups: upenn.cis.grad,upenn.seas.general
+Subject: 1993-94 Nat'l Defense Sci & Eng Graduate Fellowships
+Message-ID: <95072@netnews.upenn.edu>
+Date: 28 Oct 92 14:58:11 GMT
+Sender: news@netnews.upenn.edu
+Followup-To: upenn.cis.grad
+Distribution: upenn
+Organization: University of Pennsylvania
+Lines: 58
+Xref: netnews.upenn.edu upenn.cis.grad:2949 upenn.seas.general:1701
+Nntp-Posting-Host: central.cis.upenn.edu
+From netnews.upenn.edu!central.cis.upenn.edu Wed Oct 28 14:24:45 EST 1992
+Article: 2952 of upenn.cis.grad
+Path: netnews.upenn.edu!central.cis.upenn.edu
+From: nan@central.cis.upenn.edu (Nan Biltz)
+Newsgroups: upenn.seas.general,upenn.cis.grad
+Subject: MINORITY & WOMEN DOCTORAL DIRECTORY
+Message-ID: <95093@netnews.upenn.edu>
+Date: 28 Oct 92 16:07:16 GMT
+Sender: news@netnews.upenn.edu
+Followup-To: upenn.seas.general
+Distribution: upenn
+Organization: University of Pennsylvania
+Lines: 36
+Xref: netnews.upenn.edu upenn.seas.general:1705 upenn.cis.grad:2952
+Nntp-Posting-Host: central.cis.upenn.edu
+From netnews.upenn.edu!unagi.cis.upenn.edu Thu Oct 29 20:44:01 EST 1992
+Article: 2961 of upenn.cis.grad
+Path: netnews.upenn.edu!unagi.cis.upenn.edu
+From: yarowsky@unagi.cis.upenn.edu (David Yarowsky)
+Newsgroups: upenn.cis.grad
+Subject: GSB Friday!
+Message-ID: <95379@netnews.upenn.edu>
+Date: 29 Oct 92 23:16:19 GMT
+Sender: news@netnews.upenn.edu
+Distribution: upenn
+Organization: University of Pennsylvania
+Lines: 51
+Nntp-Posting-Host: unagi.cis.upenn.edu
+From netnews.upenn.edu!grip.cis.upenn.edu!stein Fri Oct 30 16:52:21 EST 1992
+Article: 2963 of upenn.cis.grad
+Path: netnews.upenn.edu!grip.cis.upenn.edu!stein
+From: stein@grip.cis.upenn.edu (Matthew Stein)
+Newsgroups: upenn.cis.grasp,upenn.cis.grad,upenn.cis.colloq
+Subject: GRASP Lab Lunch - Friday, October 30th
+Message-ID: <95452@netnews.upenn.edu>
+Date: 30 Oct 92 13:45:36 GMT
+Sender: news@netnews.upenn.edu
+Followup-To: upenn.cis.grasp
+Lines: 54
+Xref: netnews.upenn.edu upenn.cis.grasp:456 upenn.cis.grad:2963 upenn.cis.colloq:470
+Nntp-Posting-Host: grip.cis.upenn.edu
+From netnews.upenn.edu!central.cis.upenn.edu Fri Oct 30 16:52:35 EST 1992
+Article: 2965 of upenn.cis.grad
+Path: netnews.upenn.edu!central.cis.upenn.edu
+From: elaine@central.cis.upenn.edu (Elaine Benedetto)
+Newsgroups: upenn.jobs.offered,upenn.cis.grad
+Subject: University of Maryland - Tenure Track Openings
+Message-ID: <95492@netnews.upenn.edu>
+Date: 30 Oct 92 16:38:48 GMT
+Sender: news@netnews.upenn.edu
+Followup-To: upenn.jobs.offered
+Distribution: upenn
+Organization: University of Pennsylvania
+Lines: 27
+Xref: netnews.upenn.edu upenn.jobs.offered:266 upenn.cis.grad:2965
+Nntp-Posting-Host: central.cis.upenn.edu
+From netnews.upenn.edu!central.cis.upenn.edu Mon Nov 16 13:01:42 EST 1992
+Article: 3025 of upenn.cis.grad
+Path: netnews.upenn.edu!central.cis.upenn.edu
+From: elaine@central.cis.upenn.edu (Elaine Benedetto)
+Newsgroups: upenn.jobs.offered,upenn.cis.grad
+Subject: Ohio University - Faculty Position in Computer Science
+Message-ID: <97813@netnews.upenn.edu>
+Date: 16 Nov 92 15:52:35 GMT
+Sender: news@netnews.upenn.edu
+Followup-To: upenn.jobs.offered
+Distribution: upenn
+Organization: University of Pennsylvania
+Lines: 43
+Xref: netnews.upenn.edu upenn.jobs.offered:289 upenn.cis.grad:3025
+Nntp-Posting-Host: central.cis.upenn.edu
+From netnews.upenn.edu!central.cis.upenn.edu Mon Nov 16 15:29:28 EST 1992
+Article: 3027 of upenn.cis.grad
+Path: netnews.upenn.edu!central.cis.upenn.edu
+From: elaine@central.cis.upenn.edu (Elaine Benedetto)
+Newsgroups: upenn.jobs.offered,upenn.cis.grad
+Subject: Colorado State University - Faculty Positions
+Message-ID: <97871@netnews.upenn.edu>
+Date: 16 Nov 92 20:18:03 GMT
+Sender: news@netnews.upenn.edu
+Followup-To: upenn.jobs.offered
+Distribution: upenn
+Organization: University of Pennsylvania
+Lines: 48
+Xref: netnews.upenn.edu upenn.jobs.offered:290 upenn.cis.grad:3027
+Nntp-Posting-Host: central.cis.upenn.edu
+From netnews.upenn.edu!gradient.cis.upenn.edu Thu Nov 19 14:12:22 EST 1992
+Article: 3039 of upenn.cis.grad
+Path: netnews.upenn.edu!gradient.cis.upenn.edu
+From: khart@gradient.cis.upenn.edu (Kyle Hart)
+Newsgroups: upenn.cis.grad,upenn.cis.wpe
+Subject: A HomeBrewed GSB
+Message-ID: <98309@netnews.upenn.edu>
+Date: 19 Nov 92 02:42:46 GMT
+Sender: news@netnews.upenn.edu
+Followup-To: upenn.cis.grad
+Distribution: upenn
+Organization: University of Pennsylvania
+Lines: 31
+Xref: netnews.upenn.edu upenn.cis.grad:3039 upenn.cis.wpe:224
+Nntp-Posting-Host: gradient.cis.upenn.edu
+From netnews.upenn.edu!mjd Thu Nov 19 14:13:42 EST 1992
+Article: 3042 of upenn.cis.grad
+Path: netnews.upenn.edu!mjd
+From: mjd@saul.cis.upenn.edu (Mark-Jason Dominus)
+Newsgroups: upenn.cis.grad
+Subject: Re: Report on Faculty/Grad meetings from last week
+Message-ID: <MJD.92Nov19134426@saul.cis.upenn.edu>
+Date: 19 Nov 92 18:44:26 GMT
+References: <97950@netnews.upenn.edu> <MJD.92Nov17114753@saul.cis.upenn.edu>
+Sender: news@netnews.upenn.edu
+Reply-To: manager@gradient.cis.upenn.edu (207 Lab manager)
+Followup-To: upenn.cis.grad
+Distribution: upenn
+Organization: University of Pennsylvania
+Lines: 26
+Nntp-Posting-Host: saul.cis.upenn.edu
+In-reply-to: mjd@saul.cis.upenn.edu's message of 17 Nov 92 16:47:53 GMT
+From netnews.upenn.edu!grip.cis.upenn.edu!milos Tue Dec  1 19:31:44 EST 1992
+Article: 3072 of upenn.cis.grad
+Path: netnews.upenn.edu!grip.cis.upenn.edu!milos
+From: milos@grip.cis.upenn.edu (Milos Zefran)
+Newsgroups: upenn.cis.grad,upenn.cis.wpe
+Subject: GSB this THURSDAY at 5pm!
+Message-ID: <100013@netnews.upenn.edu>
+Date: 1 Dec 92 21:37:26 GMT
+Sender: news@netnews.upenn.edu
+Followup-To: upenn.cis.grad
+Organization: GRASP Lab
+Lines: 32
+Xref: netnews.upenn.edu upenn.cis.grad:3072 upenn.cis.wpe:227
+Nntp-Posting-Host: grip.cis.upenn.edu
+From netnews.upenn.edu!farid Mon Dec 21 16:10:03 EST 1992
+Article: 3109 of upenn.cis.grad
+Path: netnews.upenn.edu!farid
+From: farid@gradient.cis.upenn.edu (Hany Farid)
+Newsgroups: upenn.cis.grad
+Subject: office cleaning and painting
+Message-ID: <FARID.92Dec21080026@gradient.cis.upenn.edu>
+Date: 21 Dec 92 13:00:26 GMT
+Sender: news@netnews.upenn.edu
+Distribution: upenn
+Organization: /home/farid/.organization
+Lines: 24
+Nntp-Posting-Host: gradient.cis.upenn.edu
+From netnews.upenn.edu!central.cis.upenn.edu Mon Jan  4 23:46:18 EST 1993
+Article: 3117 of upenn.cis.grad
+Path: netnews.upenn.edu!central.cis.upenn.edu
+From: elaine@central.cis.upenn.edu (Elaine Benedetto)
+Newsgroups: upenn.jobs.offered,upenn.cis.grad
+Subject: Boston University - Chair Position
+Message-ID: <103676@netnews.upenn.edu>
+Date: 4 Jan 93 21:25:57 GMT
+Sender: news@netnews.upenn.edu
+Followup-To: upenn.jobs.offered
+Distribution: upenn
+Organization: University of Pennsylvania
+Lines: 42
+Xref: netnews.upenn.edu upenn.jobs.offered:324 upenn.cis.grad:3117
+Nntp-Posting-Host: central.cis.upenn.edu
+Keywords:Computer Science
+From netnews.upenn.edu!news Mon Jan 24 18:45:23 EST 1994
+Article: 7 of upenn.cis.cse110
+Path: netnews.upenn.edu!news
+From: josephr@linc.cis.upenn.edu (Joseph Rosenzweig)
+Newsgroups: upenn.cis.cse110
+Subject: PC lab (Moore 109) open all weekend
+Date: 23 Jan 1994 02:28:37 GMT
+Organization: University of Pennsylvania
+Lines: 8
+Distribution: upenn
+Message-ID: <2hsncl$9ug@netnews.upenn.edu>
+NNTP-Posting-Host: linc.cis.upenn.edu
+From netnews.upenn.edu!news Tue Feb 15 13:42:28 EST 1994
+Article: 18 of upenn.cis.cse110
+Path: netnews.upenn.edu!news
+From: josephr@linc.cis.upenn.edu (Joseph Rosenzweig)
+Newsgroups: upenn.cis.cse110
+Subject: Current cumulative class grades
+Date: 15 Feb 1994 00:07:55 GMT
+Organization: University of Pennsylvania
+Lines: 270
+Distribution: upenn
+Message-ID: <2jp3or$b6a@netnews.upenn.edu>
+NNTP-Posting-Host: linc.cis.upenn.edu
+From netnews.upenn.edu!news Tue Feb 15 13:42:47 EST 1994
+Article: 19 of upenn.cis.cse110
+Path: netnews.upenn.edu!news
+From: josephr@linc.cis.upenn.edu (Joseph Rosenzweig)
+Newsgroups: upenn.cis.cse110
+Subject: No homework assignment
+Date: 15 Feb 1994 01:32:44 GMT
+Organization: University of Pennsylvania
+Lines: 4
+Distribution: upenn
+Message-ID: <2jp8ns$h68@netnews.upenn.edu>
+NNTP-Posting-Host: linc.cis.upenn.edu
+From netnews.upenn.edu!news Sat Feb 19 15:29:33 EST 1994
+Article: 20 of upenn.cis.cse110
+Path: netnews.upenn.edu!news
+From: josephr@linc.cis.upenn.edu (Joseph Rosenzweig)
+Newsgroups: upenn.cis.cse110
+Subject: Homework Help Session February 21, 4 p.m.
+Date: 18 Feb 1994 18:52:41 GMT
+Organization: University of Pennsylvania
+Lines: 10
+Distribution: upenn
+Message-ID: <2k32pp$och@netnews.upenn.edu>
+NNTP-Posting-Host: linc.cis.upenn.edu
+From netnews.upenn.edu!news Sat Feb 19 21:07:54 EST 1994
+Article: 21 of upenn.cis.cse110
+Path: netnews.upenn.edu!news
+From: josephr@linc.cis.upenn.edu (Joseph Rosenzweig)
+Newsgroups: upenn.cis.cse110
+Subject: Quiz #2
+Date: 20 Feb 1994 01:20:16 GMT
+Organization: University of Pennsylvania
+Lines: 1
+Distribution: upenn
+Message-ID: <2k6dsg$p6v@netnews.upenn.edu>
+NNTP-Posting-Host: linc.cis.upenn.edu
+From netnews.upenn.edu!news Tue Feb 22 20:26:10 EST 1994
+Article: 22 of upenn.cis.cse110
+Path: netnews.upenn.edu!news
+From: josephr@linc.cis.upenn.edu (Joseph Rosenzweig)
+Newsgroups: upenn.cis.cse110
+Subject: Cumulative grades (updated)
+Date: 22 Feb 1994 21:35:50 GMT
+Organization: University of Pennsylvania
+Lines: 143
+Distribution: upenn
+Message-ID: <2kdtrm$o00@netnews.upenn.edu>
+NNTP-Posting-Host: linc.cis.upenn.edu
+From netnews.upenn.edu!news Fri Feb 25 14:33:35 EST 1994
+Article: 23 of upenn.cis.cse110
+Path: netnews.upenn.edu!news
+From: josephr@linc.cis.upenn.edu (Joseph Rosenzweig)
+Newsgroups: upenn.cis.cse110
+Subject: Tracing problem of midterm 1
+Date: 25 Feb 1994 00:48:26 GMT
+Organization: University of Pennsylvania
+Lines: 3
+Distribution: upenn
+Message-ID: <2kjhsq$l2@netnews.upenn.edu>
+NNTP-Posting-Host: linc.cis.upenn.edu
+From netnews.upenn.edu!news Tue Apr 12 22:07:08 EDT 1994
+Article: 41 of upenn.cis.cse110
+Path: netnews.upenn.edu!news
+From: josephr@linc.cis.upenn.edu (Joseph Rosenzweig)
+Newsgroups: upenn.cis.cse110
+Subject: Assignment 7 grading
+Date: 12 Apr 1994 06:08:33 GMT
+Organization: University of Pennsylvania
+Lines: 4
+Distribution: upenn
+Message-ID: <2oddt1$mm2@netnews.upenn.edu>
+NNTP-Posting-Host: linc.cis.upenn.edu
+From netnews.upenn.edu!news Tue Apr 19 17:58:26 EDT 1994
+Article: 42 of upenn.cis.cse110
+Path: netnews.upenn.edu!news
+From: josephr@linc.cis.upenn.edu (Joseph Rosenzweig)
+Newsgroups: upenn.cis.cse110
+Subject: Office Hours During Reading Days
+Date: 19 Apr 1994 18:30:53 GMT
+Organization: University of Pennsylvania
+Lines: 8
+Distribution: upenn
+Message-ID: <2p180t$sfa@netnews.upenn.edu>
+NNTP-Posting-Host: linc.cis.upenn.edu
+From netnews.upenn.edu!news Tue Apr 19 17:58:42 EDT 1994
+Article: 46 of upenn.cis.cse110
+Path: netnews.upenn.edu!news
+From: josephr@linc.cis.upenn.edu (Joseph Rosenzweig)
+Newsgroups: upenn.cis.cse110
+Subject: PC lab open 24 hours for CSE 110 students today
+Date: 19 Apr 1994 18:43:26 GMT
+Organization: University of Pennsylvania
+Lines: 6
+Distribution: upenn
+Message-ID: <2p18oe$5d@netnews.upenn.edu>
+NNTP-Posting-Host: linc.cis.upenn.edu
+From netnews.upenn.edu!eniac.seas.upenn.edu!kamberov Fri May 27 16:54:43 EDT 1994
+Article: 50 of upenn.cis.cse110
+Path: netnews.upenn.edu!eniac.seas.upenn.edu!kamberov
+From: kamberov@eniac.seas.upenn.edu (Gerda Kamberova )
+Newsgroups: upenn.cis.cse110
+Subject: Final Exam Results
+Date: 27 May 1994 17:59:47 GMT
+Organization: University of Pennsylvania
+Lines: 1
+Message-ID: <2s5cej$k61@netnews.upenn.edu>
+NNTP-Posting-Host: eniac.seas.upenn.edu
+X-Newsreader: TIN [version 1.2 PL2-upenn1.1]
+From netnews.upenn.edu!news Sat Jun 25 15:11:44 EDT 1994
+Article: 59 of upenn.cis.cse110
+Path: netnews.upenn.edu!news
+From: matthew@linc.cis.upenn.edu (Matthew Stone)
+Newsgroups: upenn.cis.cse110
+Subject: Grades
+Date: 25 Jun 1994 17:13:44 GMT
+Organization: University of Pennsylvania
+Lines: 35
+Distribution: upenn
+Message-ID: <2uhok8$2al@netnews.upenn.edu>
+NNTP-Posting-Host: linc.cis.upenn.edu
+From netnews.upenn.edu!news Mon Jul 11 16:00:44 EDT 1994
+Article: 60 of upenn.cis.cse110
+Path: netnews.upenn.edu!news
+From: matthew@linc.cis.upenn.edu (Matthew Stone)
+Newsgroups: upenn.cis.cse110
+Subject: Grade Update
+Date: 29 Jun 1994 18:54:54 GMT
+Organization: University of Pennsylvania
+Lines: 32
+Distribution: upenn
+Message-ID: <2usg1u$q4@netnews.upenn.edu>
+NNTP-Posting-Host: linc.cis.upenn.edu
+From netnews.upenn.edu!news Mon Jul 11 16:00:47 EDT 1994
+Article: 62 of upenn.cis.cse110
+Path: netnews.upenn.edu!news
+From: matthew@linc.cis.upenn.edu (Matthew Stone)
+Newsgroups: upenn.cis.cse110
+Subject: Final Grades for Summer 1
+Date: 5 Jul 1994 15:06:56 GMT
+Organization: University of Pennsylvania
+Lines: 25
+Distribution: upenn
+Message-ID: <2vbsug$2gs@netnews.upenn.edu>
+NNTP-Posting-Host: linc.cis.upenn.edu
+From netnews.upenn.edu!newsserver.jvnc.net!news.caren.net!usenet Thu Apr 13 21:43:11 EDT 1995
+Article: 46 of misc.transport.air-industry
+Path: netnews.upenn.edu!newsserver.jvnc.net!news.caren.net!usenet
+From: chuanga@wis.com (Andrew Chuang)
+Newsgroups: misc.transport.air-industry
+Subject: Re: American Cries Foul
+Date: 12 Apr 1995 21:58:20 GMT
+Organization: International Internet Association.
+Lines: 43
+Approved: hrose@kei.com
+Message-ID: <3mhids$rf3@kei.com>
+References: <3me81c$11d@kei.com> <3mgr89$rf3@kei.com>
+NNTP-Posting-Host: rocza.kei.com
+From netnews.upenn.edu!newsserver.jvnc.net!news.caren.net!news.join.ad.jp!wnoc-tyo-news!wnoc-sfc-news!venus.sun.com!cs.utexas.edu!convex!news.duke.edu!godot.cc.duq.edu!newsfeed.pitt.edu!gatech!swrinde!sgiblab!uhog.mit.edu!news.kei.com!usenet Thu Apr 13 21:45:18 EDT 1995
+Article: 47 of misc.transport.air-industry
+Path: netnews.upenn.edu!newsserver.jvnc.net!news.caren.net!news.join.ad.jp!wnoc-tyo-news!wnoc-sfc-news!venus.sun.com!cs.utexas.edu!convex!news.duke.edu!godot.cc.duq.edu!newsfeed.pitt.edu!gatech!swrinde!sgiblab!uhog.mit.edu!news.kei.com!usenet
+From: kls@ohare.Chicago.COM (Karl Swartz)
+Newsgroups: misc.transport.air-industry
+Subject: Re: Question on B-777-100
+Date: 12 Apr 1995 22:02:57 GMT
+Organization: Chicago Software Works, Menlo Park, California
+Lines: 57
+Approved: hrose@kei.com
+Message-ID: <3mhimh$rf3@kei.com>
+References: <3mgr05$rf3@kei.com>
+NNTP-Posting-Host: rocza.kei.com
+From netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!swrinde!sgiblab!rpal.rockwell.com
+Article: 48 of misc.transport.air-industry
+Path: netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!swrinde!sgiblab!rpal.rockwell.co
+From: rna@gsb-crown.Stanford.EDU (Robert Ashcroft)
+Newsgroups: misc.transport.air-industry
+Subject: Airport Rankings
+Date: 12 Apr 1995 15:43:23 -0700
+Organization: Stanford University, CA 94305, USA
+Lines: 45
+Approved: rna@gsb-pound.stanford.edu, m.t.a-i co-moderator
+Message-ID: <3mhl2b$7g4@gsb-crown.Stanford.EDU>
+Reply-To: rna@gsb-pound.stanford.edu
+NNTP-Posting-Host: gsb-crown.stanford.edu
+From netnews.upenn.edu!news.amherst.edu!news.mtholyoke.edu!uhog.mit.edu!bloom-beacon.mit.edu!hookup!news.moneng.mei.com!uwm.edu!cs.utexas.edu!news.sprintlink.net!uunet!in1.uu.net!ftpbox!news.acns.nwu.edu!lucky101.acns.nwu.edu!user Thu Apr 13 21:49:36 EDT 1995
+Article: 56 of misc.transport.air-industry
+Path: netnews.upenn.edu!news.amherst.edu!news.mtholyoke.edu!uhog.mit.edu!bloom-beacon.mit.edu!hookup!news.moneng.mei.com!uwm.edu!cs.utexas.edu!news.sprintlink.net!uunet!in1.uu.net!ftpbox!news.acns.nwu.edu!lucky101.acns.nwu.edu!user
+From: k-cuddeback@nwu.edu (Kevin M. Cuddeback )
+Newsgroups: misc.transport.air-industry
+Subject: Re: New DIA observations
+Date: Wed, 12 Apr 1995 19:44:11 -0500
+Organization: Kellogg Graduate School of Management
+Lines: 35
+Approved: k-cuddeback@nwu.edu
+Message-ID: <k-cuddeback-1204951944110001@lucky101.acns.nwu.edu>
+References: <3meauj$11d@kei.com> <3mf8pf$ha0@kei.com>
+NNTP-Posting-Host: lucky101.acns.nwu.edu
+From netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!swrinde!cs.utexas.edu!news.unt.edu!hermes.oc.com!news.kei.com!usenet Thu Apr 13 21:50:22 EDT 1995
+Article: 58 of misc.transport.air-industry
+Path: netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!swrinde!cs.utexas.edu!news.unt.edu!hermes.oc.com!news.kei.com!usenet
+From: tkliu@quads.uchicago.edu (tkliu)
+Newsgroups: misc.transport.air-industry
+Subject: Asian Airlines
+Date: 13 Apr 1995 16:27:01 GMT
+Organization: University of Chicago -- Academic Information Technologies
+Lines: 33
+Approved: hrose@kei.com
+Message-ID: <3mjjcl$2dv@kei.com>
+Reply-To: tkliu@midway.uchicago.edu
+NNTP-Posting-Host: rocza.kei.com
+From netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!howland.reston.ans.net!news.sprintlink.net!uunet!news.consultix.com!newshost.marcam.com!news.kei.com!usenet Thu Apr 13 21:51:43 EDT 1995
+Article: 64 of misc.transport.air-industry
+Path: netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!howland.reston.ans.net!news.sprintlink.net!uunet!news.consultix.com!newshost.marcam.com!news.kei.com!usenet
+From: geohull@ditell.com (George Hull)
+Newsgroups: misc.transport.air-industry
+Subject: Re: Headaches for airlines flying to Hawaii
+Date: 13 Apr 1995 18:30:11 GMT
+Organization: DirecTell L.C. - Park City, UT. - 1.801.647.0214
+Lines: 11
+Approved: hrose@kei.com
+Message-ID: <3mjqjj$76e@kei.com>
+References: <D6sE2C.CJ@news.hawaii.edu> <D6syEt.J1z@news.hawaii.edu> <3maem1$pha@gsb-crown.Stanford.EDU> <3mhsuf$e61@tuba.cit.cornell.edu> <3mi7nq$8ic@gsb-crown.Stanford.EDU>
+NNTP-Posting-Host: rocza.kei.com
+From netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!howland.reston.ans.net!news.sprintlink.net!uunet!news.consultix.com!newshost.marcam.com!news.kei.com!usenet Thu Apr 13 21:53:03 EDT 1995
+Article: 66 of misc.transport.air-industry
+Path: netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!howland.reston.ans.net!news.sprintlink.net!uunet!news.consultix.com!newshost.marcam.com!news.kei.com!usenet
+From: chuanga@indirect.com (Andrew Chuang)
+Newsgroups: misc.transport.air-industry
+Subject: Re: Asian Airlines
+Date: 13 Apr 1995 18:33:11 GMT
+Organization: International Internet Association.
+Lines: 50
+Approved: hrose@kei.com
+Message-ID: <3mjqp7$76e@kei.com>
+References: <3mjjcl$2dv@kei.com>
+NNTP-Posting-Host: rocza.kei.com
+From netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!howland.reston.ans.net!cs.utexas.edu!news.unt.edu!hermes.oc.com!news.kei.com!usenet Thu Apr 13 21:54:00 EDT 1995
+Article: 67 of misc.transport.air-industry
+Path: netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!howland.reston.ans.net!cs.utexas.edu!news.unt.edu!hermes.oc.com!news.kei.com!usenet
+From: avise@netcom.com (Albert Avery Vise)
+Newsgroups: misc.transport.air-industry
+Subject: Re: Financial health of USAir
+Date: 13 Apr 1995 18:34:08 GMT
+Organization: NETCOM On-line Communication Services (408 261-4700 guest)
+Lines: 62
+Approved: hrose@kei.com
+Message-ID: <3mjqr0$76e@kei.com>
+References: <3me781$11d@kei.com> <3mf91j$ha0@kei.com> <3mh9kb$pc5@nntp.Stanford.EDU>
+NNTP-Posting-Host: rocza.kei.com
+From netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!howland.reston.ans.net!news.sprintlink.net!uunet!news.consultix.com!newshost.marcam.com!news.kei.com!usenet Thu Apr 13 21:54:53 EDT 1995
+Article: 70 of misc.transport.air-industry
+Path: netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!howland.reston.ans.net!news.sprintlink.net!uunet!news.consultix.com!newshost.marcam.com!news.kei.com!usenet
+From: kls@ohare.Chicago.COM (Karl Swartz)
+Newsgroups: misc.transport.air-industry
+Subject: Re: American Cries Foul
+Date: 13 Apr 1995 20:33:51 GMT
+Organization: Chicago Software Works, Menlo Park, California
+Lines: 23
+Approved: hrose@kei.com
+Message-ID: <3mk1rf$76e@kei.com>
+References: <3me81c$11d@kei.com> <3mf8jp$ha0@kei.com>
+NNTP-Posting-Host: rocza.kei.com
+From netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!howland.reston.ans.net!cs.utexas.edu!news.sprintlink.net!uunet!news.consultix.com!newshost.marcam.com!news.kei.com!usenet Thu Apr 13 21:55:34 EDT 1995
+Article: 71 of misc.transport.air-industry
+Path: netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!howland.reston.ans.net!cs.utexas.edu!news.sprintlink.net!uunet!news.consultix.com!newshost.marcam.com!news.kei.com!usenet
+From: kls@ohare.Chicago.COM (Karl Swartz)
+Newsgroups: misc.transport.air-industry
+Subject: Re: American Cries Foul
+Date: 13 Apr 1995 20:35:29 GMT
+Organization: Chicago Software Works, Menlo Park, California
+Lines: 39
+Approved: hrose@kei.com
+Message-ID: <3mk1uh$76e@kei.com>
+References: <3me81c$11d@kei.com> <3mgr89$rf3@kei.com> <3mhids$rf3@kei.com>
+NNTP-Posting-Host: rocza.kei.com
+From netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!howland.reston.ans.net!pipex!uunet!news.consultix.com!newshost.marcam.com!news.kei.com!usenet Thu Apr 13 21:56:27 EDT 1995
+Article: 73 of misc.transport.air-industry
+Path: netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!howland.reston.ans.net!pipex!uunet!news.consultix.com!newshost.marcam.com!news.kei.com!usenet
+From: showie@uoguelph.ca (Steve Howie)
+Newsgroups: misc.transport.air-industry
+Subject: Re: [WANTED] Info about Air Canada
+Date: 13 Apr 1995 20:37:43 GMT
+Organization: Aunt Sengas Mealie Puddin' Factory
+Lines: 38
+Approved: hrose@kei.com
+Message-ID: <3mk22n$76e@kei.com>
+References: <3mjkf0$2dv@kei.com>
+Reply-To: scotty@compcen.ccs.uoguelph.ca
+NNTP-Posting-Host: rocza.kei.com
+From netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!howland.reston.ans.net!news.sprintlink.net!uunet!imagen!rpal.rockwell.com!news.Stanford.EDU!not-for-mail Thu Apr 13 21:59:04 EDT 1995
+Article: 80 of misc.transport.air-industry
+Path: netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!howland.reston.ans.net!news.sprintlink.net!uunet!imagen!rpal.rockwell.com!news.Stanford.EDU!not-for-mail
+From: rna@gsb-crown.Stanford.EDU (Robert Ashcroft)
+Newsgroups: misc.transport.air-industry
+Subject: Re: Comments on AA,WN, DIA
+Date: 13 Apr 1995 15:46:37 -0700
+Organization: Stanford University, CA 94305, USA
+Lines: 61
+Approved: rna@gsb-pound.stanford.edu
+Message-ID: <3mk9kd$bkp@gsb-crown.Stanford.EDU>
+References: <3mh2rf$rf3@kei.com>
+Reply-To: rna@gsb-pound.stanford.edu
+NNTP-Posting-Host: gsb-crown.stanford.edu
+Keywords: air
+From netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!howland.reston.ans.net!vixen.cso.uiuc.edu!news.ecn.bgu.edu!movietone.ils.nwu.edu!news.acns.nwu.edu!mac140.tpc.nwu.edu!user Thu Apr 13 21:59:44 EDT 1995
+Article: 82 of misc.transport.air-industry
+Path: netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!howland.reston.ans.net!vixen.cso.uiuc.edu!news.ecn.bgu.edu!movietone.ils.nwu.edu!news.acns.nwu.edu!mac140.tpc.nwu.edu!user
+From: k-cuddeback@nwu.edu (Kevin Cuddeback)
+Newsgroups: misc.transport.air-industry
+Subject: Re: Airports under construction
+Date: Thu, 13 Apr 1995 15:44:55 +0000
+Organization: Kellogg Graduate School of Management
+Lines: 42
+Approved: k-cuddeback@nwu.edu
+Message-ID: <k-cuddeback-1304951544550001@mac140.tpc.nwu.edu>
+References: <3mgrhs$rf3@kei.com>
+NNTP-Posting-Host: mac140.tpc.nwu.edu
+From netnews.upenn.edu!dsinc!newsfeed.pitt.edu!godot.cc.duq.edu!ddsw1!news.kei.com!usenet Fri Apr 14 03:56:14 EDT 1995
+Article: 84 of misc.transport.air-industry
+Path: netnews.upenn.edu!dsinc!newsfeed.pitt.edu!godot.cc.duq.edu!ddsw1!news.kei.com!usenet
+From: n8541554@beaker.cc.wwu.edu (Eric Wall)
+Newsgroups: misc.transport.air-industry
+Subject: Re: Question on B-777-100
+Date: 14 Apr 1995 01:22:05 GMT
+Organization: Western Washington University
+Lines: 29
+Approved: hrose@kei.com
+Message-ID: <3mkint$hv2@kei.com>
+References: <3mgr05$rf3@kei.com>
+NNTP-Posting-Host: rocza.kei.com
+From netnews.upenn.edu!dsinc!newsfeed.pitt.edu!godot.cc.duq.edu!ddsw1!news.kei.com!usenet Fri Apr 14 03:57:52 EDT 1995
+Article: 85 of misc.transport.air-industry
+Path: netnews.upenn.edu!dsinc!newsfeed.pitt.edu!godot.cc.duq.edu!ddsw1!news.kei.com!usenet
+From: bashir@cats.ucsc.edu (Bryan E. Esquire)
+Newsgroups: misc.transport.air-industry
+Subject: Re: Asian Airlines
+Date: 14 Apr 1995 01:26:50 GMT
+Organization: University of California; Santa Cruz
+Lines: 63
+Approved: hrose@kei.com
+Message-ID: <3mkj0q$hv2@kei.com>
+References: <3mjjcl$2dv@kei.com>
+NNTP-Posting-Host: rocza.kei.com
+From netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!swrinde!hookup!uwm.edu!lll-winken.llnl.gov!fnnews.fnal.gov!unixhub!news.Stanford.EDU!csd-d-2.Stanford.EDU!singhal Sun Apr 16 03:53:23 EDT 1995
+Article: 89 of misc.transport.air-industry
+Path: netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!swrinde!hookup!uwm.edu!lll-winken.llnl.gov!fnnews.fnal.gov!unixhub!news.Stanford.EDU!csd-d-2.Stanford.EDU!singhal
+From: singhal@csd-d-2.Stanford.EDU (Sandeep Singhal)
+Newsgroups: misc.transport.air-industry
+Subject: Baltimore (was Re: Financial health of USAir)
+Date: 14 Apr 1995 08:20:19 GMT
+Organization: Computer Science Department, Stanford University, CA USA.
+Lines: 49
+Approved: Sandeep K. Singhal (singhal@cs.stanford.edu) m-t-ai co-moderator
+Message-ID: <3mlb83$o15@nntp.Stanford.EDU>
+References: <3me781$11d@kei.com> <3mf91j$ha0@kei.com> <3mh9kb$pc5@nntp.Stanford.EDU> <3mjqr0$76e@kei.com>
+NNTP-Posting-Host: csd-d-2.stanford.edu
+From netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!swrinde!hookup!solaris.cc.vt.edu!insosf1.infonet.net!newshost.marcam.com!news.kei.com!usenet Sun Apr 16 03:55:24 EDT 1995
+Article: 95 of misc.transport.air-industry
+Path: netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!swrinde!hookup!solaris.cc.vt.edu!insosf1.infonet.net!newshost.marcam.com!news.kei.com!usenet
+From: M.J.Jennings@amtp.cam.ac.uk (Michael Jennings)
+Newsgroups: misc.transport.air-industry
+Subject: Re: Question on B-777-100
+Date: 14 Apr 1995 21:57:56 GMT
+Organization: University of Cambridge DAMTP
+Lines: 53
+Approved: hrose@kei.com
+Message-ID: <3mmr54$7tg@kei.com>
+References: <3mgr05$rf3@kei.com> <3mkint$hv2@kei.com>
+NNTP-Posting-Host: rocza.kei.com
+From netnews.upenn.edu!dsinc!newsfeed.pitt.edu!toads.pgh.pa.us!hudson.lm.com!news.pop.p
+su.edu!psuvax1!news.ecn.bgu.edu!movietone.ils.nwu.edu!news.acns.nwu.edu!lucky139.acns.n
+wu.edu!user Sun Apr 16 04:04:57 EDT 1995
+Article: 111 of misc.transport.air-industry
+Path: netnews.upenn.edu!dsinc!newsfeed.pitt.edu!toads.pgh.pa.us!hudson.lm.com!news.pop.
+psu.edu!psuvax1!news.ecn.bgu.edu!movietone.ils.nwu.edu!news.acns.nwu.edu!lucky139.acns.
+nwu.edu!user
+From: k-cuddeback@nwu.edu (Kevin M. Cuddeback )
+Newsgroups: misc.transport.air-industry
+Subject: UA Shuttle: Magary's thoughts
+Date: Sat, 15 Apr 1995 12:44:42 -0500
+Organization: Kellogg Graduate School of Management
+Lines: 100
+Approved: k-cuddeback@nwu.edu
+Message-ID: <k-cuddeback-1504951244420001@lucky139.acns.nwu.edu>
+NNTP-Posting-Host: lucky116.acns.nwu.edu
+From netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!psuvax1!news.ecn.bgu.edu!movietone.ils.nwu.edu!news.acns.nwu.edu!lucky139.acns.nwu.edu!user Sun Apr 16 04:06:37 EDT 1995
+Article: 112 of misc.transport.air-industry
+Path: netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!psuvax1!news.ecn.bgu.edu!movietone.ils.nwu.edu!news.acns.nwu.edu!lucky139.acns.nwu.edu!user
+From: k-cuddeback@nwu.edu (Kevin M. Cuddeback )
+Newsgroups: misc.transport.air-industry
+Subject: UA's Magary & WN's One-stops
+Date: Sat, 15 Apr 1995 13:03:27 -0500
+Organization: Kellogg Graduate School of Management
+Lines: 32
+Approved: k-cuddeback@nwu.edu
+Message-ID: <k-cuddeback-1504951303270001@lucky139.acns.nwu.edu>
+NNTP-Posting-Host: lucky116.acns.nwu.edu
+From netnews.upenn.edu!rutgers!gatech!news-feed-1.peachnet.edu!hobbes.cc.uga.edu!cssun.mathcs.emory.edu!cs.utk.edu!stc06.ctd.ornl.gov!fnnews.fnal.gov!unixhub!ditka!bounce-back Sun Apr 16 04:07:55 EDT 1995
+Article: 113 of misc.transport.air-industry
+Newsgroups: sci.aeronautics.airliners,misc.transport.air-industry
+Path: netnews.upenn.edu!rutgers!gatech!news-feed-1.peachnet.edu!hobbes.cc.uga.edu!cssun.mathcs.emory.edu!cs.utk.edu!stc06.ctd.ornl.gov!fnnews.fnal.gov!unixhub!ditka!bounce-back
+From: chuanga@indirect.com (Andrew Chuang)
+Subject: Aircraft Order Update (April 11, 95)
+Message-ID: <airliners.1995.439@ohare.Chicago.COM>
+Approved: kls@ohare.Chicago.COM
+Organization: International Internet Association.
+Sender: kls@ohare.Chicago.COM
+Date: 15 Apr 95 11:38:23
+Lines: 43
+Xref: netnews.upenn.edu sci.aeronautics.airliners:2464 misc.transport.air-industry:113
+From netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!swrinde!sgiblab!rpal.rockwell.com!news.Stanford.EDU!not-for-mail Sun Apr 16 04:09:15 EDT 1995
+Article: 114 of misc.transport.air-industry
+Path: netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!swrinde!sgiblab!rpal.rockwell.com!news.Stanford.EDU!not-for-mail
+From: rna@gsb-crown.Stanford.EDU (Robert Ashcroft)
+Newsgroups: misc.transport.air-industry
+Subject: Re: UA's Magary & WN's One-stops
+Date: 15 Apr 1995 13:28:59 -0700
+Organization: Stanford University, CA 94305, USA
+Lines: 53
+Approved: rna@gsb-pound.stanford.edu
+Message-ID: <3mpaab$iq1@gsb-crown.Stanford.EDU>
+References: <k-cuddeback-1504951303270001@lucky139.acns.nwu.edu>
+Reply-To: rna@gsb-pound.stanford.edu
+NNTP-Posting-Host: gsb-crown.stanford.edu
+From netnews.upenn.edu!newsserver.jvnc.net!news.cac.psu.edu!news.pop.psu.edu!psuvax1!uwm.edu!hookup!news.umbc.edu!eff!news.kei.com!usenet Sun Apr 16 04:09:48 EDT 1995
+Article: 115 of misc.transport.air-industry
+Path: netnews.upenn.edu!newsserver.jvnc.net!news.cac.psu.edu!news.pop.psu.edu!psuvax1!uwm.edu!hookup!news.umbc.edu!eff!news.kei.com!usenet
+From: chuanga@wis.com (Andrew Chuang)
+Newsgroups: misc.transport.air-industry
+Subject: Re: American Cries Foul
+Date: 15 Apr 1995 23:41:32 GMT
+Organization: International Internet Association.
+Lines: 35
+Approved: hrose@kei.com
+Message-ID: <3mpljd$4r8@kei.com>
+References: <3me81c$11d@kei.com> <3mgr89$rf3@kei.com> <3mhids$rf3@kei.com> <3mk1uh$76e@kei.com>
+NNTP-Posting-Host: rocza.kei.com
+From netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!swrinde!hookup!news.umbc.edu!eff!news.kei.com!usenet Sun Apr 16 04:11:54 EDT 1995
+Article: 117 of misc.transport.air-industry
+Path: netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!swrinde!hookup!news.umbc.edu!eff!news.kei.com!usenet
+From: margrett@alpha2.csd.uwm.edu (Gregory D Margrett)
+Newsgroups: misc.transport.air-industry
+Subject: WestPac, Frontier
+Date: 15 Apr 1995 23:47:21 GMT
+Organization: Information & Media Technologies, University of Wisconsin - Milwaukee
+Lines: 46
+Approved: hrose@kei.com
+Message-ID: <3mplu9$4r8@kei.com>
+References: <3mn1pm$h5m@gsb-crown.Stanford.EDU>
+NNTP-Posting-Host: rocza.kei.com
+From netnews.upenn.edu!newsserver.jvnc.net!news.cac.psu.edu!news.tc.cornell.edu!travelers.mail.cornell.edu!news.kei.com!usenet Sun Apr 16 04:12:24 EDT 1995
+Article: 118 of misc.transport.air-industry
+Path: netnews.upenn.edu!newsserver.jvnc.net!news.cac.psu.edu!news.tc.cornell.edu!travelers.mail.cornell.edu!news.kei.com!usenet
+From: afs_rnd@iaccess.za
+Newsgroups: misc.transport.air-industry
+Subject: Re: Airports under construction
+Date: 15 Apr 1995 23:58:55 GMT
+Organization: Internet Africa
+Lines: 14
+Approved: hrose@kei.com
+Message-ID: <3mpmjv$4r8@kei.com>
+References: <3mgrhs$rf3@kei.com> <k-cuddeback-1304951544550001@mac140.tpc.nwu.edu> <3mmsp5$7tg@kei.com>
+NNTP-Posting-Host: rocza.kei.com
+From netnews.upenn.edu!newsserver.jvnc.net!news.cac.psu.edu!news.pop.psu.edu!psuvax1!news.ecn.bgu.edu!vixen.cso.uiuc.edu!uwm.edu!cs.utexas.edu!news.unt.edu!hermes.oc.com!news.kei.com!usenet Sun Apr 16 04:15:06 EDT 1995
+Article: 122 of misc.transport.air-industry
+Path: netnews.upenn.edu!newsserver.jvnc.net!news.cac.psu.edu!news.pop.psu.edu!psuvax1!news.ecn.bgu.edu!vixen.cso.uiuc.edu!uwm.edu!cs.utexas.edu!news.unt.edu!hermes.oc.com!news.kei.com!usenet
+From: renegade@uclink.berkeley.edu (Henry Ys Wong)
+Newsgroups: misc.transport.air-industry
+Subject: Re: Asian Airlines
+Date: 16 Apr 1995 00:04:23 GMT
+Organization: University of California
+Lines: 89
+Approved: hrose@kei.com
+Message-ID: <3mpmu7$4r8@kei.com>
+References: <3mjjcl$2dv@kei.com> <3mkj0q$hv2@kei.com>
+NNTP-Posting-Host: rocza.kei.com
+From netnews.upenn.edu!newsserver.jvnc.net!news.cac.psu.edu!news.pop.psu.edu!psuvax1!news.ecn.bgu.edu!news.moneng.mei.com!hookup!swrinde!gatech!bloom-beacon.mit.edu!news.kei.com!usenet Sun Apr 16 04:27:04 EDT 1995
+Article: 132 of misc.transport.air-industry
+Path: netnews.upenn.edu!newsserver.jvnc.net!news.cac.psu.edu!news.pop.psu.edu!psuvax1!news.ecn.bgu.edu!news.moneng.mei.com!hookup!swrinde!gatech!bloom-beacon.mit.edu!news.kei.com!usenet
+From: olesen@metronet.com (Eric Olesen)
+Newsgroups: misc.transport.air-industry
+Subject: Re: American Cries Foul
+Date: 16 Apr 1995 03:40:40 GMT
+Organization: Texas Metronet, Inc  (login info (214/705-2901 - 817/571-0400))
+Lines: 62
+Approved: hrose@kei.com
+Message-ID: <3mq3jo$aro@kei.com>
+References: <3me81c$11d@kei.com>
+NNTP-Posting-Host: rocza.kei.com
+From netnews.upenn.edu!newsserver.jvnc.net!news.cac.psu.edu!news.pop.psu.edu!hudson.lm.com!newsfeed.pitt.edu!gatech!bloom-beacon.mit.edu!news.kei.com!usenet Sun Apr 16 04:28:28 EDT 1995
+Article: 133 of misc.transport.air-industry
+Path: netnews.upenn.edu!newsserver.jvnc.net!news.cac.psu.edu!news.pop.psu.edu!hudson.lm.com!newsfeed.pitt.edu!gatech!bloom-beacon.mit.edu!news.kei.com!usenet
+From: kls@ohare.Chicago.COM (Karl Swartz)
+Newsgroups: misc.transport.air-industry
+Subject: Re: Federal Express (largest Airline?)
+Date: 16 Apr 1995 03:41:41 GMT
+Organization: Chicago Software Works, Menlo Park, California
+Lines: 43
+Approved: hrose@kei.com
+Message-ID: <3mq3ll$aro@kei.com>
+References: <3mjj6v$2dv@kei.com>
+NNTP-Posting-Host: rocza.kei.com
+From netnews.upenn.edu!newsserver.jvnc.net!news.cac.psu.edu!news.pop.psu.edu!hudson.lm.com!newsfeed.pitt.edu!gatech!bloom-beacon.mit.edu!news.kei.com!usenet Sun Apr 16 04:32:56 EDT 1995
+Article: 134 of misc.transport.air-industry
+Path: netnews.upenn.edu!newsserver.jvnc.net!news.cac.psu.edu!news.pop.psu.edu!hudson.lm.com!newsfeed.pitt.edu!gatech!bloom-beacon.mit.edu!news.kei.com!usenet
+From: kls@ohare.Chicago.COM (Karl Swartz)
+Newsgroups: misc.transport.air-industry
+Subject: United fleet expansion
+Date: 16 Apr 1995 03:43:18 GMT
+Organization: Chicago Software Works, Menlo Park, California
+Lines: 82
+Approved: hrose@kei.com
+Message-ID: <3mq3om$aro@kei.com>
+NNTP-Posting-Host: rocza.kei.com
+From netnews.upenn.edu!newsserver.jvnc.net!news.cac.psu.edu!news.pop.psu.edu!psuvax1!uwm.edu!cs.utexas.edu!swrinde!gatech!bloom-beacon.mit.edu!news.kei.com!usenet Sun Apr 16 04:34:27 EDT 1995
+Article: 135 of misc.transport.air-industry
+Path: netnews.upenn.edu!newsserver.jvnc.net!news.cac.psu.edu!news.pop.psu.edu!psuvax1!uwm.edu!cs.utexas.edu!swrinde!gatech!bloom-beacon.mit.edu!news.kei.com!usenet
+From: olesen@metronet.com (Eric Olesen)
+Newsgroups: misc.transport.air-industry
+Subject: Re: Southwest anomalies
+Date: 16 Apr 1995 03:46:58 GMT
+Organization: Texas Metronet, Inc  (login info (214/705-2901 - 817/571-0400))
+Lines: 27
+Approved: hrose@kei.com
+Message-ID: <3mq3vi$aro@kei.com>
+References: <3me8bv$11d@kei.com>
+NNTP-Posting-Host: rocza.kei.com
+From netnews.upenn.edu!newsserver.jvnc.net!news.cac.psu.edu!news.pop.psu.edu!psuvax1!news.ecn.bgu.edu!news.moneng.mei.com!hookup!swrinde!gatech!bloom-beacon.mit.edu!news.kei.com!usenet Sun Apr 16 04:35:25 EDT 1995
+Article: 137 of misc.transport.air-industry
+Path: netnews.upenn.edu!newsserver.jvnc.net!news.cac.psu.edu!news.pop.psu.edu!psuvax1!news.ecn.bgu.edu!news.moneng.mei.com!hookup!swrinde!gatech!bloom-beacon.mit.edu!news.kei.com!usenet
+From: mps1@cec.wustl.edu (Mihir Pramod Shah)
+Newsgroups: misc.transport.air-industry
+Subject: Re: Asian Airlines
+Date: 16 Apr 1995 03:48:59 GMT
+Organization: Washington University, St. Louis MO
+Lines: 46
+Approved: hrose@kei.com
+Message-ID: <3mq43b$aro@kei.com>
+References: <3mjjcl$2dv@kei.com> <3mjqp7$76e@kei.com> <3mpn4o$4r8@kei.com>
+NNTP-Posting-Host: rocza.kei.com
+From netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!news-feed-1.peachnet.edu!news.netins.net!newshost.marcam.com!news.consultix.com!news.kei.com!usenet Fri Apr 21 01:43:32 EDT 1995
+Article: 268 of misc.transport.air-industry
+Path: netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!news-feed-1.peachnet.edu!news.netins.net!newshost.marcam.com!news.consultix.com!news.kei.com!usenet
+From: kmeyer@aero.org (Kraig R. Meyer)
+Newsgroups: misc.transport.air-industry
+Subject: LAX terminals (was Re: Southwest anomalies)
+Date: 20 Apr 1995 20:12:11 GMT
+Organization: Trusted Computer Systems Dept., The Aerospace Corporation
+Lines: 23
+Approved: hrose@kei.com
+Message-ID: <3n6f6r$epa@kei.com>
+References: <3me8bv$11d@kei.com> <3mq3vi$aro@kei.com> <3n227e$969@kei.com>
+NNTP-Posting-Host: rocza.kei.com
+In-reply-to: saweiss@bu.edu's message of 19 Apr 1995 04:06:06 GMT
+Newsgroups: misc.transport.air-industry
+Subject: Re: American Cries Foul
+Date: 17 Apr 1995 19:22:40 GMT
+Organization: Texas Metronet, Inc  (login info (214/705-2901 - 817/571-0400))
+Lines: 22
+Approved: hrose@kei.com
+Message-ID: <3muf60$fqu@kei.com>
+References: <3me81c$11d@kei.com> <3mq3jo$aro@kei.com> <3mqk62$jhg@gsb-crown.Stanford.EDU>
+NNTP-Posting-Host: rocza.kei.com
+From netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!swrinde!cs.utexas.edu!uunet!news.consultix.com!newshost.marcam.com!news.kei.com!usenet Fri Apr 21 01:48:24 EDT 1995
+Article: 210 of misc.transport.air-industry
+Path: netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!swrinde!cs.utexas.edu!uunet!news.consultix.com!newshost.marcam.com!news.kei.com!usenet
+From: saweiss@bu.edu (Scott Weiss)
+Newsgroups: misc.transport.air-industry
+Subject: Re: Southwest anomalies
+Date: 19 Apr 1995 04:06:06 GMT
+Organization: Boston University
+Lines: 32
+Approved: hrose@kei.com
+Message-ID: <3n227e$969@kei.com>
+References: <3me8bv$11d@kei.com> <3mq3vi$aro@kei.com>
+NNTP-Posting-Host: rocza.kei.com
+From netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!howland.reston.ans.net!Germany.EU.net!EU.net!uunet!newshost.marcam.com!news.kei.com!usenet Fri Apr 21 01:49:41 EDT 1995
+Article: 183 of misc.transport.air-industry
+Path: netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!howland.reston.ans.net!Germany.EU.net!EU.net!uunet!newshost.marcam.com!news.kei.com!usenet
+From: rna@GSB-Pound.Stanford.EDU (Robert Ashcroft)
+Newsgroups: misc.transport.air-industry
+Subject: Re: Should Chapter 11 Carriers Fly Forever?
+Date: 18 Apr 1995 19:15:50 GMT
+Organization: Stanford University, CA 94305, USA
+Lines: 43
+Approved: hrose@kei.com
+Message-ID: <3n1356$fot@kei.com>
+References: <3mugju$fqu@kei.com>
+Reply-To: rna@GSB-Pound.Stanford.EDU
+NNTP-Posting-Host: rocza.kei.com
+From netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!swrinde!cs.utexas.edu!news.unt.edu!hermes.oc.com!news.kei.com!usenet Fri Apr 21 01:51:18 EDT 1995
+Article: 184 of misc.transport.air-industry
+Path: netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!swrinde!cs.utexas.edu!news.unt.edu!hermes.oc.com!news.kei.com!usenet
+From: dwl@panix.com (David W. Levine)
+Newsgroups: misc.transport.air-industry
+Subject: Re: Should Chapter 11 Carriers Fly Forever?
+Date: 18 Apr 1995 19:28:20 GMT
+Organization: PANIX Public Access Internet and Unix, NYC
+Lines: 83
+Approved: hrose@kei.com
+Message-ID: <3n13sk$fot@kei.com>
+References: <3mugju$fqu@kei.com>
+NNTP-Posting-Host: rocza.kei.com
+From netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!swrinde!cs.utexas.edu!news.unt.edu!hermes.oc.com!news.kei.com!usenet Fri Apr 21 01:51:58 EDT 1995
+Article: 186 of misc.transport.air-industry
+Path: netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!swrinde!cs.utexas.edu!news.unt.edu!hermes.oc.com!news.kei.com!usenet
+From: Fred Christiansen <fredch@usr1.primenet.com>
+Newsgroups: misc.transport.air-industry
+Subject: Denver, WN, and lower-fare service
+Date: 18 Apr 1995 19:33:05 GMT
+Organization: Primenet
+Lines: 14
+Approved: hrose@kei.com
+Message-ID: <3n145h$fot@kei.com>
+NNTP-Posting-Host: rocza.kei.com
+From netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!swrinde!cs.utexas.edu!news.unt.edu!hermes.oc.com!news.kei.com!usenet Fri Apr 21 01:53:56 EDT 1995
+Article: 188 of misc.transport.air-industry
+Path: netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!swrinde!cs.utexas.edu!news.unt.edu!hermes.oc.com!news.kei.com!usenet
+From: margrett@alpha2.csd.uwm.edu (Gregory D Margrett)
+Newsgroups: misc.transport.air-industry
+Subject: Continental at Denver
+Date: 18 Apr 1995 19:41:13 GMT
+Organization: Information & Media Technologies, University of Wisconsin - Milwaukee
+Lines: 50
+Approved: hrose@kei.com
+Message-ID: <3n14kp$fot@kei.com>
+References: <3muno5$o9c@gsb-crown.Stanford.EDU>
+NNTP-Posting-Host: rocza.kei.com
+From netnews.upenn.edu!dsinc!newsfeed.pitt.edu!hudson.lm.com!news.pop.psu.edu!news.cac.psu.edu!news.tc.cornell.edu!travelers.mail.cornell.edu!news.kei.com!usenet Fri Apr 21 01:54:36 EDT 1995
+Article: 213 of misc.transport.air-industry
+Path: netnews.upenn.edu!dsinc!newsfeed.pitt.edu!hudson.lm.com!news.pop.psu.edu!news.cac.psu.edu!news.tc.cornell.edu!travelers.mail.cornell.edu!news.kei.com!usenet
+From: saskal@rintintin.Colorado.EDU (SASKAL  RICHARD TRNKOCZY)
+Newsgroups: misc.transport.air-industry
+Subject: Re: Continental at Denver
+Date: 19 Apr 1995 04:18:16 GMT
+Organization: University of Colorado at Boulder
+Lines: 13
+Approved: hrose@kei.com
+Message-ID: <3n22u8$969@kei.com>
+References: <3muno5$o9c@gsb-crown.Stanford.EDU> <3n14kp$fot@kei.com>
+NNTP-Posting-Host: rocza.kei.com
+From netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!howland.reston.ans.net!news.moneng.mei.com!news.ecn.bgu.edu!movietone.ils.nwu.edu!news.acns.nwu.edu!NewsWatcher!user Fri Apr 21 01:55:32 EDT 1995
+Article: 225 of misc.transport.air-industry
+Path: netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!howland.reston.ans.net!news.moneng.mei.com!news.ecn.bgu.edu!movietone.ils.nwu.edu!news.acns.nwu.edu!NewsWatcher!user
+From: k-cuddeback@nwu.edu (Kevin Cuddeback)
+Newsgroups: misc.transport.air-industry
+Subject: Re: Continental at Denver
+Date: Wed, 19 Apr 1995 15:14:57 -0500
+Organization: Kellogg Graduate School of Management
+Lines: 23
+Approved: k-cuddeback@nwu.edu
+Message-ID: <k-cuddeback-1904951514570001@129.105.9.113>
+References: <3muno5$o9c@gsb-crown.Stanford.EDU> <3n14kp$fot@kei.com> <3n22u8$969@kei.com>
+NNTP-Posting-Host: aragorn175.acns.nwu.edu
+From netnews.upenn.edu!newsserver.jvnc.net!news.cac.psu.edu!news.tc.cornell.edu!travelers.mail.cornell.edu!news.kei.com!usenet Fri Apr 21 01:58:29 EDT 1995
+Article: 247 of misc.transport.air-industry
+Path: netnews.upenn.edu!newsserver.jvnc.net!news.cac.psu.edu!news.tc.cornell.edu!travelers.mail.cornell.edu!news.kei.com!usenet
+From: ckd@loiosh.kei.com (Christopher Davis)
+Newsgroups: misc.transport.air-industry
+Subject: Re: Where is their hub?
+Date: 20 Apr 1995 04:55:46 GMT
+Organization: Pings 'R Us
+Lines: 61
+Approved: ckd@kei.com
+Message-ID: <3n4pgi$9fo@kei.com>
+References: <3n152u$fot@kei.com> <k-cuddeback-1904950121110001@129.105.9.113>
+NNTP-Posting-Host: loiosh.kei.com
+In-reply-to: k-cuddeback@nwu.edu's message of Wed, 19 Apr 1995 01:21:11 -0500
+X-Attribution: ckd
+From netnews.upenn.edu!newsserver.jvnc.net!news.cac.psu.edu!news.pop.psu.edu!hudson.lm.com!godot.cc.duq.edu!newsfeed.pitt.edu!gatech!swrinde!hookup!news.moneng.mei.com!news.ecn.bgu.edu!movietone.ils.nwu.edu!news.acns.nwu.edu!NewsWatcher!user Fri Apr 21 02:02:20 EDT 1995
+Article: 220 of misc.transport.air-industry
+Path: netnews.upenn.edu!newsserver.jvnc.net!news.cac.psu.edu!news.pop.psu.edu!hudson.lm.com!godot.cc.duq.edu!newsfeed.pitt.edu!gatech!swrinde!hookup!news.moneng.mei.com!news.ecn.bgu.edu!movietone.ils.nwu.edu!news.acns.nwu.edu!NewsWatcher!user
+From: k-cuddeback@nwu.edu (Kevin Cuddeback)
+Newsgroups: misc.transport.air-industry
+Subject: Re: Where is their hub?
+Date: Wed, 19 Apr 1995 01:21:11 -0500
+Organization: Kellogg Graduate School of Management
+Lines: 43
+Approved: k-cuddeback@nwu.edu
+Message-ID: <k-cuddeback-1904950121110001@129.105.9.113>
+References: <3n152u$fot@kei.com>
+NNTP-Posting-Host: aragorn184.acns.nwu.edu
+From netnews.upenn.edu!dsinc!newsfeed.pitt.edu!godot.cc.duq.edu!hudson.lm.com!news.pop.psu.edu!news.cac.psu.edu!news.tc.cornell.edu!travelers.mail.cornell.edu!news.kei.com!usenet Fri Apr 21 21:28:31 EDT 1995
+Article: 214 of misc.transport.air-industry
+Path: netnews.upenn.edu!dsinc!newsfeed.pitt.edu!godot.cc.duq.edu!hudson.lm.com!news.pop.psu.edu!news.cac.psu.edu!news.tc.cornell.edu!travelers.mail.cornell.edu!news.kei.com!usenet
+From: sgunders@UNIX.ATK.COM (Steve Gunderson)
+Newsgroups: misc.transport.air-industry
+Subject: Northwest costs
+Date: 19 Apr 1995 04:19:08 GMT
+Organization: Alliant Techsystems Inc.
+Lines: 51
+Approved: hrose@kei.com
+Message-ID: <3n22vs$969@kei.com>
+NNTP-Posting-Host: rocza.kei.com
+From netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!howland.reston.ans.net!news.sprintlink.net!sundog.tiac.net!news.kei.com!usenet Fri Apr 21 21:31:48 EDT 1995
+Article: 237 of misc.transport.air-industry
+Path: netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!howland.reston.ans.net!news.sprintlink.net!sundog.tiac.net!news.kei.com!usenet
+From: petercoe@netcom.com (Peter J. Coe)
+Newsgroups: misc.transport.air-industry
+Subject: Re: Gatwick Airport
+Date: 20 Apr 1995 01:04:20 GMT
+Organization: NETCOM On-line Communication Services (408 261-4700 guest)
+Lines: 27
+Approved: hrose@kei.com
+Message-ID: <3n4bul$h82@kei.com>
+References: <3n22d2$969@kei.com>
+NNTP-Posting-Host: rocza.kei.com
+From netnews.upenn.edu!msunews!uwm.edu!cs.utexas.edu!swrinde!sgiblab!rpal.rockwell.com!news.Stanford.EDU!not-for-mail Fri Apr 21 21:33:09 EDT 1995
+Article: 248 of misc.transport.air-industry
+Path: netnews.upenn.edu!msunews!uwm.edu!cs.utexas.edu!swrinde!sgiblab!rpal.rockwell.com!news.Stanford.EDU!not-for-mail
+From: rna@gsb-crown.Stanford.EDU (Robert Ashcroft)
+Newsgroups: misc.transport.air-industry
+Subject: NYC airports
+Date: 19 Apr 1995 22:02:23 -0700
+Organization: Stanford University, CA 94305, USA
+Lines: 30
+Approved: rna@gsb-pound.stanford.edu
+Message-ID: <3n4psv$2qc@gsb-crown.Stanford.EDU>
+References: <3n22d2$969@kei.com> <3n4bul$h82@kei.com>
+Reply-To: rna@gsb-pound.stanford.edu
+NNTP-Posting-Host: gsb-crown.stanford.edu
+From netnews.upenn.edu!news.cc.swarthmore.edu!psuvax1!news.pop.psu.edu!hudson.lm.com!newsfeed.pitt.edu!gatech!news-feed-1.peachnet.edu!news.netins.net!newshost.marcam.com!news.kei.com!usenet Fri Apr 21 21:35:15 EDT 1995
+Article: 256 of misc.transport.air-industry
+Path: netnews.upenn.edu!news.cc.swarthmore.edu!psuvax1!news.pop.psu.edu!hudson.lm.com!newsfeed.pitt.edu!gatech!news-feed-1.peachnet.edu!news.netins.net!newshost.marcam.com!news.kei.com!usenet
+From: rcluett@pomona.edu (POMPEIUS MAGNUS)
+Newsgroups: misc.transport.air-industry
+Subject: Re: NYC airports
+Date: 20 Apr 1995 16:56:10 GMT
+Organization: Pomona College
+Lines: 69
+Approved: hrose@kei.com
+Message-ID: <3n63na$epa@kei.com>
+References: <3n22d2$969@kei.com> <3n4bul$h82@kei.com>,<3n4psv$2qc@gsb-crown.Stanford.EDU>
+Reply-To: rcluett@pomona.edu
+NNTP-Posting-Host: rocza.kei.com
+From netnews.upenn.edu!dsinc!ub!news.kei.com!usenet Fri Apr 21 21:35:36 EDT 1995
+Article: 257 of misc.transport.air-industry
+Path: netnews.upenn.edu!dsinc!ub!news.kei.com!usenet
+From: mie@faline..bellcore.com (Martin I Eiger)
+Newsgroups: misc.transport.air-industry
+Subject: Re: NYC airports
+Date: 20 Apr 1995 17:07:14 GMT
+Organization: Bellcore MRE
+Lines: 20
+Approved: hrose@kei.com
+Message-ID: <3n64c2$epa@kei.com>
+References: <3n22d2$969@kei.com> <3n4bul$h82@kei.com> <3n4psv$2qc@gsb-crown.Stanford.EDU>
+NNTP-Posting-Host: rocza.kei.com
+From netnews.upenn.edu!dsinc!ub!news.kei.com!usenet Fri Apr 21 21:36:11 EDT 1995
+Article: 262 of misc.transport.air-industry
+Path: netnews.upenn.edu!dsinc!ub!news.kei.com!usenet
+From: spiel@larry.cc.emory.edu (Stephan Piel)
+Newsgroups: misc.transport.air-industry
+Subject: Re: NYC airports
+Date: 20 Apr 1995 17:34:28 GMT
+Organization: Emory University
+Lines: 27
+Approved: hrose@kei.com
+Message-ID: <3n65v4$epa@kei.com>
+References: <3n22d2$969@kei.com> <3n4bul$h82@kei.com> <3n4psv$2qc@gsb-crown.Stanford.EDU>
+NNTP-Posting-Host: rocza.kei.com
+From netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!news-feed-1.peachnet.edu!news.netins.net!newshost.marcam.com!news.kei.com!usenet Fri Apr 21 21:38:03 EDT 1995
+Article: 265 of misc.transport.air-industry
+Path: netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!news-feed-1.peachnet.edu!news.netins.net!newshost.marcam.com!news.kei.com!usenet
+From: jg2560@eehpx23.cen.uiuc.edu (John R. Grout)
+Newsgroups: misc.transport.air-industry
+Subject: Re: NYC airports
+Date: 20 Apr 1995 17:48:55 GMT
+Organization: U of I College of Engineering Workstations
+Lines: 17
+Approved: hrose@kei.com
+Message-ID: <3n66q7$epa@kei.com>
+References: <3n22d2$969@kei.com> <3n4bul$h82@kei.com>,<3n4psv$2qc@gsb-crown.Stanford.EDU> <3n63na$epa@kei.com>
+Reply-To: j-grout@uiuc.edu
+NNTP-Posting-Host: rocza.kei.com
+In-reply-to: rcluett@pomona.edu's message of 20 Apr 1995 16:56:10 GMT
+From netnews.upenn.edu!news.cc.swarthmore.edu!psuvax1!news.pop.psu.edu!hudson.lm.com!newsfeed.pitt.edu!gatech!news-feed-1.peachnet.edu!news.netins.net!newshost.marcam.com!news.kei.com!usenet Fri Apr 21 21:38:53 EDT 1995
+Article: 266 of misc.transport.air-industry
+Path: netnews.upenn.edu!news.cc.swarthmore.edu!psuvax1!news.pop.psu.edu!hudson.lm.com!newsfeed.pitt.edu!gatech!news-feed-1.peachnet.edu!news.netins.net!newshost.marcam.com!news.kei.com!usenet
+From: A.S.Brooke@loughborough.ac.uk (Andrew Brooke)
+Newsgroups: misc.transport.air-industry
+Subject: Re: Gatwick Airport
+Date: 20 Apr 1995 20:05:28 GMT
+Organization: Loughborough University, UK.
+Lines: 40
+Approved: hrose@kei.com
+Message-ID: <3n6eq9$epa@kei.com>
+References: <3n22d2$969@kei.com>
+NNTP-Posting-Host: rocza.kei.com
+From netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!swrinde!hookup!news.moneng.mei.com!news.ecn.bgu.edu!movietone.ils.nwu.edu!news.acns.nwu.edu!NewsWatcher!user Fri Apr 21 21:45:02 EDT 1995
+Article: 218 of misc.transport.air-industry
+Path: netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!swrinde!hookup!news.moneng.mei.com!news.ecn.bgu.edu!movietone.ils.nwu.edu!news.acns.nwu.edu!NewsWatcher!user
+From: k-cuddeback@nwu.edu (Kevin Cuddeback)
+Newsgroups: misc.transport.air-industry
+Subject: CO's Pacific (was AC/CO/HP and CALite)
+Date: Wed, 19 Apr 1995 00:38:48 -0500
+Organization: Kellogg Graduate School of Management
+Lines: 57
+Approved: k-cuddeback@nwu.edu
+Message-ID: <k-cuddeback-1904950038480001@129.105.9.113>
+References: <3n1798$fot@kei.com> <3n1ho3$rq5@gsb-crown.Stanford.EDU>
+NNTP-Posting-Host: aragorn184.acns.nwu.edu
+From netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!swrinde!sgiblab!rpal.rockwell.com!news.Stanford.EDU!not-for-mail Fri Apr 21 21:45:40 EDT 1995
+Article: 222 of misc.transport.air-industry
+Path: netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!swrinde!sgiblab!rpal.rockwell.com!news.Stanford.EDU!not-for-mail
+From: rna@status.Stanford.EDU (Robert Ashcroft)
+Newsgroups: misc.transport.air-industry
+Subject: Re: CO's Pacific (was AC/CO/HP and CALite)
+Date: 19 Apr 1995 00:48:32 -0700
+Organization: Stanford University, CA 94305, USA
+Lines: 35
+Approved: rna@gsb-pound.stanford.edu
+Message-ID: <3n2f8g$th@status.Stanford.EDU>
+References: <3n1798$fot@kei.com> <3n1ho3$rq5@gsb-crown.Stanford.EDU> <k-cuddeback-1904950038480001@129.105.9.113>
+Reply-To: rna@gsb-pound.stanford.edu
+NNTP-Posting-Host: status.stanford.edu
+From netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!swrinde!hookup!news.moneng.mei.com!news.ecn.bgu.edu!movietone.ils.nwu.edu!news.acns.nwu.edu!NewsWatcher!user Fri Apr 21 21:45:51 EDT 1995
+Article: 218 of misc.transport.air-industry
+Path: netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!swrinde!hookup!news.moneng.mei.com!news.ecn.bgu.edu!movietone.ils.nwu.edu!news.acns.nwu.edu!NewsWatcher!user
+From: k-cuddeback@nwu.edu (Kevin Cuddeback)
+Newsgroups: misc.transport.air-industry
+Subject: CO's Pacific (was AC/CO/HP and CALite)
+Date: Wed, 19 Apr 1995 00:38:48 -0500
+Organization: Kellogg Graduate School of Management
+Lines: 57
+Approved: k-cuddeback@nwu.edu
+Message-ID: <k-cuddeback-1904950038480001@129.105.9.113>
+References: <3n1798$fot@kei.com> <3n1ho3$rq5@gsb-crown.Stanford.EDU>
+NNTP-Posting-Host: aragorn184.acns.nwu.edu
+From netnews.upenn.edu!newsserver.jvnc.net!news.cac.psu.edu!news.pop.psu.edu!hudson.lm.com!godot.cc.duq.edu!newsfeed.pitt.edu!gatech!swrinde!sgiblab!uhog.mit.edu!news.kei.com!usenet Fri Apr 21 21:49:04 EDT 1995
+Article: 235 of misc.transport.air-industry
+Path: netnews.upenn.edu!newsserver.jvnc.net!news.cac.psu.edu!news.pop.psu.edu!hudson.lm.com!godot.cc.duq.edu!newsfeed.pitt.edu!gatech!swrinde!sgiblab!uhog.mit.edu!news.kei.com!usenet
+From: stone_l@eisner.decus.org (Larry Stone)
+Newsgroups: misc.transport.air-industry
+Subject: Re: non-stops that aren't (was Re: Asian Airlines)
+Date: 19 Apr 1995 23:40:15 GMT
+Organization: Digital Equipment Computer Users Society
+Lines: 30
+Approved: hrose@kei.com
+Message-ID: <3n470v$h82@kei.com>
+References: <3mjjcl$2dv@kei.com>
+NNTP-Posting-Host: rocza.kei.com
+From netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!news-feed-1.peachnet.edu!news.netins.net!newshost.marcam.com!news.kei.com!usenet Fri Apr 21 21:56:16 EDT 1995
+Article: 275 of misc.transport.air-industry
+Path: netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!news-feed-1.peachnet.edu!news.netins.net!newshost.marcam.com!news.kei.com!usenet
+From: Scott Weiss <saweiss@acs.bu.edu>
+Newsgroups: misc.transport.air-industry
+Subject: Newsweek Special Report on Air Safety
+Date: 21 Apr 1995 18:43:38 GMT
+Organization: Boston University
+Lines: 124
+Approved: hrose@kei.com
+Message-ID: <3n8ucq$fjo@kei.com>
+NNTP-Posting-Host: rocza.kei.com
+From netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!swrinde!sgiblab!uhog.mit.edu!news.kei.com!usenet Fri Apr 21 22:30:21 EDT 1995
+Article: 284 of misc.transport.air-industry
+Path: netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!swrinde!sgiblab!uhog.mit.edu!news.kei.com!usenet
+From: kls@ohare.Chicago.COM (Karl Swartz)
+Newsgroups: misc.transport.air-industry
+Subject: Re: United fleet expansion
+Date: 21 Apr 1995 19:55:49 GMT
+Organization: Chicago Software Works, Menlo Park, California
+Lines: 66
+Approved: hrose@kei.com
+Message-ID: <3n92k5$fjo@kei.com>
+References: <3mq3om$aro@kei.com> <3n47d5$h82@kei.com> <3n65e6$epa@kei.com>
+NNTP-Posting-Host: rocza.kei.com
+From netnews.upenn.edu!newsserver.jvnc.net!news.cac.psu.edu!news.tc.cornell.edu!travelers.mail.cornell.edu!news.kei.com!usenet Fri Apr 21 22:31:17 EDT 1995
+Article: 289 of misc.transport.air-industry
+Path: netnews.upenn.edu!newsserver.jvnc.net!news.cac.psu.edu!news.tc.cornell.edu!travelers.mail.cornell.edu!news.kei.com!usenet
+From: jg2560@ehsn8.cen.uiuc.edu (John R. Grout)
+Newsgroups: misc.transport.air-industry
+Subject: American Eagle cuts commuter flights to Nashville
+Date: 21 Apr 1995 20:07:10 GMT
+Organization: U of I College of Engineering Workstations
+Lines: 18
+Approved: hrose@kei.com
+Message-ID: <3n939e$fjo@kei.com>
+NNTP-Posting-Host: rocza.kei.com
+From: olesen@metronet.com (Eric Olesen)
+Newsgroups: misc.transport.air-industry
+Subject: Re: NYC airports
+Date: 24 Apr 1995 16:51:45 GMT
+Organization: Texas Metronet, Inc  (login info (214/705-2901 - 817/571-0400))
+Lines: 35
+Approved: hrose@kei.com
+Message-ID: <3ngkv1$69g@kragar.kei.com>
+References: <3n22d2$969@kei.com> <3n4bul$h82@kei.com> <3n4psv$2qc@gsb-crown.Stanford.EDU> <3n64c2$epa@kei.com>
+NNTP-Posting-Host: rocza.kei.com
+From netnews.upenn.edu!newsserver.jvnc.net!news.cac.psu.edu!news.pop.psu.edu!hudson.lm.com!godot.cc.duq.edu!news.duke.edu!news-feed-1.peachnet.edu!gatech!bloom-beacon.mit.edu!news.kei.com!usenet Wed Apr 26 00:40:08 EDT 1995
+Article: 329 of misc.transport.air-industry
+Path: netnews.upenn.edu!newsserver.jvnc.net!news.cac.psu.edu!news.pop.psu.edu!hudson.lm.com!godot.cc.duq.edu!news.duke.edu!news-feed-1.peachnet.edu!gatech!bloom-beacon.mit.edu!news.kei.com!usenet
+From: olesen@metronet.com (Eric Olesen)
+Newsgroups: misc.transport.air-industry
+Subject: Re: Demise of PE
+Date: 24 Apr 1995 16:50:42 GMT
+Organization: Texas Metronet, Inc  (login info (214/705-2901 - 817/571-0400))
+Lines: 81
+Approved: hrose@kei.com
+Message-ID: <3ngkt2$69g@kragar.kei.com>
+References: <3mk6tl$bf2@gsb-crown.Stanford.EDU> <k-cuddeback-1804950220560001@aragorn229.acns.nwu.edu> <3n01ff$q1a@gsb-crown.Stanford.EDU> <k-cuddeback-1804951431490001@aragorn181.acns.nwu.edu> <3n1fmq$rk2@gsb-crown.Stanford.EDU>
+NNTP-Posting-Host: rocza.kei.com
+From margrett@alpha2.csd.uwm.edu Wed Apr 26 16:24:11 EDT 1995
+Article: 384 of misc.transport.air-industry
+Path: netnews.upenn.edu!news.cc.swarthmore.edu!psuvax1!news.ecn.bgu.edu!vixen.cso.uiuc.edu!howland.reston.ans.net!swrinde!gatech!bloom-beacon.mit.edu!news.kei.com!usenet
+From: margrett@alpha2.csd.uwm.edu (Gregory D Margrett)
+Newsgroups: misc.transport.air-industry
+Subject: US hubs ranked
+Date: 26 Apr 1995 18:47:24 GMT
+Organization: Information & Media Technologies, University of Wisconsin - Milwaukee
+Lines: 91
+Approved: hrose@kei.com
+Message-ID: <3nm4fs$jt9@kragar.kei.com>
+NNTP-Posting-Host: rocza.kei.com
+From margrett@alpha2.csd.uwm.edu Wed Apr 26 16:42:23 EDT 1995
+Article: 386 of misc.transport.air-industry
+Path: netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!bloom-beacon.mit.edu!news.kei.co
+m!usenet
+From: margrett@alpha2.csd.uwm.edu (Gregory D Margrett)
+Newsgroups: misc.transport.air-industry
+Subject: re: so-called Airline Quality Ratings
+Date: 26 Apr 1995 18:51:58 GMT
+Organization: Information & Media Technologies, University of Wisconsin - Milwaukee
+Lines: 99
+Approved: hrose@kei.com
+Message-ID: <3nm4oe$jt9@kragar.kei.com>
+NNTP-Posting-Host: rocza.kei.com
+From alexandc10@aol.com Wed Apr 26 16:43:55 EDT 1995
+Article: 390 of misc.transport.air-industry
+Path: netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!bloom-beacon.mit.edu!news.kei.com!usenet
+From: alexandc10@aol.com (Alexandc10)
+Newsgroups: misc.transport.air-industry
+Subject: Re: CALite dead and buried
+Date: 26 Apr 1995 19:07:30 GMT
+Organization: America Online, Inc. (1-800-827-6364)
+Lines: 18
+Approved: hrose@kei.com
+Message-ID: <3nm5li$jt9@kragar.kei.com>
+References: <3n1g1l$rkp@gsb-crown.Stanford.EDU>
+Reply-To: alexandc10@aol.com (Alexandc10)
+NNTP-Posting-Host: rocza.kei.com
+Received-Date: Wed, 26 Apr 1995 11:20:22 -0400
+From jaustin@skypoint.com Wed Apr 26 16:46:47 EDT 1995
+Article: 399 of misc.transport.air-industry
+Path: netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!bloom-beacon.mit.edu!news.kei.com!usenet
+From: jaustin@skypoint.com
+Newsgroups: misc.transport.air-industry
+Subject: Re: Nortwest's hand slapped
+Date: 26 Apr 1995 19:28:15 GMT
+Organization: SkyPoint Communications, Inc.
+Lines: 33
+Approved: hrose@kei.com
+Message-ID: <3nm6sf$jt9@kragar.kei.com>
+References: <3ngkmp$69g@kragar.kei.com>
+NNTP-Posting-Host: rocza.kei.com
+From rjg@merle.acns.nwu.edu Thu Apr 27 18:10:11 EDT 1995
+Article: 403 of misc.transport.air-industry
+Path: netnews.upenn.edu!dsinc!ub!news.kei.com!usenet
+From: rjg@merle.acns.nwu.edu (Robert J. Gordon)
+Newsgroups: misc.transport.air-industry
+Subject: Re: Where is their hub?
+Date: 27 Apr 1995 18:38:26 GMT
+Organization: Northwestern University, Evanston, IL, US
+Lines: 29
+Approved: hrose@kei.com
+Message-ID: <3noob2$l10@kragar.kei.com>
+References: <k-cuddeback-1904950121110001@129.105.9.113> <3ngkbo$69g@kragar.kei.com> <3ngn7c$gjk@gsb-crown.Stanford.EDU> <3nlvmv$jt9@kragar.kei.com>
+NNTP-Posting-Host: rocza.kei.com
+From RZLF80A@prodigy.com Thu Apr 27 18:12:15 EDT 1995
+Article: 409 of misc.transport.air-industry
+Path: netnews.upenn.edu!dsinc!ub!news.kei.com!usenet
+From: RZLF80A@prodigy.com (Larry Nebron)
+Newsgroups: misc.transport.air-industry
+Subject: B777 TEST FLIGHT
+Date: 27 Apr 1995 18:48:22 GMT
+Organization: Prodigy Services Company  1-800-PRODIGY
+Lines: 12
+Approved: hrose@kei.com
+Message-ID: <3nootm$l10@kragar.kei.com>
+NNTP-Posting-Host: rocza.kei.com
+From saweiss@bu.edu Thu Apr 27 19:45:35 EDT 1995
+Article: 421 of misc.transport.air-industry
+Path: netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!bloom-beacon.mit.edu!news.kei.com!usenet
+From: saweiss@bu.edu (Scott Weiss)
+Newsgroups: misc.transport.air-industry
+Subject: Re: Where is their hub?
+Date: 27 Apr 1995 19:32:18 GMT
+Organization: Boston University
+Lines: 33
+Approved: hrose@kei.com
+Message-ID: <3norg2$l10@kragar.kei.com>
+References: <3n152u$fot@kei.com> <3n4pgi$9fo@kei.com> <3n514b$35s@gsb-crown.Stanford.EDU> <3n91s6$fjo@kei.com> <3nm6ji$jt9@kragar.kei.com>
+NNTP-Posting-Host: rocza.kei.com
+From k-cuddeback@nwu.edu Sat Apr 29 19:28:11 EDT 1995
+Article: 426 of misc.transport.air-industry
+Path: netnews.upenn.edu!msunews!uwm.edu!math.ohio-state.edu!newsfeed.acns.nwu.edu!news.acns.nwu.edu!mac231.kellogg.nwu.edu!user
+From: k-cuddeback@nwu.edu (Kevin Cuddeback)
+Newsgroups: misc.transport.air-industry
+Subject: Re: US completes open skies agreements with small Euronations
+Date: Thu, 27 Apr 1995 22:53:00 -0500
+Organization: Kellogg Graduate School of Management
+Lines: 32
+Approved: k-cuddeback@nwu.edu
+Message-ID: <k-cuddeback-2704952253000001@mac231.kellogg.nwu.edu>
+References: <3np9ha$2mh@gsb-crown.Stanford.EDU>
+NNTP-Posting-Host: mac231.kellogg.nwu.edu
+From denlewis@delphi.com Sat Apr 29 19:31:07 EDT 1995
+Article: 434 of misc.transport.air-industry
+Path: netnews.upenn.edu!newsserver.jvnc.net!news.cac.psu.edu!news.pop.psu.edu!hudson.lm.com!newsfeed.pitt.edu!gatech!nntp.et.byu.edu!news.kei.com!usenet
+From: D Lewis <denlewis@delphi.com>
+Newsgroups: misc.transport.air-industry
+Subject: Western Pacific's Flying Billboard
+Date: 28 Apr 1995 19:22:20 GMT
+Organization: Delphi (info@delphi.com email, 800-695-4005 voice)
+Lines: 47
+Approved: hrose@kei.com
+Message-ID: <3nrf9c$4v9@kragar.kei.com>
+NNTP-Posting-Host: rocza.kei.com
+From margrett@alpha2.csd.uwm.edu Sat Apr 29 19:32:50 EDT 1995
+Article: 437 of misc.transport.air-industry
+Path: netnews.upenn.edu!newsserver.jvnc.net!news.cac.psu.edu!news.pop.psu.edu!hudson.lm.com!godot.cc.duq.edu!newsfeed.pitt.edu!gatech!nntp.et.byu.edu!news.kei.com!usenet
+From: margrett@alpha2.csd.uwm.edu (Gregory D Margrett)
+Newsgroups: misc.transport.air-industry
+Subject: revised hub rankings
+Date: 28 Apr 1995 19:32:29 GMT
+Organization: Information & Media Technologies, University of Wisconsin - Milwaukee
+Lines: 73
+Approved: hrose@kei.com
+Message-ID: <3nrfsd$4v9@kragar.kei.com>
+NNTP-Posting-Host: rocza.kei.com
+From olesen@metronet.com Sat Apr 29 19:35:17 EDT 1995
+Article: 439 of misc.transport.air-industry
+Path: netnews.upenn.edu!newsserver.jvnc.net!news.cac.psu.edu!news.pop.psu.edu!hudson.lm.com!newsfeed.pitt.edu!gatech!nntp.et.byu.edu!news.kei.com!usenet
+From: olesen@metronet.com (Eric Olesen)
+Newsgroups: misc.transport.air-industry
+Subject: Re: so-called Airline Quality Ratings
+Date: 28 Apr 1995 20:15:27 GMT
+Organization: Texas Metronet, Inc  (login info (214/705-2901 - 817/571-0400))
+Lines: 65
+Approved: hrose@kei.com
+Message-ID: <3nricv$4v9@kragar.kei.com>
+References: <3nm4oe$jt9@kragar.kei.com>
+NNTP-Posting-Host: rocza.kei.com
+From olesen@metronet.com Sat Apr 29 19:38:11 EDT 1995
+Article: 440 of misc.transport.air-industry
+Path: netnews.upenn.edu!newsserver.jvnc.net!news.cac.psu.edu!news.pop.psu.edu!hudson.lm.com!godot.cc.duq.edu!newsfeed.pitt.edu!gatech!nntp.et.byu.edu!news.kei.com!usenet
+From: olesen@metronet.com (Eric Olesen)
+Newsgroups: misc.transport.air-industry
+Subject: Re: International Route allocation
+Date: 28 Apr 1995 20:18:23 GMT
+Organization: Texas Metronet, Inc  (login info (214/705-2901 - 817/571-0400))
+Lines: 69
+Approved: hrose@kei.com
+Message-ID: <3nriif$4v9@kragar.kei.com>
+References: <3muno5$o9c@gsb-crown.Stanford.EDU> <3n14kp$fot@kei.com> <3n1gdu$rlt@gsb-crown.Stanford.EDU> <3nm10l$jt9@kragar.kei.com>
+NNTP-Posting-Host: rocza.kei.com
+From chuanga@wis.com Sat Apr 29 19:43:50 EDT 1995
+Article: 442 of misc.transport.air-industry
+Path: netnews.upenn.edu!newsserver.jvnc.net!news.cac.psu.edu!news.pop.psu.edu!hudson.lm.com!newsfeed.pitt.edu!gatech!nntp.et.byu.edu!news.kei.com!usenet
+From: chuanga@wis.com (Andrew Chuang)
+Newsgroups: misc.transport.air-industry
+Subject: Re: Hong Kong / Australia Air War
+Date: 28 Apr 1995 20:28:09 GMT
+Organization: International Internet Association.
+Lines: 95
+Approved: hrose@kei.com
+Message-ID: <3nrj4p$4v9@kragar.kei.com>
+References: <3ngfbh$69g@kragar.kei.com> <3nltjb$jt9@kragar.kei.com>
+NNTP-Posting-Host: rocza.kei.com
+From wesley+@pitt.edu Sat Apr 29 19:45:38 EDT 1995
+Article: 443 of misc.transport.air-industry
+Path: netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!nntp.et.byu.edu!news.kei.com!usenet
+From: wesley+@pitt.edu (Grant C Lynde)
+Newsgroups: misc.transport.air-industry
+Subject: Re: B777 TEST FLIGHT, tonsils, and the CRJ
+Date: 28 Apr 1995 20:29:30 GMT
+Organization: University of Pittsburgh
+Lines: 34
+Approved: hrose@Kei.com
+Message-ID: <3nrj7a$4v9@kragar.kei.com>
+References: <3nootm$l10@kragar.kei.com> <k-cuddeback-2704951905580001@mac239.kellogg.nwu.edu>
+NNTP-Posting-Host: rocza.kei.com
+From gt1086c@prism.gatech.edu Sat Apr 29 19:46:31 EDT 1995
+Article: 444 of misc.transport.air-industry
+Path: netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!nntp.et.byu.edu!news.kei.com!usenet
+From: gt1086c@prism.gatech.edu (Gregory Glockner)
+Newsgroups: misc.transport.air-industry
+Subject: Re: Aging Fleet
+Date: 28 Apr 1995 20:32:52 GMT
+Organization: Georgia Institute of Technology
+Lines: 32
+Approved: hrose@kei.com
+Message-ID: <3nrjdk$4v9@kragar.kei.com>
+References: <3n1408$fot@kei.com> <3nloi7$ef2@kragar.kei.com> <3nm6bi$jt9@kragar.kei.com> <3noq70$l10@kragar.kei.com> <3nplnk$2q8@status.Stanford.EDU>
+NNTP-Posting-Host: rocza.kei.com
+From rrtycoon@aol.com Sat Apr 29 19:48:17 EDT 1995
+Article: 446 of misc.transport.air-industry
+Path: netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!nntp.et.byu.edu!news.kei.com!usenet
+From: rrtycoon@aol.com (RRTycoon)
+Newsgroups: misc.transport.air-industry
+Subject: Re: Continental at Denver
+Date: 28 Apr 1995 20:40:36 GMT
+Organization: America Online, Inc. (1-800-827-6364)
+Lines: 15
+Approved: hrose@kei.com
+Message-ID: <3nrjs4$4v9@kragar.kei.com>
+References: <3nlrvp$ef2@kragar.kei.com>
+Reply-To: rrtycoon@aol.com (RRTycoon)
+NNTP-Posting-Host: rocza.kei.com
+From es@shore.net Sat Apr 29 19:48:33 EDT 1995
+Article: 447 of misc.transport.air-industry
+Path: netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!nntp.et.byu.edu!news.kei.com!usenet
+From: es@shore.net
+Newsgroups: misc.transport.air-industry
+Subject: Re: US and 767's
+Date: 28 Apr 1995 20:47:51 GMT
+Organization: North Shore Access/Eco Software, Inc; (info@shore.net)
+Lines: 12
+Approved: hrose@kei.com
+Message-ID: <3nrk9n$4v9@kragar.kei.com>
+References: <3nopq6$l10@kragar.kei.com>
+NNTP-Posting-Host: rocza.kei.com
+From singhal@csd-d-1.Stanford.EDU Sat Apr 29 19:50:06 EDT 1995
+Article: 450 of misc.transport.air-industry
+Path: netnews.upenn.edu!newsserver.jvnc.net!news.cac.psu.edu!news.pop.psu.edu!hudson.lm.com!newsfeed.pitt.edu!gatech!swrinde!sgiblab!rpal.rockwell.com!news.Stanford.EDU!csd-d-1.Stanford.EDU!singhal
+From: singhal@csd-d-1.Stanford.EDU (Sandeep Singhal)
+Newsgroups: misc.transport.air-industry
+Subject: Re: so-called Airline Quality Ratings
+Date: 29 Apr 1995 01:54:02 GMT
+Organization: Computer Science Department, Stanford University, CA USA.
+Lines: 54
+Approved: Sandeep K. Singhal (singhal@cs.stanford.edu), m-t-ai co-moderator
+Message-ID: <3ns67q$16r@nntp.Stanford.EDU>
+References: <3nm4oe$jt9@kragar.kei.com> <3nricv$4v9@kragar.kei.com>
+NNTP-Posting-Host: csd-d-1.stanford.edu
+From teshima@uhunix.uhcc.Hawaii.Edu Sun Apr 30 18:51:37 EDT 1995
+Article: 451 of misc.transport.air-industry
+Newsgroups: misc.transport.air-industry
+Path: netnews.upenn.edu!newsserver.jvnc.net!news.cac.psu.edu!news.pop.psu.edu!psuvax1!uwm.edu!lll-winken.llnl.gov!ames!news.hawaii.edu!uhunix.uhcc.Hawaii.Edu!teshima
+From: teshima@uhunix.uhcc.Hawaii.Edu (Lani Teshima-Miller)
+Subject: Re: Airports under construction
+X-Nntp-Posting-Host: uhunix.uhcc.hawaii.edu
+Message-ID: <D7qqD2.464@news.hawaii.edu>
+Sender: news@news.hawaii.edu
+Organization: University of Hawaii
+References: <3mgrhs$rf3@kei.com>
+Date: Fri, 28 Apr 1995 10:27:02 GMT
+Approved: teshima@uhunix.uhcc.hawaii.edu
+Lines: 43
+From lchiluku@ucsd.edu Mon May  1 13:26:35 EDT 1995
+Article: 454 of misc.transport.air-industry
+Newsgroups: sci.aeronautics.airliners,misc.transport.air-industry
+Path: netnews.upenn.edu!dsinc!spool.mu.edu!olivea!apple.com!starnet!ditka!bounce-back
+From: lchiluku@ucsd.edu (R. & L. Chilukuri)
+Subject: in-flight engine shutdown / antiquated ATC equip
+Message-ID: <airliners.1995.518@ohare.Chicago.COM>
+Approved: kls@ohare.Chicago.COM
+Organization: Univ of California at San Diego
+Sender: kls@ohare.Chicago.COM
+Date: 01 May 95 02:44:02
+Lines: 38
+Xref: netnews.upenn.edu sci.aeronautics.airliners:2563 misc.transport.air-industry:454
+From kls@ohare.Chicago.COM Mon May  1 13:28:15 EDT 1995
+Article: 455 of misc.transport.air-industry
+Newsgroups: sci.aeronautics.airliners,misc.transport.air-industry
+Path: netnews.upenn.edu!dsinc!spool.mu.edu!olivea!apple.com!starnet!ditka!bounce-back
+From: kls@ohare.Chicago.COM (Karl Swartz)
+Subject: Re: in-flight engine shutdown / antiquated ATC equip
+References: <airliners.1995.518@ohare.Chicago.COM>
+Message-ID: <airliners.1995.519@ohare.Chicago.COM>
+Approved: kls@ohare.Chicago.COM
+Organization: Chicago Software Works, Menlo Park, California
+Sender: kls@ohare.Chicago.COM
+Date: 01 May 95 02:44:03
+Lines: 24
+Xref: netnews.upenn.edu sci.aeronautics.airliners:2564 misc.transport.air-industry:455
+From drmemory@netcom.com Mon May  1 20:12:03 EDT 1995
+Article: 482 of misc.transport.air-industry
+Path: netnews.upenn.edu!news.cc.swarthmore.edu!psuvax1!news.ecn.bgu.edu!vixen.cso.uiuc.edu!howland.reston.ans.net!gatech!bloom-beacon.mit.edu
+!news.kei.com!usenet
+From: drmemory@netcom.com (Jeff Bulf)
+Newsgroups: misc.transport.air-industry,rec.travel.air
+Subject: Re: Hail Damages AA fleet at Dallas-Ft Worth
+Date: 1 May 1995 22:24:54 GMT
+Organization: reverse polish
+Lines: 33
+Approved: hrose@kei.com
+Message-ID: <3o3n3m$n8r@kragar.kei.com>
+References: <3o1knc$3cu@status.Stanford.EDU>
+NNTP-Posting-Host: rocza.kei.com
+Xref: netnews.upenn.edu misc.transport.air-industry:482 rec.travel.air:45562
+From netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!howland.reston.ans.net!math.ohio-state.edu!uwm.edu!fnnews.fnal.gov!unixhub!news.Stanfor
+Article: 582 of misc.transport.air-industry
+Path: netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!howland.reston.ans.net!math.ohio-state.edu!uwm.edu!fnnews.fnal.gov!unixhub!news.Stanfo
+From: alvinlaw@netcom.com (Alvin Law)
+Newsgroups: misc.transport.air-industry,rec.travel.air
+Subject: Re: Hail Damages AA fleet at Dallas-Ft Worth
+Followup-To: misc.transport.air-industry,rec.travel.air
+Date: 4 May 1995 15:10:19 -0700
+Organization: NETCOM On-line services
+Lines: 25
+Sender: rna@status.Stanford.EDU
+Approved: rna
+Message-ID: <ALVINLAW.95May4124754@netcom23.netcom.com>
+References: <3o1knc$3cu@status.Stanford.EDU> <3o8pqn$rnn@kragar.kei.com>
+NNTP-Posting-Host: status.stanford.edu
+In-Reply-To: olesen@metronet.com's message of 3 May 1995 20:41:59 GMT
+Apparently-To: misc-transport-air-industry@uunet.uu.net
+Status: RO
+Xref: netnews.upenn.edu misc.transport.air-industry:582 rec.travel.air:45885
+From netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!howland.reston.ans.net!vixen.cso.uiuc.edu!uwm.edu!fnnews.fnal.gov!unixhub!news.Stanford.EDU!not-for-mail Sat May  6 22:59:57 EDT 1995
+Article: 584 of misc.transport.air-industry
+Path: netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!howland.reston.ans.net!vixen.cso.uiuc.edu!uwm.edu!fnnews.fnal.gov!unixhub!news.Stanford.EDU!not-for-mail
+From: chuanga@iia2.org
+Newsgroups: misc.transport.air-industry
+Subject: Re: Hong Kong / Australia Air War
+Date: 4 May 1995 15:13:22 -0700
+Organization: International Internet Association.
+Lines: 93
+Sender: rna@status.Stanford.EDU
+Approved: rna
+Message-ID: <3obiu2$58e@newsie.wis.com>
+References: <3ngfbh$69g@kragar.kei.com> <3nltjb$jt9@kragar.kei.com> <3nrj4p$4v9@kragar.kei.com> <3o3kqn$n8r@kragar.kei.com>
+NNTP-Posting-Host: status.stanford.edu
+Originator: chuanga@maxwell.iia2.org
+Status: RO
+From netnews.upenn.edu!newsserver.jvnc.net!news.cac.psu.edu!news.pop.psu.edu!psuvax1!uwm.edu!cs.utexas.edu!news.sprintlink.net!europa.chnt.gtegsc.com!newsxfer.itd.umich.edu!agate!news.Stanford.EDU!not-for-mail Sun May  7 22:43:02 EDT 1995
+Article: 672 of misc.transport.air-industry
+Path: netnews.upenn.edu!newsserver.jvnc.net!news.cac.psu.edu!news.pop.psu.edu!psuvax1!uwm.edu!cs.utexas.edu!news.sprintlink.net!europa.chnt.gtegsc.com!newsxfer.itd.umich.edu!agate!news.Stanford.EDU!not-for-mail
+From: cea@netcom.com (Chris Albee)
+Newsgroups: misc.transport.air-industry
+Subject: Meal costs (was Re: USAir cutbacks (F class meals))
+Date: 7 May 1995 16:36:45 -0700
+Organization: NETCOM On-line Communication Services (408 261-4700 guest)
+Lines: 67
+Sender: rna@gsb-crown.Stanford.EDU
+Approved: rna
+Message-ID: <ceaD88D8I.Dto@netcom.com>
+References: <3o3pg1$n8r@kragar.kei.com>
+NNTP-Posting-Host: gsb-crown.stanford.edu
+Apparently-To: misc-transport-air-industry@uunet.uu.net
+Status: RO
+From netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!newsfeed.internetmci.com!bloom-beacon.mit.edu!news.kei.com!usenet Wed Aug 23 17:54:43 EDT 1995
+Article: 2321 of misc.transport.air-industry
+Path: netnews.upenn.edu!dsinc!newsfeed.pitt.edu!gatech!newsfeed.internetmci.com!bloom-beacon.mit.edu!news.kei.com!usenet
+From: chuanga@iia2.org (H Andrew Chuang)
+Newsgroups: misc.transport.air-industry
+Subject: Re: Air China to buy 777s
+Date: 23 Aug 1995 15:25:00 GMT
+Organization: International Internet Association.
+Lines: 89
+Approved: hrose@kei.com
+Message-ID: <41fh8c$5q5@kragar.kei.com>
+References: <41dbac$29o@kragar.kei.com> <41dl67$n50@gsb-crown.Stanford.EDU>
+NNTP-Posting-Host: rocza.kei.com
+From netnews.upenn.edu!newsserver.jvnc.net!newsserver2.jvnc.net!howland.reston.ans.net!newsfeed.internetmci.com!nntp-hub2.barrnet.net!news.Stanford.EDU!kmeyer Mon Aug 28 17:14:35 EDT 1995
+Article: 2431 of misc.transport.air-industry
+Path: netnews.upenn.edu!newsserver.jvnc.net!newsserver2.jvnc.net!howland.reston.ans.net!newsfeed.internetmci.com!nntp-hub2.barrnet.net!news.Stanford.EDU!kmeyer
+From: kmeyer@aero.org (Kraig R. Meyer)
+Newsgroups: misc.transport.air-industry
+Subject: Re: Why FAA turn down AIRBUS 800 Passengers ?
+Date: 28 Aug 1995 13:18:00 -0700
+Organization: Trusted Computer Systems Dept., The Aerospace Corporation
+Lines: 27
+Sender: rna@gsb-crown.Stanford.EDU
+Approved: rna
+Message-ID: <KMEYER.95Aug28125252@soloflex.aero.org>
+References: <41fgv4$5q5@kragar.kei.com> <41in0c$t1e@kragar.kei.com> <41l8cj$7km@darkstar.UCSC.EDU>
+NNTP-Posting-Host: gsb-crown.stanford.edu
+In-reply-to: bashir@cats.ucsc.edu's message of 25 Aug 1995 17:17:02 -0700
+From netnews.upenn.edu!newsserver.jvnc.net!newsserver2.jvnc.net!howland.reston.ans.net!newsfeed.internetmci.com!nntp-hub2.barrnet.net!news.Stanford.EDU!not-for-mail Wed Aug 30 19:44:07 EDT 1995
+Article: 2457 of misc.transport.air-industry
+Path: netnews.upenn.edu!newsserver.jvnc.net!newsserver2.jvnc.net!howland.reston.ans.net!newsfeed.internetmci.com!nntp-hub2.barrnet.net!news.Stanford.EDU!not-for-mail
+From: rna@gsb-ecu.Stanford.EDU (Robert Ashcroft)
+Newsgroups: misc.transport.air-industry,rec.travel.air
+Subject: Top 100 Airports, 1994
+Followup-To: misc.transport.air-industry
+Date: 29 Aug 1995 18:17:46 -0700
+Organization: Graduate School of Business, Stanford University
+Lines: 118
+Approved: rna@gsb-pound.stanford.edu
+Message-ID: <420e7q$436@gsb-ecu.Stanford.EDU>
+NNTP-Posting-Host: gsb-ecu.stanford.edu
+Xref: netnews.upenn.edu misc.transport.air-industry:2457 rec.travel.air:55566
+From netnews.upenn.edu!newsserver.jvnc.net!newsserver2.jvnc.net!howland.reston.ans.net!news.sprintlink.net!in2.uu.net!news1.digital.com!nntp-hub2.barrnet.net!news.Stanford.EDU!not-for-mail Wed Aug 30 19:44:34 EDT 1995
+Article: 2458 of misc.transport.air-industry
+Path: netnews.upenn.edu!newsserver.jvnc.net!newsserver2.jvnc.net!howland.reston.ans.net!news.sprintlink.net!in2.uu.net!news1.digital.com!nntp-hub2.barrnet.net!news.Stanford.EDU!not-for-mail
+From: rna@gsb-ecu.Stanford.EDU (Robert Ashcroft)
+Newsgroups: misc.transport.air-industry,rec.travel.air
+Subject: Top 20 Cargo Airports, 1994
+Followup-To: misc.transport.air-industry
+Date: 29 Aug 1995 18:30:04 -0700
+Organization: Graduate School of Business, Stanford University
+Lines: 24
+Approved: rna@gsb-pound.stanford.edu
+Message-ID: <420eus$44p@gsb-ecu.Stanford.EDU>
+NNTP-Posting-Host: gsb-ecu.stanford.edu
+Xref: netnews.upenn.edu misc.transport.air-industry:2458 rec.travel.air:55568
+From bsmith@westnet.com Sun Oct 22 01:39:05 EDT 1995
+Article: 3754 of misc.transport.air-industry
+Path: netnews.upenn.edu!msunews!news.mtu.edu!newsxfer.itd.umich.edu!tank.news.pipex.net!pipex!howland.reston.ans.net!vixen.cso.uiuc.edu!sdd.hp.com!hplabs!unix.sri.com!news.Stanford.EDU!not-for-mail
+From: bsmith@westnet.com (William T. Smith)
+Newsgroups: misc.transport.air-industry
+Subject: Re: The B727
+Date: 20 Oct 1995 11:09:04 -0700
+Organization: Graduate School of Business, Stanford University
+Lines: 20
+Sender: rna@gsb-crown.Stanford.EDU
+Approved: rna
+Message-ID: <468ok0$275@gsb-crown.Stanford.EDU>
+NNTP-Posting-Host: gsb-crown.stanford.edu
+To: air-industry@kei.com
+X-Newsreader: Forte Free Agent 1.0.82
+Status: RO

@@ -1,0 +1,36 @@
+For this task, I added a bunch of different features of a variety of categories. These categories included:  
+            
+            sentence structure features, punctuation features, features from the word lists, capitalization checks, 
+            temporal and sentence-internal features, period and contextual punctuation,
+            numerical features, specific words that i felt were missing from the word lists, like "apr" and "v",
+            common verbs and common sentence-starters, punctuation and digits, titles, abbrevs, other edges
+            transition words, Parenthesis, paragraph markers, ellipses, Quotes
+
+There were also some features that I thought would have helped but actually hurt my performance, so I didn't include.
+Some examples are: 
+            #1 if word_m1 in  ["U.S", "U.N"] else 0,
+            #1 if any(substring in word_m1 for substring in ["-yr", "-mo", "-wk", "-hr"]) else 0,
+            #1 if "-yr" in word_m1 else 0,
+
+
+    Perhaps these do not perform well because they introduced false positives—flagging periods and words like "U.S." and "U.N." which are usually mid-sentence and are better handled through the abbreviations word list instead of as an isolated feature. 
+    I'm not entirely sure why the -yr marker would hurt performance, but perhpas this is not a common enough occurance that creating a feature for it allowed sci-kit learn to properly classify the feature.
+
+
+ Overall, the best-performing features were those that:
+        -matched distinct punctuation, like commas, paragraph marks, and parentheses
+        -referenced capitalization
+        -used sentence structure
+        -leveraged the word lists
+
+
+I then also found the best success using a random forest classifier with 100 estimators, a max depth of 15, 5 min sample splits, and a random state of 42.
+
+
+
+Final performance: lilywheeler@Lilys-MacBook-Air-2 hw1 2 % python3 hw1a.py --train sent.train1 --test sent.dev1 --output sent.out 
+
+4491 / 4500  0.998
+
+This is a bit higher than the score that I received from gradescope, but this could be because I added some extra words locally to the classes lists.
+

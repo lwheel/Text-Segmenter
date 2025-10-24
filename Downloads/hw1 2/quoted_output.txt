@@ -1,0 +1,785 @@
+In article <MJD.92Nov17114753@saul.cis.upenn.edu> mjd@saul.cis.upenn.edu (Mark-Jason Dominus) writes:
+>   If you don't have a copy of ``Using the Graduate Education Sun 3/60
+>   Workstations'' any more, or if you never got one ...  you can go
+>   into the directory `/pkg/doc/207' on gradient and run the program
+>   `print-one-copy' that you find there.  This will print a copy of the
+>   most recent version of the document on your default laser printer,
+>   probably lw-cets.
+Karl Swartz (kls@ohare.Chicago.COM) wrote:
+: UA serves KIX (OSA is now domestic only) with daily non-stops from
+: SFO, LAX, and HNL, plus Guam five days a week and Saipan the other
+: two.  I'm almost certain that DA services KIX as well, probably
+: from PDX or LAX or both.  In any case, AA wouldn't be lacking for
+: competition, though it wouldn't be as rough going as Tokyo, plus
+: they would appear to be unique amongst US carriers in have gateways
+: in the eastern half of the country.
+: On the downside, KIX has exorbitant fees, the highest in the world.
+: There's also the question of just what in hell AA expects to use for
+: equipment.  They were fishing for 747-400s when they hoped to get
+: ORD-NRT (they agreed to buy two early positions from Canadian for
+: $330 million, $80 million over "list") so it doesn't seem the MD-11s
+: can do it except from LAX, and they're selling the MD-11s to FedEx
+: anyway, albeit over several years.  Perhaps they'll launch Boeing's
+: 767-300ERY, which would fit their fleet well (not that that has ever
+: mattered to Crandall!) and should have the range,
+: though it would be the first ETOPS service all the way across the
+: North Pacific.
+In article <3mgr05$rf3@kei.com>,
+Marc Gonzales Escuro <bashir@cats.ucsc.edu> wrote:
+>When is United Airlines set to take delivery of the 1st 777-100?
+>Is is due to fly out of SFO?
+>Will there be an ER version (like 767-200-ER), or is it already
+>classified for over-water transport?
+>IS it true the new super-jumbo jet from Boeing will be an extended,
+>double-decker version of the 777 and not the 747-400?
+In article <3mf8pf$ha0@kei.com>, helliott@cc.weber.edu writes:
+>The empty CO concourse provided an interesting contrast with the
+>full UA concourse.  Wonder if CO will be renting it out, or if
+>they will go belly-up over their forced rental fees.  The $40.00
+>surcharge is outrageous.
+> Hawaii is notorious as the destination most in demand by FF mile users.
+> In fact some airlines are reputed to run the service at least partially
+> just for their FF users.
+In article <3mjjcl$2dv@kei.com>, tkliu <tkliu@midway.uchicago.edu> wrote:
+>
+>1. Why is it that US carriers going trans-pacific don't seem to be as
+>   favorable in the eyes of Asian travelers? It seems that somehow US
+>   carriers do not offer the same type of service, or at least, the level
+>   of service is not comparable to that of Asian carriers.
+>
+>2. On trans-pacific flights, is it normal to have a refueling stop during
+>   winter? Last Christmas I flew on a China Airlines flight to Taipei, and
+>   had to stop over in Anchorage for refueling.  Noting that it was a
+>   747-400, I thought the -400 was supposed to be able to fly non-stop...
+>
+>3. Why is it that such airlines like Singapore, Cathay Pacifi, and China
+>   are able to post profits year after year while US carriers are
+>   suffering? In fact...they give more to the passengers while the fare is
+>   often lower than US carriers...
+>
+>Hmm...if only I can remember all of the things I have wanted to ask...
+>Anyhow....One more thing..I flew on a new Taiwanese carrier called EVA
+>Airways last summer...in their Economy Deluxe class, and thought it was
+>the most excellent...Has anyone else flew on them? What do you think? and
+>is their service similar to that of Virgin Atlantic's?
+>
+Sandeep Singhal (singhal@csd-d-2.Stanford.EDU) wrote:
+: On the other hand, USAir has got to be happy that they decided to keep
+: the BWI hub open.  Growth at BWI, as I recall from some recent figures I
+: read, was in the 20-30% range.  Figures released by the Maryland
+: Department of Transportation indicate that BWI is definitely grabbing a
+: increasing percentage of the BWI/DCA/IAD traffic.  They cannot even keep
+: up parking lot construction fast enough to support the growth.
+: USAir has got to be benefiting from this growth.  Baltimore has a
+: strong, relatively middle/upper-middle class population that easily
+: provides enough originating traffic to support a hub.  Admittedly,
+: however, alot of the growth is going to Southwest and America West.
+: What about Philadelphia?  Is there any reason at all why they should
+: keep PHL as a hub?  Aside from frequent service to Boston and some
+: international routes, I see absolutely no value there.
+: -sandeep
+: --
+In article <3mf8jp$ha0@kei.com>, Mihir Pramod Shah <mps1@cec.wustl.edu> wrote:
+>It should be noted that AA was very disappointed when the DOT gave
+>the ORD-NRT route to United instead of them.  This was the only sign
+>that AA was eagerly pursuing an Asian route.
+In article <3mhids$rf3@kei.com>, Andrew Chuang <chuanga@wis.com> wrote:
+>Karl Swartz (kls@ohare.Chicago.COM) wrote:
+>Dan-Air Services (DA)?  I don't think so.  You must have meant DL (Delta),
+>right? ;-)
+>I don't believe DL serves KIX.  DL does fly to Nagoya (located
+>approximately half way between Tokyo and Osaka) from both PDX and LAX.
+>Weren't fees at KIX adjusted to NRT level right before it opened?
+>The proposed 767-300ERY is simply too small for Trans-Pacific services.
+Umar Khan (khan@spdcc.com) wrote:
+: One of my friends is applying for a job with Air Canada.  I tried to
+: research the company in gopherspace and thru the web but to no avail.
+: Does anyone know anything about the airline?  How is it as an employer?
+: How do its benefits compare to other carriers?  Do they have a good
+: retention rate for employees?  Do they have a good safety record?  Any and
+In article <3mh2rf$rf3@kei.com>,
+Robert J. Gordon <rjg@merle.acns.nwu.edu> wrote:
+>First, about AA in the Pacific.  Crandall tried desperately to buy NW's
+>ORD-NRT route after UA won the rights.  UA can only fly 6X per week, NW can do
+>unlimited, so AA could have done double, triple on that route with MD11.
+>However, AA is not in as bad a situation in the Pacific as it might appear.
+>Yes, they are shut out of growth.  But they have a nice thing going.  I
+>challenge anyone to come up with th e ranking of carriers (Pacific division
+>only) on the basis of operating profit in the third quarter of 1994.  I can
+>give this to you with or without CRS revenue/cost.  Rank the following:  AA,
+>DL,NW,UA.
+>On WN, of course its bag has always been satellite airports.  It now has >100
+>departures a day from Oakland, and OAK-LAX is its biggest route after DAL-HOU.
+>(actually LAX-PHX is tied with LAX-OAK at about 1700 pax per day).  WN does
+>better relative to UA shuttle in satellite airports than on routes involving
+>LAX or SFO, where UA has substantial beyond feed.  UA has already dropped
+>OAK-ONT and OAK-BUR is doing almost as badly.  Would anyone like to guess UA's
+>profit or loss on the shuttle in December 1993?  I don't know exactly but I've
+>made a *very* informed guess from some inside information.
+>The WSJ about DIA may have been accurate about the misery of using it for
+>local Denver residents, but the story made no mention of how good it is for
+>connecting passengers.  B concourse is a great place to connect, double moving
+>walkways in each direction that are about 50% wider than the ones at ORD.
+>Also, the distance between the concourses is huge, so taxi times are minimal.
+>Bob Gordon
+>
+>Chair, dept of Economics, Northwestern Univ., Evanston IL   (rjg@nwu.edu)
+In article <3mgrhs$rf3@kei.com>, awone@panix.com (Allen Wone) wrote:
+> I am looking for a list of airports around the US that are under major
+> rehab, new terminal and such.  A list of the airport along with
+> what is going on would be most appreciated..
+>
+>When is United Airlies
+set to take delivery of the 1st 777-100?  Is
+>is due to fly out of SFO?  Will there be an ER version (like 767-200-ER),
+>or is it already classified for over-water transport?  IS it true the
+>new super-jumbo jet from Boeing will be an extended, double-decker
+>version of the 777 and not the 747-400?
+In article <3mjjcl$2dv@kei.com> tkliu@midway.uchicago.edu writes:
+>
+>1. Why is it that US carriers going trans-pacific don't seem to be as
+>   favorable in the eyes of Asian travelers? It seems that somehow US
+>   carriers do not offer the same type of service, or at least, the level
+>   of service is not comparable to that of Asian carriers.
+>2. On trans-pacific flights, is it normal to have a refueling stop during
+>   winter? Last Christmas I flew on a China Airlines flight to Taipei, and
+>   had to stop over in Anchorage for refueling.  Noting that it was a
+>   747-400, I thought the -400 was supposed to be able to fly non-stop...
+>3. Why is it that such airlines like Singapore, Cathay Pacifi, and China
+>   are able to post profits year after year while US carriers are
+>   suffering? In fact...they give more to the passengers while the fare is
+>   often lower than US carriers...
+>Anyhow....One more thing..I flew on a new Taiwanese carrier called EVA
+>Airways last summer...in their Economy Deluxe class, and thought it was
+>the most excellent...Has anyone else flew on them? What do you think? and
+>is their service similar to that of Virgin Atlantic's?
+In article <3mjqr0$76e@kei.com>, Albert Avery Vise <avise@netcom.com> wrote:
+>Sandeep Singhal (singhal@cs.Stanford.EDU) wrote:
+>: USAir has got to be benefiting from this growth [in Baltimore]...
+>...
+>
+>I haven't studied the issue, but I suspect that USAir's yield -- revenue
+>per revenue passenger mile -- has dropped at BWI because of the Southwest
+>service, relatively limited in scope as it is. Also, Southwest has slowly
+>expanded the number of markets served out of BWI, and USAir clearly wants
+>to keep that expansion in check.
+>For example, Southwest in late February
+>announced a $39 fare for its nonstop service to Birmingham. USAir's
+>response was not only to match the fare but to initiate nonstop service
+>in the BWI-BHM market, where it previously had only connecting service.
+In article <3mkint$hv2@kei.com>, Eric Wall <n8541554@beaker.cc.wwu.edu> wrote:
+>I have been laid-off from Boeing/777 planning for about a year, but I think
+>my thoughts/comments are still valid...
+>
+>The first UAL 777's are model -200's -- the 100's should be about a year
+>later.
+>
+>
+>As of a year ago, the development team for the "New Large Aircraft" hadn't
+>made up their minds.  A real problem with a full upper deck is evacuation --
+>can you imagine a 787 with 10 different slides out the doors? Especially if
+>a gearset has collapsed and the upper doors are 80-90 feet up?  And evac-ing
+>800 people in a disaster?
+In article <k-cuddeback-1504951303270001@lucky139.acns.nwu.edu>,
+Kevin M. Cuddeback  <k-cuddeback@nwu.edu> wrote:
+>   He asserted that only about 1/4 of US markets can support direct
+>service and most of these are on the West Coast.  Since this implied that
+>WN was serving many non-point-to-point markets with point-to-point
+>service, I asked him to explain the discrepancy.
+>   He believes that at PHX, STL, MCI, and DTW, Souhtwest is dependant on
+>connecting (or multi-stop) passengers--that is to say most of the people
+>who are on a plane in these cites are either just passing through or will
+>be on the flight for more than just the first leg out of the city. The
+>hubbed airlines have realized this and have begun to match WN's one-stop
+>service with good connections at comparable prices via their hubs.
+>    But the real fight with WN in the east and midwest is in all those
+>connecting markets where only those with advanced computer systems can
+>really see how connections can systematically beat one-stops and
+>multi-stops. Perhaps this is why Northwest went to three daily
+>omnidirectional banks at its MEM hub--to maximize its ability to put
+>connecting passengers on flights versus WN's  one-stops.
+Karl Swartz (kls@ohare.Chicago.COM) wrote:
+: In article <3mhids$rf3@kei.com>, Andrew Chuang <chuanga@wis.com> wrote:
+: >The proposed 767-300ERY is simply too small for Trans-Pacific services.
+: The 767-300(ER) is already used in trans-Pacific service, by Qantas,
+: and possibly Air New Zealand.  Ok, that's not the North Pacific, but
+: it's an even longer leg.  United uses the 767-300(ER) for LAX-LHR,
+: and that's further than LAX-NRT (by only 5 miles, but it's still
+: further).  They also fly LAX/SFO-CDG with it, which is even further,
+: and TWA flies the 767 on non-stops between California and Europe.  I
+: suspect you could come up with plenty of other examples.  Why, then,
+: would you say it's too small to fly across the Pacific?
+: American did exceedingly well with their early trans-Atlantic service
+: by using smaller planes in niche markets, while Pan Am and TWA were
+: trying to fill 747s on the backbone routes.  I see no reason why they
+: couldn't exploit the Pacific market using the same strategy.
+>From RNA's post [regarding Southwest, United and Denver]
+>To some extent the WestPac effort at COS might have somewhat of this
+>effect.  I wonder to what effect the presence of the new Frontier and
+>WestPac has on the calculations of Southwest.
+>k-cuddeback@nwu.edu (Kevin Cuddeback) writes:
+>>> I am looking for a list of airports around the US that are under major
+>>> rehab, new terminal and such.  A list of the airport along with
+>>> what is going on would be most appreciated..
+In article <3mkj0q$hv2@kei.com>, Bryan E. Esquire <bashir@cats.ucsc.edu> wrote:
+>In article <3mjjcl$2dv@kei.com> tkliu@midway.uchicago.edu writes:
+>
+>>2. On trans-pacific flights, is it normal to have a refueling stop during
+>>   winter? Last Christmas I flew on a China Airlines flight to Taipei, and
+>>   had to stop over in Anchorage for refueling.  Noting that it was a
+>>   747-400, I thought the -400 was supposed to be able to fly non-stop...
+>
+>	Yes they can.  747-400 have the longest range of any commercial
+>	liner.  Correction.  The A340 has a better range.  I'm puzzled
+>	to why China Airlines had a refeuling stop.  I know 747-400's
+>	can fly direct from SFO to Tokyo's NRT.
+>>3. Why is it that such airlines like Singapore, Cathay Pacifi, and China
+>>   are able to post profits year after year while US carriers are
+>>   suffering? In fact...they give more to the passengers while the fare is
+>>   often lower than US carriers...
+>	I think the fact that they are government subsidized has something
+>	to do with it, but that doesn't explain Air France, does it.
+>	Also realize that the US Domestic Travel Business is highly
+>	competitive, so airlines, to stay ahead, will lower their prices
+>	accordingly, even if it mean takinga minor loss.
+>
+>>Anyhow....One more thing..I flew on a new Taiwanese carrier called EVA
+>>Airways last summer...in their Economy Deluxe class, and thought it was
+>>the most excellent...Has anyone else flew on them? What do you think? and
+>>is their service similar to that of Virgin Atlantic's?
+>
+>	Umm...you weren't flying out of SFO.  I've noticed most of the
+>	familiar with Virgin Atlantic.  All I know about them is
+>	that they fly 747's exclusively.
+Scott Weiss (saweiss@bu.edu) wrote:
+: It seems that American is upset about UA's perseverance about that ORD-LHR
+: route.  In fact, I just read on clari that AA is demanding a DFW-LHR route
+: should UA be granted the ORD-LHR route.  Lighten up, guys.
+: Where have you been, guys?  The Asia market was bombarded years ago.  I don't
+: know how successful AA will be in Asia, compared to the strength that UA, NW,
+: and DL has (to a certain extent), not to mention local carriers.
+: Oh, BTW, they want continuing service from Osaka to Hong Kong, Seoul,
+: Singapore, and Taipei.  Sounds like a new AA hub to me.
+In article <3mjj6v$2dv@kei.com>, PA <Hal@mail.utexas.edu> wrote:
+>I've been wondering about this for awhile.  I think I once heard that
+>Federal Express is the largest transportation airline in the World.  Can
+>this be true?  Could they be larger (in terms of fleet...or miles flown?)
+>than carriers like American, United, British Airways???  Does anyone know
+>for sure?
+Robert Ashcroft (rna@GSB-Pound.Stanford.EDU) wrote:
+: Has Southwest run out of space in Los Angeles?
+In article <3mpn4o$4r8@kei.com>,
+Kuang-Chung Chao <kchao@acsu.buffalo.edu> wrote:
+>
+>>>2. On trans-pacific flights, is it normal to have a refueling stop during
+>>>   winter? Last Christmas I flew on a China Airlines flight to Taipei, and
+>>>   had to stop over in Anchorage for refueling.  Noting that it was a
+>>>   747-400, I thought the -400 was supposed to be able to fly non-stop...
+>>
+>>Headwinds.  CAL's eastbound TPE-JFK flight (as well as Cathay's HKG-YYZ
+>>flight) is non-stop only during winter when there are favorable tailwinds.
+>>Westbound flights always need a refueling stop.
+>
+>One factor might be schedule. JFK-TPE is scheduled to arrive at TPE about 6
+>or 7am, with stop at Anchorage. If they fly non-stop it will be in TPE at about
+>4am. That's not a favorable time of arrival, especially for those people who
+>have to go to the airport and welcome their friends and relatives. ;)
+>
+On 19 Apr 1995 04:06:06 GMT, saweiss@bu.edu (Scott Weiss) said:
+> One thing that I can't understand iswhy T-2
+> has HA, NZ, and AC there while NW has to overflow into T-3.  The last time I
+> flew NW out of LAX, I had to trek over to T-3.  There were four NW planes at
+> T-3, and another four, maybe five, over at T-2.  Wouldn't it make sense to
+> move AC, HA, NZ, and US over to T-3, which seems pretty dead besides the NW
+Robert Ashcroft (rna@gsb-crown.Stanford.EDU) wrote:
+: In article <3mq3jo$aro@kei.com>, Eric Olesen <olesen@metronet.com> wrote:
+: >received a SFO-NRT award, AA received the SJC-NRT award, HP was awarded
+: >HNL-FUK (yep. not a typo...) and UA received the ORD-NRT award.
+: If they were awarded Honolulu-Fukuoka, why did they end up flying
+: Honolulu-Nagoya?
+EO> Eric Olesen (olesen@metronet.com) wrote
+EO> The only relief that might be possible is if HP moves out and WN can
+EO> take over their lease in T-1.
+In article <3mugju$fqu@kei.com>, Steven G. Thomson <sthomson@MO.NET> wrote:
+>The biggest problem facing air carriers in the United States today, is the
+>lack of profitability. Aging fleets need to be ordered and replaced soon,
+>and nobody is making any money.  Struggling carriers should not be allowed
+>to flounder on for years on end, under Chapter 11 protection, while being
+>subsidized by employees and creditors, as well as other airlines,
+>indirectly.
+>
+>The fare war that are sparked by these cash starved airlines do nothing
+>but plunge the whole industry into red ink. I feel that two or three of
+>these airlines must be allowed to die, to allow the strong companies to
+>get back to profitability.
+>
+>Chapter 11 was never mean't to be a way of life.
+>
+>Your comments are appreciated.
+>
+>Steven
+>
+>
+In <3mugju$fqu@kei.com> sthomson@MO.NET (Steven G. Thomson) writes:
+>The biggest problem facing air carriers in the United States today, is the
+>lack of profitability. Aging fleets need to be ordered and replaced soon,
+>and nobody is making any money.  Struggling carriers should not be allowed
+>to flounder on for years on end, under Chapter 11 protection, while being
+>subsidized by employees and creditors, as well as other airlines,
+>indirectly.
+>The fare war that are sparked by these cash starved airlines do nothing
+>but plunge the whole industry into red ink. I feel that two or three of
+>these airlines must be allowed to die, to allow the strong companies to
+>get back to profitability.
+>Chapter 11 was never mean't to be a way of life.
+>Your comments are appreciated.
+>Steven
+>From RNA's previous post:
+>They also blundered terribly in simultaneously moving into new markets.
+>They could have tried to do a shuttle-type gig out of Denver.
+>Southwest doesn't want the job, apparently, and CO had market presence.
+>I think they were right that they couldn't fight UA as a full-fare
+>airline out of Denver, but if they were going to a shuttle service
+>anyway, why the heck didn't they do it there?
+>Incidently, what's going to happen to CO's Denver-London route?  I'm
+>sure United would like it.
+>Last I heard, CO was flying the Denver-London route once per week.  AA has
+>to like that.
+> 2. What CO really will do is move the route to Phoenix, where they can tie-in
+> with HP.
+KC> == Kevin Cuddeback <k-cuddeback@nwu.edu>
+ KC> The line between Minor Hubs and Vestigial Hubs gets kind of blurry.
+ KC> Any corrections or amendments (like for Alaska and international
+ KC> airlines) would be welcome.
+ KC> Airline     Whopper Hub      Big Hubs         Minor Hubs    Vestigial Hubs
+ KC> DL          ATL,             DFW, SLC         CVG, FRA, MCO[*2]  JFK(?)
+ KC> NW          MSP, DTW                          NRT (Tokyo) MEM
+ KC> US          PIT,             CLT,             PHL, DCA, LGA, BWI, IND
+In article <3n152u$fot@kei.com>, tkliu@midway.uchicago.edu wrote:
+> I have a question as to where the hub for some of these airlines are...  I
+> know that UA has their hub in ORD, and AA has hub in ORD and DFW....i
+> think...  where is Continental, and the other major's hubs?
+davidw@bga.com (David Winters) writes:
+>I am flying this fall to Gatwick from DFW on AA.  Should I have made my
+>connection at ORD in order to fly to LHR?
+In article <3n4bul$h82@kei.com>, Peter J. Coe <petercoe@netcom.com> wrote:
+>davidw@bga.com (David Winters) writes:
+>
+>>I am flying this fall to Gatwick from DFW on AA.  Should I have made my
+>>connection at ORD in order to fly to LHR?
+>
+>Why do some people prefer JFK over EWR?  It's all about prestige.
+In article <3n4psv$2qc@gsb-crown.Stanford.EDU>, rna@gsb-crown.Stanford.EDU (Robert Ashcroft) writes:
+>In article <3n4bul$h82@kei.com>, Peter J. Coe <petercoe@netcom.com> wrote:
+>>davidw@bga.com (David Winters) writes:
+>>
+>>>I am flying this fall to Gatwick from DFW on AA.  Should I have made my
+>>>connection at ORD in order to fly to LHR?
+>>
+>>Why do some people prefer JFK over EWR?  It's all about prestige.
+>
+>Now that is a real question.  There is the matter of cab fare being
+>cheaper to JFK (because of EWR being in another state) but other than
+>that it's hard to think of any reason to pick JFK over EWR.
+>
+>I have heard that there are ATC problems at EWR, but that sounds like
+>a fixable problem, and the lineup to depart from JFK in the evenings
+>is unbelievably awful.  Traffic is a disaster, JFK is a dump, the
+>list of peeves goes on and on.
+>
+>I just don't see the prestige.  SAS abandoned JFK years ago, and
+>apparently made a lot more money at EWR through their agreement
+>with CO.
+>
+>RNA
+In article <3n4psv$2qc@gsb-crown.Stanford.EDU> rna@gsb-pound.stanford.edu writes:
+>One thing I don't understand:  EWR is building a larger international
+>area in Terminal B.  Why don't they build it off the third unused
+>"stub" pier of Terminal C?
+Robert Ashcroft (rna@gsb-crown.Stanford.EDU) wrote:
+: is unbelievably awful.  Traffic is a disaster, JFK is a dump, the
+: list of peeves goes on and on.                 ^^^^^^^^^^^^^^
+: Every year you see EWR sneaking up on JFK in the airport rankings.
+: The growth rate of EWR is faster, so I bet by the year 2000 we see
+: EWR as the largest NYC area airport.              ^^^^^^^^^^^^^^^^
+: ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+In article <3n63na$epa@kei.com> rcluett@pomona.edu (POMPEIUS MAGNUS) writes:
+> * prestige from the past.  Crazy as it may seem, to many middle- and late-
+> middle-aged New Yorkers, international travel still means departing from
+> "Idlewild".  There is a nostalgic romance in their minds which the present
+> condition of the airport apparently does not shatter.  Add to this what
+> for many New Yorkers remains the "stigma" of New Jersey and these folks
+> will continue to choose JFK for international departures.
+In article <3n22d2$969@kei.com>, davidw@bga.com (David Winters) writes:
+|> I am seeing time and time again that the U.S. to Gatwick is not truly
+|> desirable.  No other airline would particularly want CO's route from DEN
+|> or AA desperatly wants to keep UA from ORD to LHR or get DFW to LHR.
+|>
+|> Why from an American traveler standpoint is Heathrow superior to
+|> Gatwick.  My understanding is that Heathrow is closer to Central London.
+|> However, I am also under the understanding that public transportation
+|> may be better from Gatwick via commuter rail rather than the Tube at
+|> Heathrow.  Heathrow is far more congested.
+|>
+|> I can understand why LHR would be better if the U.S. airlines were using
+|> Heathrow for hub and spoke for routes beyond.  I don't believe this is
+|> the case.  Is it?
+|>
+|> I am flying this fall to Gatwick from DFW on AA.  Should I have made my
+|> connection at ORD in order to fly to LHR?
+|>
+RNA <rna@gsb-pound.stanford.edu> wrote:
+> One big opportunity for AC would have been piggybacking to Australia
+> and NZ on CO's route authorities.  The big objection was that CO had
+> no long-legged aircraft.  Well AC does!  You could imagine AC aircraft
+> being used on LAX-SYD/AKL, with connections in to LAX from Toronto
+> and Vancouver.  That would be a very effective competitor to the CP
+> service Vancouver/Toronto-Honolulu-AKL/SYD.
+>
+> I wonder if the same thing could be revived even now.  I think CO
+> has lost all credibility in the South Pacific, so maybe Air Canada/
+> America West?  It's a thought.
+> CO could have made a go at it at Denver, and I think not doing so was
+> one of a series of bonehead decisions (pulling out out of the Pacific
+> was apparently another) by the CO leadership.
+In article <k-cuddeback-1904950038480001@129.105.9.113>,
+Kevin Cuddeback <k-cuddeback@nwu.edu> wrote:
+>   Incidentally CO has parked virtually all its 747 and A300 as of March
+>1. CO is basically an all DC10 airline at the top until the 767 arrives in
+>1996 and the DC10 fleet is stretched pretty thin covering EWR-ORY,
+>EWR-LAX-HNL and wherever else the 747 used to go (with the 757 taking old
+>A300/DC10 routes and a few A300 left doing LAX,PBI,&SJU from EWR).  The
+>only 747 I see in the schedule does the daily NRT-HNL which probably takes
+>2 planes.
+>
+>   Do you really think there's good money to be made YVR/YYZ-LAX-SYD/AKL?
+RNA <rna@gsb-pound.stanford.edu> wrote:
+> One big opportunity for AC would have been piggybacking to Australia
+> and NZ on CO's route authorities.  The big objection was that CO had
+> no long-legged aircraft.  Well AC does!  You could imagine AC aircraft
+> being used on LAX-SYD/AKL, with connections in to LAX from Toronto
+> and Vancouver.  That would be a very effective competitor to the CP
+> service Vancouver/Toronto-Honolulu-AKL/SYD.
+>
+> I wonder if the same thing could be revived even now.  I think CO
+> has lost all credibility in the South Pacific, so maybe Air Canada/
+> America West?  It's a thought.
+> CO could have made a go at it at Denver, and I think not doing so was
+> one of a series of bonehead decisions (pulling out out of the Pacific
+> was apparently another) by the CO leadership.
+In article <3mjjcl$2dv@kei.com>, tkliu@quads.uchicago.edu (tkliu) writes:
+> 2. On trans-pacific flights, is it normal to have a refueling stop during
+>    winter? Last Christmas I flew on a China Airlines flight to Taipei, and
+>    had to stop over in Anchorage for refueling.  Noting that it was a
+>    747-400, I thought the -400 was supposed to be able to fly non-stop...
+In article <3n65e6$epa@kei.com>,
+Kevin Cooper <kcooper@galilee.cup.hp.com> wrote:
+>With United's varied 747 collection, each of the three fleets (1xx, 2xx, 4xx)
+>flies different routes.
+>But within each of the three different fleets, can all the planes be
+>interchanged, or are there some limitations on how these planes are flown?
+>- Do the 122s and 123s all fly the same routes?
+>- Do the 222s and 238Bs fly the same routes? (all seem out of SFO or NRT)
+>- Are the 2 744s picked up from the Northwest cancellations used differently
+>  than the other 22 747-422s?
+Martin I Eiger (mie@faline..bellcore.com) wrote:
+: In article <3n4psv$2qc@gsb-crown.Stanford.EDU>
+:   rna@gsb-pound.stanford.edu writes:
+: >One thing I don't understand:  EWR is building a larger international
+: >area in Terminal B.  Why don't they build it off the third unused
+: >"stub" pier of Terminal C?
+: There are two reasons for this that I can think of.  If I'm not
+: mistaken, the pier at the far end of Terminal C that had been unused
+: for a long time is no longer idle.  I believe Air Canada and its
+: commuter affiliates are now using it, and it wouldn't surprise me if
+: America West is there, too.  The other reason is that the customs
+: facilities are all in Terminal B already.
+Message-Id: <3nfbk2$jlg@fohnix.metronet.com>
+Robert Ashcroft (rna@gsb-crown.Stanford.EDU) wrote:
+: In article <k-cuddeback-1804951431490001@aragorn181.acns.nwu.edu>,
+: Kevin Cuddeback <k-cuddeback@nwu.edu> wrote:
+: >
+: >KMC>   Then of course there is the dreaded cost of the new airport. The
+: >KMC>lavishness of EWR's Terminal C were one of the things that made
+: >KMC>PeoplExpress' hub there infeasible in the long run.
+: >>
+: >RNA> What on earth are you talking about?  PE never got to see the inside
+: >RNA> of that terminal.  And when CO finally took over PE they found the
+: >RNA> design dangerously spartan for the CO needs.
+: >   Just as CO could look ahead and see that DIA would make hubbing in DEN
+: >expensive, I'm saying that both PE and CO had the ability to look ahead
+: >and see that when Terminal C opened PE would no longer have a low cost hub
+: >as a comptetive advantage.  PE, then stuggling, saw that the news could
+: >only get worse at EWR when the moved into Termainal C.  CO sort of plays
+: >the role of UA at EWR--the same facility that was too expensive for PE
+: >might be ok for CO.  (EWR is, however, clearly a very expensive hub per
+: >pax compared to CLE, GSO or even IAH, I think)
+: That's an interesting theory, one I have never heard before and one that
+: perhaps Eric Oleson, who was at PE, can discuss.  I have never heard of
+: the PE terminal 3 as being a contributing factor in PE's demise.  I have
+: heard of overexpansion, the purchase of Frontier, and clever use of
+: CRSes by the traditional airlines.  In any event, PE had little choice
+: in the matter of its terminal---the North terminal was inadequate.
+>   JEFFGIVENS@delphi.com (Jeff Givens) writes:
+>  On or about 18 Apr 1995 20:04:30 GMT, JAustin@stratus.skypoint.net
+>  (jaustin@interserv.com)  wrote:
+>  No offense Jon but I've always been a little put off by those ads. True,
+>  the fine print clarified everything but it just had a slight air of
+>  weaselness to it.
+>
+>  The ones that really got me are the ones claiming to be #1 over a
+>  certain multi-year time period. The fine print there is "... of the four
+>  largest airlines..."!
+>
+>  Where does it end? How about "..of all the four largest airlines that
+>  are smaller than the third largest?"
+>
+Jeff -
+In <3nlvmv$jt9@kragar.kei.com> bashir@cats.ucsc.edu (Bryan E. Esquire) writes:
+>	Many of the UA flights to Europe originate in SFO.  I'm not
+>	saying ALL flights, just many, if not the majority.
+>	Also, I'm not sure where the South AMerica flights originate.
+>	Most likely from LAX or SFO.  PanAm, I believe originated
+>	some of these flights from LAX and SFO, so unless UA decided to
+>	change the airports, that's where they originate.  (Remember,
+>	Pan Am sold their South AMerican routes to United, and Pan Am's
+>	European routes went to Delta after Pan Am's demise.)
+Molecular Biosystems (sfarber@class.class.org) wrote:
+: At least PHL has a pair of runways. The airport in San Diego (SAN) has
+: only one runway. This runway is about 9400 ft long and cannot handle
+: large Jumbo's (i.e. 747-400).
+: IMHO, SAN is the sorriest excuse of an airport. The Post district is
+: currently pouring 150 million into airport upgrading and expansion (even
+: though there is no room to expand). The money would be better spent
+: finding a new location for an airport.
+: Any comments?
+> Incidently, I recently looked at the Air France schedule NYC to
+> Paris.  Not counting the Concorde, there are either two or three
+> flights a day, one of which is from Newark.
+>
+> Considering the vast amount of traffic going to London on BA, that's
+> pathetique.  OK, so CDG will never be the connecting megalopolis that
+> Heathrow is, still...
+Gregory D Margrett (margrett@alpha2.csd.uwm.edu) wrote:
+: The AQR includes three factors that have zippo corelation with "quality":
+: *Financial Stability, and
+: *Cost per Seat Mile:  I suppose they wanted some way of proving that
+: financially-troubled airlines are "bad".  But ask youself...has AA's Quality
+: imporved versus 1992 when they were losing money hand over fist?  Is DL's
+: quality *improving* as they continue to cut ASM costs?  Duh.
+: *Fleet Size:  This is laughable.  Nothing makes an airline with a bigger
+: fleet have a higher quality serive.
+: A stronger arguement could be made that bigger is *worse*, although I
+: think it is a meaningless factor.
+: Lastly, they ignore what Consumer Reports Travel Letter considers very
+: important tie-breakers
+: The misguided AQR ranks the majors in this order:
+: AA, WN, UA, DL, US, NW, HP, TW, CO
+Albert Avery Vise (avise@netcom.com) wrote:
+: Robert Ashcroft (rna@gsb-crown.Stanford.EDU) wrote:
+: It's hard to form much opinion one way or another about DOT's route
+: allocation, because so little has been done in five years or so since the
+: U.S.-Japan proceeding that yielded such winners as San Jose-Tokyo (which
+: still cannot be operated nonstop with a fully loaded aircraft).  There
+: have been a fair number of frequency allocation proceedings for service to
+: Latin America, its really not the same.
+: As a matter of law, I suppose the award of all three USAir London routes
+: to American is defensible (a U.S. Court of Appeals certainly thought so).
+: BUT as a matter of equity, I think it is horrible.  First, American got
+: the Philadephia route because other bids, like NW's Detroit-London
+: Heathrow application, were rejected as being outside the scope of the
+: bilateral.
+: Then, American got RDU and BNA rights in a competitive
+: selection case.  Not only did simple fairness dictate an award to Delta,
+: I really question the award of the rights at two weak hubs so close
+: together, geographically.
+: One theory, which never has been proven, is that the awards were
+: politically motivated -- i.e. geared to producing NAFTA votes.  After
+: all, both Tennessee and North Carolina have more members of Congress than
+: Utah.
+In article <3nltjb$jt9@kragar.kei.com>,
+Andrew <smithamc@matai.vuw.ac.nz> wrote:
+> Its interesting to see that Cathay Pacific with its British management
+> has chosen to follow the British school of competition -cosy monopolies.
+> Its no different to BA's strangulation of LHR and the crumbs that Virgin
+> gets.
+> You can't tell me that 240 seats per day (1 B767-300 daily)
+> on BKK/HKG and HKG/SIN makes that much difference to Cathay and by
+> removing 120 seats from sale (affecting the BKK/HKG flights more than
+> the SIN/HKG route) will help Cathay that much.
+>
+> What's really pissing CX off is that QF's HKG/BKK flights link with
+> QF's BKK to LHR/FRA/ROM flights.  This creates extra competition for
+> Cathay's lucrative and expensive HKG to Europe flights.
+> Cathay's mgmt
+> is too timid or lazy to tidy up their performance and reduce costs
+> (and before people argue with that one look at the pitiful utilisation
+>  of their L1011s -one hopes their new A330s won't gather dust in the
+>  same way).
+> Yes I know the Australians are complete hypocrites with regards to
+> airline competition but Cathay should think where Hong Kong would be
+> now if all the world has stooped to the same pitiful strategy with
+> regards to trading in other goods.  HKG wouldn't be exporting anything.
+In article <k-cuddeback-2704951905580001@mac239.kellogg.nwu.edu>,
+Kevin Cuddeback <k-cuddeback@nwu.edu> wrote:
+>RZLF80A@prodigy.com (Larry Nebron) wrote:
+>
+>
+>ADENOIDS, I know, are right near one's tonsils, so of course one would not
+>want a 777 making a 90 degree right turn near them--at least not without
+>an otolaryngologist present :-)
+>
+>So I give, why'd they do it, and what is it that they did?
+GDG>That said, the *only* economic advantage in owning new A/C is the
+GDG>public perception.  I believe strongly that the public would rather
+GDG>fly on planes that look new and fancy rather than cheap and run-down.
+RNA>Fuel efficiency, greater reliability, possibly reduced maintenance costs.
+RNA>What about these?
+>   wesley+@pitt.edu (Grant C Lynde) writes:
+>  When will US be phasing out it's 767 fleet?  I was just browsing eaasy
+>  sabre and found that they are flying one on a CLT->PIT route and was
+>  rather surprised.  I thought they wanted to do it ASAP.
+In article <3nricv$4v9@kragar.kei.com>,
+Eric Olesen <olesen@metronet.com> wrote:
+>I'd be inclined to say that profitability and customer satisfaction are
+>quite closely related. If there wasn't at least a perception of quality,
+>there'd be no repeat business. Without repeat business, there is no
+>profitability. So yes, the fact that a carrier is financially stable does
+>reflect to great extent customer satisfaction.
+>: *Fleet Size:  This is laughable.  Nothing makes an airline with a bigger
+>: fleet have a higher quality serive.
+>
+>Again, the airline couldn't afford to have a larger fleet unless there
+>was some cash behind it, and cash comes from repeat business.
+>Would you
+>say that the number of McDonalds franchises is a reflection on the
+>success of the company and its profitability? Yes. Does the fact that
+>they have a lot of franchises mean that they provide quality? Indirectly,
+>yes.
+In article <3mgrhs$rf3@kei.com>, awone@panix.com (Allen Wone) writes:
+>I am looking for a list of airports around the US that are under major
+>rehab, new terminal and such.  A list of the airport along with
+>what is going on would be most appreciated..
+>ATC lost radio contact with a UA jetliner over the North Altlantic as
+>the Boeing 767, having lost one of its two engines, headed on an
+>emergency course for Bermuda ...
+>Controllers say that if the plane had been forced to ditch in the
+>water, they would not have had a precise location to send rescuers.
+rna@gsb-pound.stanford.edu writes:
+>Hot off the press:  A hailstorm damaged 55 AA jets and 24 American
+>Eagle props at DFW.  167 flights cancelled, the equipment to be
+>pulled from service until inspection can be made, expect service
+>reduction into Monday.
+>Wonder if Delta was affected.
+>P.S. How many other airlines in the world would have this sort of
+>problem?  Few ever have that many planes in one place at one time...
+In article <3o8pqn$rnn@kragar.kei.com> olesen@metronet.com (Eric Olesen) writes:
+> : P.S. How many other airlines in the world would have this sort of
+> : problem?  Few ever have that many planes in one place at one time...
+>
+> Well, just imagine a similar hailstorm at ATL or MEM.... or the Kobe
+> earthquake hitting NRT or SEL...
+In article <3o3kqn$n8r@kragar.kei.com>, Andrew (smithamc@matai.vuw.ac.nz) wrote:
+@ chuanga@wis.com (Andrew Chuang) wrote:
+@ >
+@ > In article <3nltjb$jt9@kragar.kei.com>,
+@ > Andrew <smithamc@matai.vuw.ac.nz> wrote:
+@ >
+@   Nevertheless, they have a good reason
+@ > for limiting capacity/rights to HKG because Hong Kong's Kai Tak Airport has
+@ > long reached its full capacity.
+@ The real problem at Kai Tak has been  the growth of flights from China using
+@ narrow body aircraft.  Next time you are there look at the departure
+@ boards and see about 40% of flights going to China -a large number of
+@ which using narrow bodies.  But for political considerations they
+@ wouldn't push them to use their landing rights more efficiently.
+@ > However, there is no reciprocating
+@ > fifth-freedom benefit for CX, hence, CX thinks it's doing Qantas a favor
+@ > by letting QF picking up pax in HKG to BKK/SIN (and perhaps to Europe).
+@ > Airlines like Malaysia, Thai, and even Singapore have been offer
+@ > below-market (actually, should be below-CX) European fares from HKG.
+@ > Therefore, I don't think QF's European traffic is the thing that really
+@ > pisses CX off.
+@ For your information CX does have fifth-freedom rights from Australia
+@ but doesn't use many of them.  CX flies Perth/Bali/HKG at the moment
+@ and did operate Perth/Kota Kinabalu/HKG a few years back.
+@ They also
+@ have trans-Tasman rights to New Zealand.  There are probably heaps of
+@ others too, but when you run a protectionist regime you probably can't
+@ get reciprocal rights from third countries to make it work.
+@ > > Cathay's mgmt
+@ > > is too timid or lazy to tidy up their performance and reduce costs
+@ >
+@ > Well, I have to argue with you on this one.  Cathay has been very conscious
+@ > about its cost.  It has moved some of its operations from Hong Kong to
+@ > reduce costs.  The management was very aggressive in making the cockpit
+@ > and cabin crews to accept longer working hours and reduced benefits.
+@ Do you know what some of their expatriate pilots are paid?  Over US$300K
+@   I know they're trying to do something about it, but it should have
+@ never been allowed to get in that state in the first place.
+@ I know -the Australians have a lousy record on protectionism.  But
+@  the Brits are happy for the Chinese
+@ dominated part of the HK economy to compete and face the world economy
+@ unprotected  -hence the openness but
+@ the bits controlled by the old Brits (eg: Cathay) play by the British
+@ rules of protectionism or playing dirty to keep the competition tied
+@ up in knots.  The British idea of competition is BA vs Virgin, BT vs
+@ Mercury which are all David and Golliath battles where David has
+@ one hand tied behind his back because Golliath has all the clout with
+@ the politicians and civil service -plus the old-boy, school-tie
+@ networks.
+In article <3o3pg1$n8r@kragar.kei.com>, Kraig R. Meyer <kmeyer@aero.org> wrote:
+>USAir's latest place to cut money from is from first class meal service.
+(text deleted)
+(changes included:)
+>
+>* Elimination of a fruit and cheese plate, which used to be served
+>after meals on most longer flights.
+>
+>* Elimination of individual beverage carafes (now they leave a can on
+>your tray table)
+>
+>* Elimination of frozen yogurt on some flights
+In article <41dl67$n50@gsb-crown.Stanford.EDU>
+Robert Ashcroft <rna@gsb-crown.Stanford.EDU> wrote:
+RNA = Robert Ashcroft
+In article <41dbac$29o@kragar.kei.com>,
+Michael Jennings <M.J.Jennings@amtp.cam.ac.uk> wrote:
+MJJ = Michael Jennings
+MJJ >   This is unofficial, but according to this morning's
+MJJ > Financial Times, Air China (ie the main PRC airline on
+MJJ > international routes) has chosen Boeing over Airbus for
+MJJ > an order of around 20 aircraft, including about 15 777s.
+MJJ > Apparently Airbus have been pushing very hard for this
+MJJ > order, but were recently told 'We have chosen Boeing' by
+MJJ > the airline. I would think Airbus are starting to get a
+MJJ > little worried by the lack of A340 orders since Boeing
+MJJ > launched the 777
+RNA > The make-or-break order would seem to be the upcoming Singapore
+RNA > Airlines order.  If SQ goes 777 rather than A340/330, Airbus's
+RNA > goose is really cooked.  Were I inthan A340/330, Airbus's
+RNA > goose is really cooked.  Were I in charge of Airbus, I'd probably
+RNA > give them away.  Well, they sort of do that already, but I'd
+RNA > really pull out the stops.
+RNA > Of course Boeing knows this too, so is probably willing to wheel
+RNA > and deal as well.  No doubt the SQ executives are being treated
+RNA > _really well by both Seattle and Toulouse at the moment.  Oh,
+RNA > heck, and Long Beach, not that the MD-11 really has much of a chance.
+RNA > I think the edge has to go to Boeing.  So many Asian airlines have
+RNA > already has to go to Boeing.  So many Asian airlines have
+RNA > already thrown their support behind the 777.  And you have to remember
+RNA > that in some way it's a local product, with much of the fuselage
+RNA > sections built in Japan.
+On 25 Aug 1995 17:17:02 -0700, bashir@cats.ucsc.edu (Bryan E. Esquire) said:
+>         747 series aircraft are generally used for Trans-oceanic flights,
+>         that's true.  But the 747's are extremely useful is HIGH DENSITY
+>         traveled areas, particularly SFO-ORD, SFO-JFK, SFL-Dulles and
+>         the HIGH DENSITY "commuter" flights in Japan, where 747's are filled
+>         to their max design capacity.
+>         On these routes, 767's haven't made much of dent.  Trans-con flights
+>         are dominated by 757/767, that's true, but on the high density
+>         flights from major city to major city, 747's dominate.
+Peter Gilmore <Peter.A.Gilmore@Dartmouth.EDU> wrote:
+>When will we see a complete faze out of the Boeing 727?  I think its
+>about time and I wonder what airlines like CO, TW, DL and UA are going
+>to do when the time comes.  Will the order MD-80's as replacements?

@@ -1,0 +1,153 @@
+	- Working knowledge of
+		- C and C++ programming language, Unix
+		- X11 R3 or higher, Xt-Toolkit (Athena) and/or Motif Toolkit
+		- Object Oriented Programming techniques
+	- Writes "good" code (modular, compact, well-documented)
+Also helpful, but not required,  would be familiarity with the following:
+	- Silicon Graphics workstations and "gl"
+	- Principles of Computer Graphics
+	- "Jack"
+1. Why is it that US carriers going trans-pacific don't seem to be as
+   favorable in the eyes of Asian travelers? It seems that somehow US
+   carriers do not offer the same type of service, or at least, the level
+   of service is not comparable to that of Asian carriers.
+2. On trans-pacific flights, is it normal to have a refueling stop during
+   winter? Last Christmas I flew on a China Airlines flight to Taipei, and
+   had to stop over in Anchorage for refueling.  Noting that it was a
+   747-400, I thought the -400 was supposed to be able to fly non-stop...
+3. Why is it that such airlines like Singapore, Cathay Pacifi, and China
+   are able to post profits year after year while US carriers are
+   suffering? In fact...they give more to the passengers while the fare is
+   often lower than US carriers...
+Hmm...if only I can remember all of the things I have wanted to ask...
+Anyhow....One more thing..I flew on a new Taiwanese carrier called EVA
+Airways last summer...in their Economy Deluxe class, and thought it was
+the most excellent...Has anyone else flew on them? What do you think? and
+is their service similar to that of Virgin Atlantic's?
+1) California was Strategicaly Important to UA
+2) California has good densities.
+1. * The 737-300/400/500 is kept under one column (345).
+2. The engine selection (other than the A340, B737, MD80 and 90) is
+   indicated by the letter behind each order number.  C,G,I,P, or R stands
+   for CFMI, GEAE, IAE, P&W, or R-R, respectively; U for undecided/unknown.
+3. If the MD95 is launched, the statistics will be kept under the MD90, and
+   B will be used for BMW-R-R's BR715 engine.
+4. Send an e-mail to me (chuanga@iia2.org) for any order that I have left out.
+   Make sure the orders are announced firm orders with a verifiable source.
+5. airline code:  3Q - Yunnan (China),    AI - Air-India,   NH - All Nippon,
+   IY - Yemen,    BG - Biman Bangladesh,  LH - Lufthansa,   ML - Midway,
+   SK - SAS,      JL - Japan AL,          AF - Air France,  GF - Gulf Air
+   GMI- Germania,
+  - 18 747s -- Presumably the entire 747-100 fleet, which includes
+	13 ancient 747-122s that United bought new and another three
+	even more elderly, ex-American 747-123s.  The article claims
+	these aircraft won't meet noise standards, yet the seven ex-
+	Qantas 747-238Bs aren't much better.
+  - 31 DC-10s -- I'm afraid I've lost track of how many DC-10s United
+	has retired thus far.  This undoubtedly covers the entire
+	DC-10-10 fleet, but I'm not sure if it includes the eight-
+	member DC-10-30 fleet or not.  The latter aircraft are based
+	in Honolulu, I believe, and except for HNL-ORD non-stops and
+	occasional trips to SFO for maintenance they mainly fly to
+	and within Southeast Asia.
+  - 45 737-200s -- All of the remaining 737-222s, but not the 24-
+	member fleet of 737-200 Advanced aircraft acquired from the
+	original Frontier in the late 1980s.
+(1)  Southwest likes short-haul markets
+(2)  There are virtually no significant DEN markets under 400 miles
+(3)  Continental REALLY REALLY wanted to be like Mike, uh, I mean Southwest
+(4)  Continental abaondons their oldest hub on the misguided notion that
+     low-cost carriers like WN can't make money between 450-900 miles, so
+     neither can they.
+      -	strong US economy
+      -	ties to KLM
+      -	trimming unprofitable routes
+      -	minimal competition from low cost airlines
+	(1) Antiquated air traffic control system
+		Some aspects of our system date to prewar times, such as
+		pilots flying over the Atlantic using high frequency radios
+		to speak to controllers in Islip to report flight progress
+		through a third party, thus slowing response time considerably,
+		becasue the FAA lacks equipment that can follow a plane acros
+		the Atlantic.
+	(2) Wind Shear
+		A problem that can be treated by the installation of Doppler
+		Radar Systems (TDWR), but has been hindered by environmental as
+		well as political oppostion.  Doppler Technology is only in
+		place at IAH, MEM, and STL.  The FAA says that 47 additional
+		Dopplers will be working by 1996.
+	(3) Ice Buildup/Problems with De-Icing
+		Ground delays causing ice buildup even after the aircraft has
+		been de-iced because the chemical only protects the wings for
+		fifteen minutes.  Problems with commuter aircraft is discussed
+		as well.
+	(4) Terrorism
+		Yesterday's bombing in Oklahoma City is just another example of
+		how vunerable the United States is to terrorist attacks.  The
+		article maintains that it is very easy for a terrorist to bomb
+		a domestic flight, but suggests that they may not realize how
+		easy it is.  Technology to fight this would cost ridiculous
+		amounts of money.
+	(5) Conflicts Between "Man and Machine"
+		A certain aircraft manufacturer whose name starts with an "A"
+		was mentioned several times in this section, with a United
+		pilot being quoted as saying "Why did it do that" in refrence
+		to an action performed by his aircraft.
+	(6) Ground Collisions/Traffic
+		This topic ties into the first one, the fact that controllers
+		lack equipment that can warn them of possible ground
+		collisions.  The window is the only way a controller can see
+		aircraft on the ground now, and radar systems are being
+		pointed to as a method of warning controllers of impending
+		accidents.  This technology is also very expensive, and has
+		some oppostion within the FAA.
+	(1) immediate modernization of the Air Traffic Control System,
+	(2) taking control of the FAA away from Congress,
+	(3) make the FAA enforce safety issues only, not economic ones,
+	(4) improve flight data recording devices,
+	(5) set higher standards for pilots,
+	(6) increase the number of controllers,
+	(7) eliminate "lap rides" for children under two and require
+	    safety seats for children,
+	(8) improve airport security,
+	(9) get Doppler technology up and running where it is most needed
+	    immediately, and
+	(10) listen to what fliers want.  According to a Newsweek poll, 71%
+	    of fliers would pay higher fares for safety improvements, and
+	    94% of those surveyed said they would tolerate delays and
+	    cancellations in favor of higher safety standards.
+1. SJC-NRT has not required a load restriction or fuel stop for several
+years. Even on a bad day.... The runway was extended and MDC worked out
+some of the range problems.
+2. Latin America is one of the fastest expanding markets. Keep watching
+it as their economies grow and the rest of the world is still faltering.
+3. AA got PHL-LHR because they originally bought the authority from TWA, and
+were not allowed to pick up the authority in 1991. They also paid for
+STL-LHR and ended up having to give it back (without a refund!) to TWA.
+4. The traffic justified both routes, as did the community and civic
+support (a trick learned from UAL's bid for ORD-NRT). With the amount of
+high-tech and offshore manufacturing in both TN and NC, there was demand
+and commitments to use the service. I didn't see that in DL's bid, aside
+>from  the alleged support of the Mormon church....
+1. CX's L1011s are used just like the B737/MD80 are used by US carriers.
+   Most of the sectors served by CX's L1011s are between 1.5 hours to 3.5
+   hours.  Furthermore, many East Asian airports have night curfews.
+   Therefore, 6-9 hours of utilization are not unreasonable.  CX is
+   definitely not alone in this category.  If you check out TG's, MH's,
+   CI's A300 and SQ's A310 utilizations, you'll find CX's L1011 number is
+   not low.  Actually, CX has been very good in keeping high utilization
+   of its long-haul aircraft.  When CX got its first few B747s in 1979/80,
+   I was shocked that the average B747 utilization for CX was around 16
+   hours a day!
+2. CX's L1011s are fully depreciated, thus, they can afford to collect
+   some dust (remember there are many more L1011s in the deserts that are
+   not generating a single cent of revenue).  I believe CX also operate a
+   lot of extra and "chartered" flights.  For example, supplement flights
+   are quite common on the HKG-TPE run.
+1. In early 80s, it tried to limit Southeast Asian carriers' six-freedom
+   rights from Australia to Europe (Kangaroo route).  (This is the only
+   incidence that I can remember a government made a _major_ effort to
+   impose limit on six-freedom rights.)
+2. in 1993, NW's OSA-SYD fiasco,
+3. and the recent unilateral suspension of a free market agreement
+   with New Zealand.

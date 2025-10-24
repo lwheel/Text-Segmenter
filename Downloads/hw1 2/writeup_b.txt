@@ -1,0 +1,10 @@
+For this project, I created many many features for my model, I think this caused some overfitting.
+I started this project by printing the data by each kind of category and reading through it.
+After doing that I created around 10 features for each category and got to around .80 percent accuracy.
+After that I started looking through my errors and adding more features based on those errors. At this point I got to around .89 percent accuracy.
+However, at this point my score seemed to plateau, I started trying to debug this using a variety of methods, mostly a confusion matrix. Based on those results, I added
+more features to try to counteract the problems that I saw in the confusion matrix, but it did not seem to have any result, which I beleive is because of overfitting.
+Some of the features I added that did not work, so I removed were around parts of speech detection, using the data files included in the starter code. However, these features ended up hurting my score, probably due to the similar words that are used throughout the dataset, so distinguishing by parts of speech is not a very helpful feature. 
+
+
+For the model, I chose to use a random forest model, which I found to have to best success, probably because of the size of the dataset.

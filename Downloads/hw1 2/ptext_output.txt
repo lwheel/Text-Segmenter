@@ -1,0 +1,2165 @@
+Applications are invited for appointments as Beckman Institute Fellows at the
+University of Illinois at Urbana-Champaign (UIUC). These fellowships provide an
+opportunity for young scholars to initiate a post-PhD career of independent
+research in an exciting and supportive academic environment.
+The fields of research encompassed by the fellowship program include the
+behavioral and biological sciences, chemistry, engineering, and physics.
+Selection of Beckman Institute Fellows will be based upon evidence of
+professional promise, capacity for independent work, interdisciplinary
+interests, and outstanding achievement to date.  Preference will be given to
+those applicants whose research interests correspond to, or have significant
+relationship to, one or more of the programs in the Beckman Institute.
+A Beckman Fellow will be appointed for a term of up to three years.  Candidates
+for a fellowship should be in their last year of predoctoral training or in the
+first year or second year of a postdoctoral appointment.  Completion of all
+requirements for the Ph.D. degree is required before the fellowship can begin.
+Fellows may begin their appointments as early as June 1993, but no later than
+December 31, 1993, without special permission from the director of the Beckman
+Institute.
+During the term of the fellowship appointment, no teaching or other
+administrative duties will be required of the Fellow, other than a brief
+written annual report to the director of the Beckman Institute.  Thus, the
+Fellow should be able to take maximum advantage of the opportunity to launch a
+strong academic career.  On the basis of the experience gained during the term
+of the fellowship, the Fellow should be able to compete very effectively for
+academic openings in research universities throughout the nation, including
+UIUC.
+The fellowship appointment provides a stipend of $35,000 per year, and includes
+a full fringe benefit package.  In addition, it will provide a budget for
+support of research activity, based on discussions between the Fellow and the
+director of the Institute.  Each Fellow will be assigned an office in the
+Beckman Institute, and will be provided with clerical and other staff support,
+computing resources, and access to facilities necessary to the Fellow's
+research program.
+Persons wishing to apply for a Beckman institute Fellowship should contact the
+Beckman Institute for an application packet.
+At time of contact, please indicate specific Beckman Institute research groups
+about which you wish information (see below).
+Deadline for application for full consideration: Application must be POSTMARKED
+by December 1, 1992.
+The names of those selected as Fellows will be announced on or about March 1,
+1993.
+*Program announcement containing more information is available in 269 Moore.
+You've heard whispers.  You've heard rumors.
+Well ... they're true!  There actually is going to be a GSB this week:
+Come one, come all!  Free BEvERages (soda, juice, etc...) and various
+other munchies.  A perfect way to finally put those 500 and 501 exams
+out of your thoughts!
+Your humble hosts,
+Bill and Steve
+The Computer Graphics Research Lab is offering a part time position (1/2 time)
+for a programming assistant (either undergrad or graduate student) to help
+with the implementation of a new X-Windows graphical user interface for the
+"Jack" animation program .
+Description:
+The main research focus of the Computer Graphics Research Lab has been the
+the development of a general high-level animation package called "Jack."
+Todays version is running on a Silicon Graphics platform using the "gl"
+graphics package supplied by SGI. One of the projects currently underway
+in the lab is to rewrite the graphical user interface of "Jack" to run
+under the X-Windowing System, which has become a standard in the industry.
+It will be the responsibility of the successful candidate to assist
+the system programmer and one of lab's graduate students in the development
+of this interface.
+Qualifications:
+The ideal candidate would meet the following qualifications:
+Interested people should contact Dr. Norman Badler at badler@central.cis
+The Mathematical Sciences Department of the IBM Thomas J. Watson Research
+Center invites applications for its 1993-94 Postdoctoral Fellowship for
+research in mathematical and computer sciences.  This fellowship provides
+scientists of outstanding ability an opportunity to advance their scholarship
+as resident department members at the Research Center. The department provides
+an atmosphere in which basic research is combined with exposure to technical
+problems arising in the industry.  The program of the Mathematical Sciences
+Department is organized for research in pure and applied mathematics, and in
+theoretical and exploratory computer science.  Work in the department is
+on-going in algorithms, computational complexity, coding, numerical analysis,
+differential equations, mathematical optimization, logic design, computer
+algebra, statistics, dynamical systems, continuous complexity, computational
+linguistics, signal processing, user interface technology, and knowledge-based
+systems. Close interaction with permanent department members is expected, but
+fellows will be free to pursue their own research interests.
+Each candidate must have a doctorate and not more than five years of
+postdoctoral professional experience when the fellowship commences.  The
+fellowship has a period of one year, and may be extended by another year on
+mutual agreement.  The stipend will be generally in the range of $63,000 to
+$65,000 per year, depending on experience.  In addition, there will be an
+allowance for moving expenses.  The Research Center is located in Westchester
+County, approximately forty miles north of New York City.
+To apply, please submit the following by JANUARY 15, 1993:
+                                         ----------------
+Resume, including thesis summary; reprints of publications based on thesis and
+other research; a research proposal; and visa status.  Citizens of countries
+defined as restricted by the U.S. Department of Commerce, are required to have
+a green card or an equivalent visa status.  Applicants are responsible for
+requesting that three or more letters of reference, including one from the
+thesis advisor, ARRIVE BEFORE JANUARY 15.  Direct all material to:
+One fellowship will be awarded.  Each applicant will be notified individually
+as soon as the committee has reached a decision on the application, no later
+than March 15, 1993.
+Questions about the Fellowship Program can be sent to Dr. Eric K. Mays,
+Chairman of the Committee on Postdoctoral Fellowships, EMAYS@WATSON.IBM.COM.
+On Wed. November 25th, 1992, Prof. Omar Wing, Dean of The Chinese University of
+Hong Kong, will visit the CIS Department to interview PhD students (from CIS
+and EE Depts) for Senior Lecturer/Lecturer positions in the Faculty of
+Engineering in the following areas:
+Computer Science: All fields, including multi-lingual and multimedia databases,
+Chinese computing systems and Chinese language processing.
+Computer Engineering: All fields.
+Electronic Engineering: Opto-electronics, VLSI circuits and systems.
+Information Engineering: Optical communications and wireless commmunication
+networks, image processing.
+Systems Engineering: Operations research and systems optimization, robotics,
+integrated manufacturing systems and systems automation.
+Qualified candidates will have PhD degree with strong research and publication
+record and a commitment to both undergraduate and graduate teaching.
+Successful candidates are expected to initiate a research program of value to
+Hong Kong and its industries.  Internal and external funds are available to
+support both theoretical and experimental research.  The Faculty is equipped
+with a network of some 200 workstations with access to Internet.  Salaries are
+competitive and the total compensation is comparable to that in the U.S.
+Appointees receive benefits that include passage, baggage allowance, long
+leave, housing allowance, superannuation or gratuity.  Please send resume,
+names of three references and a brief research plan to Professor Omar Wing,
+Dean, Faculty of Engineering, The Chinese University of Hong Kong, Shatin, Hong
+Kong.  FAX: (852) 603-5701.   Email: owing@eng.ie.cuhk.hk.
+Prof. Wing will be able to interview about 8-10 applicants on 11/25.  I'm
+scheduling the appointments, so if you'd like to meet with him, please send me
+email (nan@central) asap, or call me x8535.   The interviews will take place in
+the small conference room of the GRASP Lab, 3401 Walnut St., Room 302 C.
+Thanks,
+Nan
+The Dept of Energy's Computational Science Fellowship Program is designed to
+support highly capable students pursuing doctoral study in applied sciences or
+engineering disciplines with applications in high-performance computing.
+Fellows also must participate in off-campus research at designated practicum
+centers.
+The program offers a minimum of $18,000 annual stipend and payment of tuition
+and fees for doctoral study in scientific and technical disciplines using
+computational science methods.  The program is open to U.S. citizens and
+permanent residents aliens who have completed their first year of graduate
+school.  Appointments are reviewed anually and may be renewed up to a limit of
+four years.
+For the 1993-94 awards, applications must be received by the Computational
+Science Fellowship Program, Ames Laboratory, by 4:30 p.m. January 25th, 1993.
+All college transcripts, Graduate Record Examination scores, and other
+materials are required for a complete student application.  Fellowship
+selections will be announced in mid-April, 1993.  This is an equal opportunity
+program open to all qualified persons without regard to race, sex, creed,
+color, age, physical disability or national origin.
+For the 1993-1994 awards, universities other than the ones below (who are
+currently participating in the program) may be used for the fellowship, pending
+approval of the applicant's plan of study by the review committee responsible
+for this program.
+For application materials or additional information or program policies and
+guidelines, please write to:
+Universities currently participating in the program include:
+Carnegie Mellon U, Colorado State U, Columbia U, Cornell U, Florida State U, U
+of Illinois, U of Michigan, New York U, State U of New York at Stony Brook,
+North Carolina State U, Northwestern U, U of Pittsburgh, Princeton U,
+Renssalaer Polytechnic Inst, U of Tulsa, U of Wisconsin, Cal Inst of Tech,
+Mississippi State U, U of North Carolina, U of Tennessee, U of Texas at Austin,
+and U of Washington.
+We are looking for a new faculty member with either stron research records or
+excellent research potential to fill a tenure track psoition at the Assistant
+or Associate Professor rank. Applicants must have an interest and ability to
+teach effectively at both the undergraduate and graduate levels. The successful
+candidate will be expected to carry out independent research and other academic
+duties associated with our bachelor's master's and Ph.D. programs. Priorties
+will be given to the following areas of specialization: software systems, pro-
+gramming languages and parallel computing. However, truly exceptional candi-
+dates in all computer science areas are encouraged to apply.
+Corcordia is committed to Employment Equity and encourages applications from
+wommen, aboriginal peoples, visible minorities and disabled persons. All other
+things being equal, priority will be given to women candidates. Interested
+applicants should send a resume and the names of at least three references to:
+In accordance with Canadian immigration requirements, priority will be given to
+citizens and landed immigrants of Canada.
+As a means of increasing the number of U.S citizens trained in disciplines of
+science and engineering of military importance, the Department of Defense plans
+to award approximately 100 new three-year graduate fellowships in April, 1993.
+National Defense Science and Engineering Graduate Fellowships will be awarded
+for study and research leading to doctoral degrees in, or closely related to,
+the following disciplines:
+AERONAUTICAL AND ASTRONAUTICAL ENGINEERING
+BIOSCIENCES (includes Toxicology)
+CHEMICAL ENGINEERING
+CHEMISTRY
+COGNITIVE, NEURAL, AND BEHAVIORAL SCIENCE
+COMPUTER SCIENCE
+ELECTRICAL ENGINEERING
+GEOSCIENCES (includes terrain, water, and air)
+MANUFACTURING SCIENCES AND ENGINEERING (includes Industrial Engineering)
+MATERIALS SCIENCE AND ENGINEERING
+MATHEMATICS
+MECHANICAL ENGINEERING
+NAVAL ARCHITECTURE AND OCEAN ENGINEERING
+OCEANOGRAPHY
+PHYSICS (includes Optics)
+National Defense Science and Engineering Graduate Fellows selected in 1993 will
+receive a stipend in addition to full tuition and required fees.  Last year,
+the annual amount of the stipend averaged $16,000.  Also, the fellow's graduate
+academic dept will receive $2,000 per year.
+*Recipients of National Defense Science and Engineering Graduate Fellowships do
+not incur any military or other service obligation.*
+Specific information regarding the fellowship and an application package is
+available from Battelle Memorial Institute, a not-for-profit research
+institution, which is administering the program for the Department of Defense.
+The application package will also contain information about the Office of Naval
+Research Graduate Fellowship program administered by ASEE and the Air Force
+Laboratory Graduate Fellowship program administered by SCEEE.
+To request a copy of the application materials to be mailed directly to you,
+contact Battelle at the following address:
+Completed applications must be received by Battelle by January 20, 1993.
+The Minority & Women Doctoral Directory is pleased to announce the third annual
+publication of the _Minority & Women Doctoral Directory_.  The Directory,
+available September 20, 1992 and published in two volumes, is a national
+listing of minority and women doctoral students who have recently received or
+are soon to receive their doctoral degree from approximately two hundred major
+research universities in the United States.  There has been a 10% increase in
+student participation over last year's edition, with the new Directory listing
+approximately 3,800 Black, Hispanic, American Indian, Asian American and women
+students in nearly 80 fields in the sciences, engineering, and the social
+sciences and the humanities.   New for 1992-93 are listings for nursing and
+architecture, and the Directory continues to offer listings for MFA/DMA
+students in the fine and performing arts.  Each entry includes name,
+local/permanent address and telephone number(s), ethnicity, department and
+areas of specialization, date of completion, dissertation title, and name and
+address of the faculty advisor.  This year's entries also include, when
+available, citizenship and current employment/postdoctoral appointments.
+Entries are indexed by field of study.
+The information for the Directory was collected over late spring and summer
+1992 to insure accurate mailing addresses.  Only those students from last
+year's Directory who updated their listing for the new edition are included.
+As in past years, the Directory is available in two versions: either as a
+complete two volume set or as 58 separately available Departmental Rosters.
+If you're interested in obtaining the Minority & Women Doctoral Directory, or
+for information on being included in future editions, please write to the above
+address or call the above telephone number.
+The problem of model-based object recognition is a fundamental one in the
+field of computer vision, and we believe that it represents a promising
+direction for practical applications.  Realistic object recognition systems
+need to be able to perform well with noisy inputs, and within reasonable time
+bounds.
+In the first part of the talk,  we present an analytical study of the
+performance of the geometric hashing method in the presence of noise.
+Geometric hashing is a representative of  a class of algorithms that
+facilitate object recognition in a computationally advantageous way.
+In the second part, we describe an interpretation of geometric hashing that
+allows the algorithm to be viewed as a Bayesian approach to model-based object
+recognition.  This interpretation, which is a new form of Bayesian-based model
+matching, leads to well-justified formulas, and gives a precise weighted-voting
+method for the evidence-gathering phase of geometric hashing. These formulas
+replace traditional heuristically-derived methods for performing weighted
+voting, and also provide a precise method for evaluating uncertainty.
+Using the Concert/C language, we have implemented a prototype  distributed
+object recognition system that employs our Bayesian matching ideas. The
+computational platform is a small group of public workstations.
+The resulting system is scalable and can recognize aircraft and automobile
+models subjected to 2D rotation, translation, and scale changes in real-world
+digital imagery. This is the first system of its kind that is scalable, uses
+large databases, can handle noisy input data, works rapidly using readily
+available computational resources, and exhibits excellent performance
+with real-world, natural scenes.
+The Department of Computer Science of the University of Maryland Baltimore
+County (UMBC) invites applications for several tenure-track openings at the
+level of Assistant Professor. We are particulary interested in candidates in
+computer architecture and graphics & interface technology. Other areas of
+strong interest include software engineering, operating systems, parallel and
+distributed processing, databases, computer networks, and scientific computa-
+tion. Senior applicants with an exceeptional record of research and teaching
+may also be considered.
+Your application (including CV), and threee letters of reference should be sent
+to:
+Application shoudl be received by January 15, 1993 for full consideration.
+Send email to SEARCH-INFO@CS.UMBC.EDU for additional information
+SEARCH@CS.UMBC.EDU for general inquiries.
+Two full-time, tenure track positions as Assistant Professor to conduct re-
+search and to teach Computer Science graduate and undergraduate courses. Candi-
+dates must have a Ph.D. in Computer Science or equivalent at time of appoint-
+ment with promise of excellence in research and teaching. Salary highly com-
+petitive (minimum $40,000). One position in the area of concurrent and parallel
+programming and the other position in the area of operating systems, data com-
+munications and networks.
+The Department offers a BS degree and, in conjunction with the Mathematics
+Department, offers a MS degree in Mathematics with a Computer Science option.
+Departmental computing is supported by a Sun 630MP, a Dec Microvax 3100 model
+80, several AT&T 3B2s, two microcomputer labs and a Dec Workstation lab.
+Academic computing is supported by an IBM 4381, a VAX 6440, and HP3000, and
+several microcomputer labs.
+Ohio University, located in the scenic hills of Athems, Ohio, was established
+in 1804 and now has an approximate enrollment of 18,000 students on the Athens
+campus, 8,800 on the five regional campuses, and 1,300 international students
+from more than 100 countries. Athens is a small community of about 21,000 that
+furnishes a pleasant environment for student living. Frequent concerts, plays,
+art exhibits, and lectures are an integral part of University and community
+life, providing cultural enrichment for both students and townspeople.
+Applications deadline:  March 1, 1993. Send letter of application, curriculum
+vitae to and have three letters of reference sent to:
+Ohio University is an Equal Opportunity/Affirmative Action Employer. Women and
+Minorities are encouraged to apply.
+The Computer Science Department solicits applications for tenure-track and
+visiting faculty positions at all levels (subject to funding). Candidates for
+assistant professor need a Ph.D. in computer science (at the time of appoint-
+ment) with promise for excellence in research and teaching; applicants for
+senior ranks must possess distringuished research records. The Department has
+approval for significant growth ofer the next few years, and has identified
+selected areas in parallel computing, artificial intelligence, and software
+engineering for special attention. Salary is commensurate with rank and experi-
+ence. New and visiting faculty will enjoy duties especially conducive to pro-
+ductive research.
+The Department offers B.S., M.S., and Ph.D. degrees. We have excellent coopera-
+tive research relations with industrial and government laboratories, and their
+people form a significant portion of our graduate student population. We oper-
+ate numerous multi-user systems (HP, DEC, Sequent) and many workstations (HP,
+IBM, Sun, Apple, ATT), all networked. University operations include IBM RS6000
+servers and a visualization laboratory. Department personnel work in a pleasant
+smoke-free environment.
+Fort Collins is a growing community of 92,000 located along the foothills of
+the Rocky Mountains, 60 miles north of Denver. The climate is moderate---about
+15 inches of precipitation and 290 days of sunshine per year. There are many
+cultural opportunities and year-round outdoor activities.
+Send your curriculum vitae and names of at least three professional references
+to:
+Applications for August, 1993 will be considered March 1, 1993. The search may
+be extended if suitable candidates are not found.
+    Sorry, this is erroneous.  CETS printer use policy prohibits
+printing out system documentation.  You can use `print-one-copy' to
+print out the doc if your default printer is one of the CIS laser
+printers, or you can go get one from the CETS office in room 164.
+There will be a GSB this THURSDAY with
+Put it on your Thursday schedule!
+There will also be some BEvERages to sooth your inflamated throats and relieve
+your brains.
+We would like to see you all there this Thursday, December 3 at 5 PM in Raisler Lounge.
+Your hosts
+               Dan Melamed and Milos Zefran
+Below are the requests I have received for cleaning and/or painting.
+If you would like your office cleaned on a regular basis or painted,
+and your office is not on the list, please send me e-mail before noon
+Tuesday, 22nd.
+Hany Farid
+(1/2 of office committee)
+Applications are invited for the position of Chairperson of the Computer
+Science Department starting in September of 1993. This is a senior-level posi-
+tion intended for a person with a strong record of research and with a commit-
+ment to excellence in scholarship and teaching. We currently have considerable
+strength in theoretical computer science and are looking for a dynamic computer
+scientist to lead the department in developing new areas of expertise in appli-
+ed computer science.
+The Computer Science Department in the College of Liberal Arts offers B.A.,
+M.A. and Ph.D programs and has a distinguished research faculty. Current
+faculty research interests include distributed computing, real-time systems,
+theory of computation, randomness in computing, fault tolerant computing, natu-
+ral language processing, programming language theory and automated deduction.
+There are 130 undergraduate computer science majors and 70 graduate students.
+The department has excellent computing facilities and close connections to many
+other allied programs within the university.
+Besides being a wonderful place to live, Boston offers the very best opportuni-
+ties to pursue research and teaching in close proximity to other leading re-
+search institutions. If you are interested in joining our department, please
+send a current vita and the names and addreses of four people from whom we can
+request references to:
+Boston University is an Equal Opportunity/Affirmative Action employer. Women
+and minority candidates are encouraged to apply.
+The PC lab for CSE 110 students (Moore 109) will be open all weekend
+(January 22 and 23) so that students can complete assignment 1 by the
+extended deadline of January 24. The lab will not shut down in the
+evening as it usually does, but will be open straight through Saturday
+night-Sunday morning and Sunday night-Monday morning. Remember, as CSE
+110 students you have TOP priority in this lab, so feel free to kick
+off any other undesirables who might be pre-empting you (but politely,
+of course).
+The mean for the current weighted total is 71.
+There was no assignmment given today (Monday Feb. 14); there is no
+assignment due on Friday.  There is no homework help session today.
+A homework help session for homework 4 is scheduled for Monday,
+February 21 starting at 4 p.m. It should last no longer than 90
+minutes. It will be held in Room 23 of the Moore school. To get to
+Moore 23: enter Moore school from 33rd Street.  Walk in the direction
+of Moore 109 (the PC lab), take the first left (go along the EE
+exhibit cabinets, do NOT go on the ramp), go down the stairs, follow the
+sign on the wall.
+A quiz will be held on Wednesday, February 23 in the recitation sections.
+Students who received between 2 and 7 points on the first tracing
+problem of Midterm 1 (Problem 4.1) should bring their midterms to
+their TA for possible regrading.
+Due to a hard-disk failure on the PC network, only the hard copies of
+assignment 7 submissions will be graded.  There will be no penalties
+for late submission or no electronic submission.
+Professor Kamberova will hold office hours on May 2, 3, 4, and 5 from
+2 p.m. to 3 p.m., or by appointment (on these days only).
+The PC lab in the Moore school (where the recitations are held) will
+be open 24 hours today, 4/19, to allow students to finish the
+assignment which is due tomorrow. At the moment, the electronic
+submission program is out of commission thanks to hardware failure, so
+do not submit your solution electronically. Please try to keep the PC
+lab clean while you are working there tonight.
+	Here is a list of the grades we've accumulated so far.  Take a
+   look and make sure everything agrees with what you expect.
+	Here are the grades that we have compiled so far for the
+   class, listed by the last four digits of your social security
+   numbers.  Take a look at this and make sure it's all as you would
+   expect.   Good luck on the test tomorrow,
+		Matthew
+	Final grades for CSE110 summer session 1, by last four digits
+   of social security number.
+Dan-Air Services (DA)?  I don't think so.  You must have meant DL (Delta),
+right? ;-)
+I don't believe DL serves KIX.  DL does fly to Nagoya (located
+approximately half way between Tokyo and Osaka) from both PDX and LAX.
+Weren't fees at KIX adjusted to NRT level right before it opened?
+The proposed 767-300ERY is simply too small for Trans-Pacific services.
+I believe Korean Air has full intention to use its B(plus?)-market B777
+for Trans-Pacific services.  Therefore, I doubt the ERY would be the
+first ETOPS service across the Pacific.
+There is no such thing as a 777-100; United is due to take delivery of
+their first 777-200 (a -222, to be precise) on May 15th.
+The delivery flight will be from the Seattle area (either Boeing Field,
+more properly King County, um, International(?), where Boeing's delivery
+center is located, or Paine Field up in Everett, site of the wide-body
+factory) to SFO.  Initial service has been discussed at length over in
+rec.travel.air, but the bottom line is that the first two flights will
+be on June 7th, UA 921 LHR-IAD followed shortly thereafter by UA 910
+DEN-ORD-IAD-LHR.  The next morning FRA will see its first 777 service
+with the arrival of a flight from IRD.  I believe CDG and JFK and/or
+EWR will see UA 777 service after additional deliveries this summer; I
+haven't seen any mention of scheduled 777 operations at SFO soon.
+Boeing hopes to deliver the 777 with 180-minute ETOPS rating.  United
+really needs at least 120-minute ETOPS to make it practical for the
+trans-Atlantic flights, though it's possible to do it without ETOPS.
+The current 777 is a bit tight on range for the longer overwater
+routes, though, with around 5,000 miles as the limit.  The "B-market"
+777 will appear next year with considerably greater range, probably
+close to that of the 747-400 from what I've seen.
+No.  The 777 is already pushing engine technologies.  If the "super-
+jumbo" is a derivative, it will be based on the 747-400.  Perhaps you
+are thinking of the ideas for a totally new aircraft which would use
+the 777's engines, albeit four of them.  For comparison, here are the
+rough MGTOW in lbs of these aircraft:
+At twice the weight of even a B-market 777, the NLA clearly needs a
+lot more power than a twin is going to be capable of for a long time.
+Here are the 1994 figures from the ICAO about the 30 leading airports
+in terms of departures, arrivals and connections:
+One airport clearly missing is Tokyo Haneda.  Note the fantastic growth
+at Las Vegas.  It looks set to surpass Newark and possibly JFK and CDG
+this year.  St Louis had great growth too (Southwest effect?) and you
+can clearly see the entry of Valujet in the Atlanta figures.
+Third column is pax in millions, the fourth is growth in percent
+The Wall Street Journal reports (April 12, page A2) that of the 20 gates
+that CO contracted for before its 1990 bankruptcy, CO was released from
+all obligations on 10 gates. This will reduce CO's commitment to DIA from
+$59m to $27m, and the other airlines costs per passenger will rise by
+between $1 and $1.25 to between 17 and 18 dollars.
+Of the remaining 10 gates which CO must rent, CO is free to sub-lease
+them. CO will use 3 gates itself for its 20 flights a day. CO's  Denver
+code-share partners, Frontier and America West, will be able rent the rest
+and to relocate their gates next to CO's.
+UA's role in this is also interesting.  According to the Journal, "United
+had taken the lead in getting other airlines at DIA to go along with
+picking up some of Contienental's costs."
+UA has been making a boatload of money at DEN since CO left and was
+supporting CO's efforts to get out of its lease.  If CO was forced to rent
+those gates it would have been bad for UA.  Either CO would have added new
+flights to try and better use its gates (cutting into UA's monopoly) or CO
+would have tried to walk away entirely (leavig DIA and UA holding the
+bag).  UA apparently preferred to keep CO as a small presence rather than
+see either alternative happen.
+Separately, in a speech at Northwestern, Sky Magary, President of Shuttle
+by United, implied that UA's booming business at Denver has constrained
+Shuttle's ability to get airplanes
+First of all, I would just like to say how happy I am to find such a
+newsgroup like this to exist on the internet...I have always been
+fascinated by the airline industry, and hopefully someday to be a part of
+it.  In the recent years, I have made several observations about the
+airline industry in general, and I would like to receive some comment on
+what them, whether they are correct or not;
+Well...that's all for now...any comments would be welcomed
+Tim Liu
+The College, The University of Chicago
+I worked for Western Airlines during a time when we were "giving" Hawaii
+to people who purchased domestic tickets.  The rumor was that our
+breakeven load factor on the Honolulu routes was . . drum roll . . 200%.
+Losing a dollar on every seat but making it up on volume :-)
+George
+There are too many factors, one difference that I have brought up serveral
+times in rec.travel.air is the number of cabin crew staff.  United
+recently announced that they will have 18 flight attendants on Trans-Pac
+services.  This is the first time a U.S. carrier matches Asian airlines
+in terms of cabin staff.
+Headwinds.  CAL's eastbound TPE-JFK flight (as well as Cathay's HKG-YYZ
+flight) is non-stop only during winter when there are favorable tailwinds.
+Westbound flights always need a refueling stop.
+Lower costs, less competition (especially for China AL and Cathay, both
+make a lot of money on their near-duopoly HKG-TPE/KKH routes, as well as
+the highly-regulated Japanese services).  In the case of Singapore and
+Cathay Pacific, both are also very well-managed (can't say that for
+China AL).
+But EVA lacks of experiences.  They still need time to mature.
+On the contrary, USAir probably is not happy at all about this growth.
+There are two basic reasons for BWI's fantastic growth since September
+1993.  First is Southwest's entry into and expansion of BWI service.
+Second is the growth in traffic by other carriers -- especially USAir --
+that are forced to match Southwest's low fares in order to maintain
+market share.
+I haven't studied the issue, but I suspect that USAir's yield -- revenue
+per revenue passenger mile -- has dropped at BWI because of the Southwest
+service, relatively limited in scope as it is. Also, Southwest has slowly
+expanded the number of markets served out of BWI, and USAir clearly wants
+to keep that expansion in check.  For example, Southwest in late February
+announced a $39 fare for its nonstop service to Birmingham. USAir's
+response was not only to match the fare but to initiate nonstop service
+in the BWI-BHM market, where it previously had only connecting service.
+PHL is an important part of what has traditionally been USAir's strategy
+in the Northeast:  offer high frequency, jet service in business markets.
+The goal, of course, is to fill planes with business travelers willing to
+pay a premium for same-day or overnight roundtrips.  For many years, USAir
+also was able to count on leisure traffic as well because the airline
+offered the most service.
+Now, USAir is being hit on two fronts.  New carriers like Nations Air at
+Philadelphia and (soon) Eastwind Airlines at nearby Trenton, N.J., are
+threatening to cut into some of the key business markets.  ValuJet
+provides service to PHL from its Atlanta hub, connecting passengers to a
+number of other points, especially Flordia. In all these cases, the
+problem for USAir likely will be lower fares than it otherwise would have
+to offer, not a lack of demand.
+Avery Vise
+Congressional Editor, Aviation Daily, McGraw-Hill, Washington, D.C.
+While it's a choice route, I have to wonder how eager they really were
+for the route, versus wanted United *NOT* to have it.  American seems
+to play these games quite often, usually aiming at United.  It reminds
+me of the stunts the Southern Pacific Railroad used in the 1800s to
+try to maintain their monopoly in California.
+Other examples that come to mind are American's sudden interest in the
+Philadelpha to London route, when United expressed an interest in it
+if they could move the US end to Chicago, and their equally sudden
+interest in Miami to London after United got temporary authority to
+operate the route.
+Of course!  <sigh>
+I suspect that's the service I was thinking of.
+Given the uproar, it wouldn't surprise me, though I don't recall ever
+seeing anything to that effect.
+The 767-300(ER) is already used in trans-Pacific service, by Qantas,
+and possibly Air New Zealand.  Ok, that's not the North Pacific, but
+it's an even longer leg.  United uses the 767-300(ER) for LAX-LHR,
+and that's further than LAX-NRT (by only 5 miles, but it's still
+further).  They also fly LAX/SFO-CDG with it, which is even further,
+and TWA flies the 767 on non-stops between California and Europe.  I
+suspect you could come up with plenty of other examples.  Why, then,
+would you say it's too small to fly across the Pacific?
+American did exceedingly well with their early trans-Atlantic service
+by using smaller planes in niche markets, while Pan Am and TWA were
+trying to fill 747s on the backbone routes.  I see no reason why they
+couldn't exploit the Pacific market using the same strategy.
+Can't help with the benefits/employer aspect (although I really haven't
+heard of a throng of disgruntled ex-employees :)), but they do have a very
+good safety record. They have only had two major incidents in the last 25
+years. A DC-8 crashed at Pearson International Airport in 1970 due to
+premature spoiler deployment on landing (heavy loss of life). A DC9(?) had
+to make an emergency landing at Cincinnatti (1982??) when some moron
+decided to smoke in the toilets. The resulting fire killed 30-odd
+passengers. Hardly a routine occurrence. Yes, safety is excellent.
+They are currently in the middle of a fleet upgrade, replacing the
+majority of their short-haul DC9s with Airbus A320s and A319s. They are
+also adding 4 Airbus A340s for long-haul operations to the Far East.
+They secured partial funding recently for the Airbus purchases via a
+consortium of off-shore banking institutions.
+In summary, they are doing quite well indeed. Managment changes a couple
+of years ago set them on an austerity program which is now paying
+dividends. Your friend should do well if he gets on board with them.
+If it's not Scottish its CRRRRRAAAAAAAAAAAAAAPPPPP
+=================================================================
+I suspect the NW flight is not for sale at any price.  It's interesting
+since from NW's point of view that flight is "based" in Tokyo, not
+Chicago.  That is to say that Chicago is not a hub for NW, whereas
+Tokyo is.  Thus it's important more from the point of view of NW's
+Asian customers than for NW's American customers.
+Whereas for American, it would be just the opposite.  It would be an
+awesome route for American to have, but I can't think of anything they
+could give to Northwest in exchange.
+Beats the heck out of me.  Do you have an inside track on this info, or
+was it in a recent Air Transport World, or similar?
+You mean December 1994?  I'd like to hear your guesstimates, spill the beans!
+UA's ORD terminal, big as it is, is a zoo, people spilling out of the
+bars into the promenades, and so forth.  If I had a choice, I'd connect
+at Denver every time if I was flying United.  On the other hand, I have
+to think this is a mixed blessing for UA, considering the charges they
+have to pay.  Then again (on the third hand, I guess) Denver won't be
+as susceptible as ORD to weather.
+I'm finishing a PhD in Finance at the Stanford B-school.  Jeremy Bulow
+is on my committee.
+RNA
+Here's a starter list (biased toward the eastern US). Since I haven't been
+to all of these recently, I've noted where I don't know about the current
+state of construction.
+DCA  National Airport   New North Terminal Building (three piers)
+                          designed by Ceasar Pelli
+                        New control tower
+                        Separated arrivals/departure levels
+                        Moving sidewalk connection to Metro Station
+                        New Parking facilities
+                        USAir in temporary terminal (was a hangar)
+                        Main Terminal preserved as landmark
+EWR  Newark/NYC         New International Arrivals facility on top
+                          of Terminal B
+                        New monorail for Terminals A,B,C & long term lots
+                        (Proposed Northeast Corridor train station)
+IAD  Washington Dulles  Main Terminal Building: new wings double size
+                        Provision for people mover to mid-field terminal
+                           & replacement of mobile lounges by people mover
+JFK  NYC Kennedy        New international airlines building replacing
+                           Eastern or Pan Am structure
+                        (not sure if begun)
+LGA  NYC LaGardia       Various improvements at Main building
+                        (not sure if complete)
+STL  Saint Louis        New East Terminal
+                        (for WN, charters--has this started?)
+------
+MDW  Chicago Midway     New terminal promised by Mayor Daley
+                        (definitely a ways off)
+I have been laid-off from Boeing/777 planning for about a year, but I think
+my thoughts/comments are still valid...
+The first UAL 777's are model -200's -- the 100's should be about a year
+later.
+Boeing is trying for early ETOPS operation certification, and are on a very
+accelerated testing program to try to convince the FAA that it is
+safe..remember Extended Time Ops = Engines Turn Or Passengers Swim...
+As of a year ago, the development team for the "New Large Aircraft" hadn't
+made up their minds.  A real problem with a full upper deck is evacuation --
+can you imagine a 787 with 10 different slides out the doors? Especially if
+a gearset has collapsed and the upper doors are 80-90 feet up?  And evac-ing
+800 people in a disaster?
+As of that year ago, the super-jumbo was a new design, but sorta based
+around the 747.  One option was to have the cockpit on the main deck, so you
+could say that it resembled a bloated 777.......
+Rick Wall
+n8541554@cc.wwu.edu
+	Really?  My family is literally "forced" to take Philippine
+	Airlines because United Airline's flights to Manila are
+	consistently packed.  Even back in the early 80's, my family
+	used to take the PanAm clippers.  This may be true to other
+	Asian families, but not mine.  My family will more likely than
+	not take an American airline.
+	On another note, I myself enjoy UA's service.  I think they're
+	the best in the business.  I don't get the "attitude" I get
+	from Northwest'f flight attendants, or the "snobby-look" from
+	AA.  This is my opinion.  It's just that whenever I fly a non-UA
+	flight, I have problems with the staff -- with the exception of
+	Delta.
+	Yes they can.  747-400 have the longest range of any commercial
+	liner.  Correction.  The A340 has a better range.  I'm puzzled
+	to why China Airlines had a refeuling stop.  I know 747-400's
+	can fly direct from SFO to Tokyo's NRT.
+	I think the fact that they are government subsidized has something
+	to do with it, but that doesn't explain Air France, does it.
+	Also realize that the US Domestic Travel Business is highly
+	competitive, so airlines, to stay ahead, will lower their prices
+	accordingly, even if it mean takinga minor loss.
+	Umm...you weren't flying out of SFO.  I've noticed most of the
+	airlines you've mentioned flies out of SFO.  I myself am not
+	familiar with Virgin Atlantic.  All I know about them is
+	that they fly 747's exclusively.
+There is no question about that fact.  RT fares between BWI and SFO
+have dropped almost 25% since Southwest entered the market.  And
+Southwest isn't even competitive fare-wise in that market (i.e.
+Southwest has never been cheaper than the other carriers on this
+route).  Indeed, it would appear that Southwest's presence has had a
+flattening effect on almost all fares.
+... Well, all fares except, for example, BWI-RDU.  As soon as American
+pulled out of that market, USAir doubled the round-trip fare.
+I've wondered about this move by USAir.  Here's a thought:  USAir's
+yields between BWI-PIT, BWI-CLT, and BWI-PHL have traditionally been
+very high.  BWI's non-stop service tends to center around Maryland,
+Virginia, Florida, the Carribbean, and selected northeast cities.
+Almost anything else requires a connection.
+If USAir has to charge $39 BWI-CLT-BHM-CLT-BHM, they are losing two
+seats BWI-CLT and CLT-BWI ... two seats which they would otherwise sell
+to higher fare tickets.  Given that USAir must match Southwest's fare
+in the BWI-BHM-BWI market (so that they don't look like total wimps),
+could they possibly be losing *less* by putting all of those low-fare
+passengers on a non-stop to BHM, on a gamble that the BWI-CLT seats
+will generate offsetting revenue?  Am I out to lunch here?
+-sandeep
+	Is there really any such thing? I have heard the two (variants)
+of the 777 referred to only as 'A market' and 'B market', and I
+have sometimes heard the B market version referred to as 777-200B (although
+not from very reliable sources). If the designations were -100 and -200,
+I am sure that that is what AvWeek and the like (and Karl for that matter)
+would have been using. Boeing seems to have stopped producing -100 variants
+of their new planes. There are no 757-100 or 767-100 types, (Did these exist
+in the planning stages?) and in the case of the last two aircraft that did
+come in -100 versions (the 737 and 747), these aircraft were rapidly phased
+out in favour of the -200. Possibly Boeing has decided that a -100 series
+aircraft is like version 1.0 of a software product, and has decided to
+solve the problem by not releasing them any more. (This is fine by me,
+as long as we don't get Boeing 777-95). Perhaps someone who knows more about
+this than I do could comment.
+	The 'can you imagine trying to evacuate this many people in a
+disaster' argument doesn't hold too much weight with me. This argument
+has always come up whenever a substantially larger aircraft came into
+being. Procedures have to be adapted to handle it, yes. Once in a while
+you are going to get an accident in which 800 people die, yes. But,
+if the average risk to a passenger on the new aircraft is the same
+(or less) than on smaller aircraft, safety is not being compromised.
+Fatalities will occur in larger clumps, yes, but this does not necessarily
+indicate a reduction in safety. (I do agree that the height of the
+doors in a double deck aircraft could be a ploblem. But it is a solvable
+problem.)
+	Michael.
+All wars are civil wars, because all men are brothers ... Each one owes
+infinitely more to the human race than to the particular country in
+which he was born.
+                -- Francois Fenelon
+   In his presentation at Northwestern on Shuttle by United, Sky Magary
+outlined the reasons for the creation of Shuttle and fit with the rest of
+the airline. A summary of his points follows.
+Historically, 50% of UA's Origin/Destination/Connecting traffic was in the
+western US.  UA's western strength was strategically important in
+competing with American Airlines which was traditionally strong in the
+East.
+In 1991 UA had 50% of the local market share in California.  In that same
+year, WN entered all of UA's traditional markets except SFO.  By 1994 UA
+had abandonned every route which did not attach to a long haul route.  Its
+cost per ASM was US$.11 versus $.075 for WN.
+UA faced the prospect of losing high-margin long haul markets to AA if it
+could not shore up the West coast feeds.
+By UA's estimate, only 1/4 of US markets are suited to point-to-point
+service (more on the implications of this for WN in another post)  Of
+these dense markets, only the ones in the West allowed free entry.  The
+dense eastern markets had slot-controlled airports at least one endpoint.
+To UA this implies both that California was the right place to offer
+point-to-point and that unless slot restrictions are removed, the East
+will never be a suitable Shuttle market.
+What is a good, dense market?  By UA's estimate, there are 12
+point-to-point markets in Califoria which have more than 1000 PDEW
+(passengers per day, each way)
+UA really agonized over all the operational details of it shuttle [my
+note: unlike CO which simply copied WN]
+1) UA chose gates close to the runway, not close to the landside, to
+minimize taxi time
+2) UA changed pilot checkoff procedures, recognizing that a plane that was
+on the ground many times a day would have a different maintenance feedback
+loop than a plane flown cross country.
+3) UA implemented their WILMA boarding procedure (Window, Middle, Aisle).
+This had the interesting side effect of balancing demand between window
+and aisle seats. SInce they board first, window pax get to hog the
+overhead bins, while aisle customers get the traditional easy-in-easy-out
+advantage. In operation WILMA allows a 126 passenger 737 to be boarded in
+10-13 minutes and in experiments they've been able to board a 195 seat 175
+in 15 minutes.  (They have no plans to add 757 to shuttle at this time
+4) Keep the travel agents happy. in OAK-LAX (the second biggest O&D market
+for WN) UA offers 1/3 of the seats, but gets 50-55% of agency bookings.
+5) About 1/3 of UA's premier customers don't like the new shuttle, either
+because they had a set commuting pattern or because they don't see the
+benefit of lower prices (their business paid). On the other hand 2/3
+prefer the lower fares and better frequency of the Shuttle. Magary says
+that UA should have done a special mailing to its premiers (rather than an
+insert in the FF mailings) which wouldh have explained all of Shuttle's
+changes (like how the longer walk to gates close to the runway would save
+taxi time)
+6) They may experiment with a simpler [and I bet much cheaper] paint
+scheme on a few new 737's  it retained the blue striped tail and blue
+belly, but had a light fuselage [probably to cut air conditioning and
+painting costs] and script Shuttle logo
+7) UA is satisfied with the ability of Shuttle to feed pax to the rest of
+the UA system--either through frequent flier loyalty or direct
+connection.  Shuttle handles $360M worth of pax shared with the rest of
+UA's system [the kind of figure that the folks in Finance love, but no one
+knows what it means]
+8) Shuttle's cost per ASM is now below .08 and they've told the analysts
+they expect it to be down to .076 by the end of the year.
+9) UA is consciously collecting the "historical premium" from last-minute
+travellers which travel from SFO commands. Since folks have been
+conditioned to pay more out of SFO, UA sees no reason to cut prices to
+compete with SJC or OAK.  At the same time, UA is keeping OAK and SFO
+prices more competitive for advance purchases.
+10)The California competitors are currently matching prices and flooding
+the market with capacity.  As some of that capacity is wrung out by
+competition (as UA's was from OAK-ONT), expect to see it redeployed in
+markets like SFO-PDX and xxx-PHX or LAS.  However, due to the needs of the
+Denver hub (and its profits from traditional service) don't expect to see
+much expansion of Shuttle outside of West Coast markets.
+   Sky Magary, President of Shuttle by United, in his speech at NU alluded
+to the limits on point-to-point service.
+   He asserted that only about 1/4 of US markets can support direct
+service and most of these are on the West Coast.  Since this implied that
+WN was serving many non-point-to-point markets with point-to-point
+service, I asked him to explain the discrepancy.
+   He believes that at PHX, STL, MCI, and DTW, Souhtwest is dependant on
+connecting (or multi-stop) passengers--that is to say most of the people
+who are on a plane in these cites are either just passing through or will
+be on the flight for more than just the first leg out of the city. The
+hubbed airlines have realized this and have begun to match WN's one-stop
+service with good connections at comparable prices via their hubs.
+   This is one of the unseen sources of pressure on WN's bottom line: all
+that service WN added in the midwest and east relies on one-stop and
+multi-stop passengers to fill the planes.
+   We tend only to see how WN competes in its traditional non-stop markets
+(CA and TX).  We tend to focuson WN's high frequencies and low prices on
+non-stops because they are few and easy to track and WN tells us they are
+a point-to-point airline.
+    But the real fight with WN in the east and midwest is in all those
+connecting markets where only those with advanced computer systems can
+really see how connections can systematically beat one-stops and
+multi-stops. Perhaps this is why Northwest went to three daily
+omnidirectional banks at its MEM hub--to maximize its ability to put
+connecting passengers on flights versus WN's  one-stops.
+Note: Air France's cancellation is not official.
+That's still a heck of a lot of markets.  Imagine some Southwest style
+airline serving all of them.  What does that imply for the traditional
+airlines and for the remaining 3/4 of the markets?
+Also, at what level of fares?  Southwest levels or United levels?
+Traffic is substantially greater at Southwest levels, we all know that.
+As WN grows, more connections become possible and so they will clearly
+be picking up connecting/one-stop traffic.  But I find it hard to believe
+that the traditionals are only now waking up to the fact that they
+compete with WN on these routes.
+Incidently, how does this mesh (if it does at all) with the following
+fact:  In its latest schedule, WN has a plethora (maybe 10 or more) of
+one-stops from Chicago Midway to Houston Hobby.  They have to be carrying
+enough traffic in the market that they'd benefit from putting on at least a
+couple of nonstops.  So why don't they?  (Don't tell me they're afraid
+of CO, Kevin, I can't believe that's it(*)).  There are other places where
+you figure Southwest would short-circuit onestops with at least one
+nonstop.  I don't see what the downside of this would be.
+Why does a connection beat a onestop?  A onestop would seem to be better
+than a connection---less chance of lost luggage for one thing!  No
+running around a terminal, etc.  And WN onestops spend much less time
+on the ground than any connection, so you'd figure there is a speed
+advantage too.  I've never seen any particular charm in a 40 minute
+stay in Memphis airport, lining up to board, all the usual stuff.
+(*) CO: the Rodney Dangerfield of the majors.  They can't get no
+respect from no-one!
+You're right, when I said Trans-Pacific I really meant North Pacific.
+With landing slots at a premium at most major East Asian airports, I
+seriously doubt the B767 can make much impact in the North Trans-Pac
+services.  A few Asian carriers, Delta, and AA use the MD11 across the
+Pacific.  The MD11 has hardly change the mode of operation across the
+Pacific as the B767 did across the Atlantic.  In fact, Korean Air is
+planning to pull out the MD11 and convert them to freighters.  I recall
+reading an article recently that the average number of seat per aircraft
+among Far Eastern airlines is around 300.  The trend is going up not down.
+Hence, the B767 is and will be too small for the North Pacific routes.
+I'm sure they are paying attention, but I'm not ready to count either of
+them among long-term surviors just yet.
+According to this months Air Transport World, Frontier's November load
+factor was in the mid 30's.  Granted they are still rather new, but that's
+clearly far below breakeven for a 737.  If they keep adding new cities month
+after month without making sure that the old ones are profitable, pretty
+soon they won't serve any cities.
+As for Western Pacific, I'm very, very skeptical about a Colorado Springs
+hub.  Airports serving areas with two and three times the customer base that
+COS has have failed to support real hubs.  If they are depending on lots of
+connecting traffic, they should take a lesson from what happened in Kansas
+City, Raleigh, Dayton, Milwaukee, New Orleans, Dulles and several other
+places.  WestPac hopes to draw lots of traffic from Denver, but that's much
+easier said than done.  There's no real precendence of this ever happening
+before.  Some will surely make the drive from Denver to COS, but will it be
+anywhere near enough to support an airline hub??  Finally, WestPac's short
+list of near-term expansion includes such bustling routes as COS-Omaha and
+COS-Oklahoma City.  NOW I know what happened to the genius route planners
+that CALite canned.
+Lastly a discouraging bit of anecdotal WestPac information.  A close friend
+in San Francisco saw a WestPac ad which mentioned some great intorductary
+fares on routes which included SFO-COS-Kansas City.  When my friend
+*finally* got through to an agent, she said they didn't serve those cities.
+My friend mentioned the SFO ad, and she then noted that SFO service was to
+begin on 5/8.  Too bad...the ad said the introductary fares were only good
+4/30 through 5/7.  Hmmmm...is this yet another start-up airline which is
+more concerned about finding young, enthusiastic things that will smile for
+$5/hour than, say, uhh, TRAINING?  At a copmany that small the agents should
+have the flight times memorized!  I should call myself and quiz them on what
+state Colorado Springs is located in.
+Dale Mueller
+Colorado Springs, Wisconsin
+okay, okay, sorry for the cheap shots
+AND
+The two main South African gateways...Johannesburg and Cape Town, which are
+barely keeping pace with a massive increase in internatioanl travel since the
+demise of sanctions.  In Johannesburg chaos is the word.  They built the new
+sections but only now are putting in travelators.
+from SFO-NRT, or SFO/LAX-TPE with a 744 is no problem.  But I think the
+original poster was talking JFK-TPE, which is a lot longer and does require a
+scheduled stop in ANC.  TPE-JFK is nonstop if the tail winds are good.
+(or do I have that reversed???)
+Speaking of TPE-JFK, it has been rumored that CAL will switch to
+MD-11s on this flight. Wonder what kinda effect that will have on the
+range and the frequency of refueling stops in ANC.
+Going back to refueling stops, whether a plane can fly to a particular place
+on a given day depends on  the payload and the weather.  If the weather
+is good (tail winds) then  the allowable payload is higher.  If the
+weather is bad (head winds) then the allowable payload is lower.  The
+flight dispatch people calculate  this figure for every flight and this
+plus the fuel onboard plus  the dead weight of the airplane cannot exceed
+a certain figure called the  maximum takeoff weight, which depends on the
+type of aircraft and the  runway it's using.  the parameters have to be
+balanced,  and if they're not the flight can't be released.  in cases of bad
+weather if the payload you need to carry is so large (full load of
+passengers, for example) that you exceed the  allowable payload, then you
+have to decrease the fuel onboard to stay in balance, which means
+you won't have enough to fly nonstop hence the stop in ANC.
+that's a very rough explanation...those of you more familiar with flight
+operations please feel free to correct.
+I don't think any of these airlines are goverment subsidized.
+I think it's the lack of competition in their home countries, except for
+CAL (which still made a marginal profit last year, despite the crash at NGO
+and increased competition from EVA.)  Plus the fact that these carriers all
+are countries with very good economies that lead to increased travel,
+both in foreigners needing to go visit these countries and in the
+citizens who have more money for airline tickets.  Also, having rights to
+lucrative short-haul routes helps (CI and CX the TPE-HKG golden route,
+and SQ the SIN-KUL shuttle)  That's where all the profits are, the short
+haul routes.
+good point.  The airlines above don't have to worry about this.
+what makes you think that??? BR has been flying SFO-TPE for over a year now.
+nope, they also use Airbus 340's and at least other type (can't remember,
+except it's used on their shorter flights)
+regards,
+Hank Wong
+This is a personal opinion, and not a reflection of my carriers views:
+The problem is the mini-deal that goes around the bilateral. Giving UA
+exception rights in the ORD-LHR market can be (and is) viewed as
+preferential treatment. I believe that UA did have the option of getting
+rights to LGW and turned them down. I also agree that if the mini-deal
+gives UA access to their largest hub, that AA should get similar access
+from DFW, their largest hub, and DL should get access from ATL, their
+largest hub.... Both DL and AA are allowed to serve only LGW from ATL and
+DFW respectively. UA is not alone in their inability to serve LHR from
+their largest hub. In fact, it seems to be the rule with the UK-US bilateral.
+Not where have we been, but where have you been? AA fought for six route
+authories in 1990, and received one. They were granted the preliminary
+approval for ORD-NRT, and then UA played a political card and had the
+route awarded to them. Not a bad move on UA's part, but the prelim award
+to AA was made in the interest of more competition. By reversing the
+route award, the DOT helped to lock competition to UA and NW. DL received
+the awards it was seeking in the LAX-NRT and PDX-NRT market, FedEx
+received a SFO-NRT award, AA received the SJC-NRT award, HP was awarded
+HNL-FUK (yep. not a typo...) and UA received the ORD-NRT award.
+Been talked about for years... Don't know if it will work without open
+skies, but it has been proposed for over 10 years (pre-Pan Am sale).
+With all due respect to UA, TW and NW, the international route authorities
+are granted by political appointees, and not neccesarily based on
+competition, demand, or the ability of a carrier to serve the route. NW
+was able to secure a foothold in the Pacific Rim due to the post-WW2
+bilateral that was more or less imposed upon Japan by the US. Pan Am was
+able to decide where it flew: getting approval from the respective
+governments was a formality. UA was able to retain those rights when they
+bought Pan Am's Pacific and LHR operations. TWA was granted most of their
+trans-Atlantic route authorities before WW2, and the remainder given as a
+way of balancing Pan Am's dominance as a result of their 1950 purchase of
+American Overseas from none other than AA. None of these carrier had to
+submit any applications or go through a route award process for these
+rights.
+By allowing UA access to LHR from ORD through a mini-deal, the efforts of
+other carriers who have either purchased authorities or gone throught eh
+route case process are ignored. The DOT needs to be somewhat responsible
+and equitable: the UA mini-deal does not do either.
+Good timing on the fleet-size question!  FedEx is the cover story of
+this week's AW&ST, and the article just happens to detail the current
+fleet operated by FedEx:
+Not mentioned in the article -- and not part of the revenue fleet --
+are 5 biz jets, a Cessna Citation V plus four Canadair Challengers.
+That's a pretty sizeable fleet, but it's still well short of the big
+guys.  According to an article in today's WSJ, United had 543 aircraft
+in its fleet at the close of 1994.  American's fleet is even bigger,
+with 652 aircraft according to Eric Olesen's Airline History WWW page.
+British Airways is puny in comparison, with around 250 aircraft.
+Note, though, that less than half of the FedEx consists of jets, with
+the bulk consisting of the turbo-prop powered F27s and Cessna 208s.
+American, United, and British Airways have entirely jet fleets; their
+smallest aircraft is the F100 for American and the 737 for United and
+British Airways.
+Today's Wall St. Journal has an article on page A2 about United's
+scaled back fleet expansion plans.  Gerald Greenwald, chairman and
+CEO of United, told analysts that the airline now plans a net
+addition of 19 aircraft between now and the end of 1997 instead of
+a net addition of 48 aircraft under an earlier plan.
+The article goes on to note that United's fleet has a relatively
+low average age of 10 years, but about 8% of their planes are 25
+years old or older.  It also breaks down the 94 aircraft expected
+to be retired by the end of 1999:
+The most interesting part of the article was reading between the lines.
+The above retirement list totals 94 aircraft, which means even if no new
+planes arrive between the end of 1997 and 2000, United expects to take
+delivery of 113 new aircraft.  However, their current firm orders total
+only 58 aircraft -- 24 A320 deliveries are still outstanding from the
+firm order for 50, and 34 777s are on firm order.  What might the other
+55 aircraft be?
+The WSJ article only hints at what else might in the works, saying that
+a Boeing spokesman had confirmed talkes about new orders between Boeing
+and United.  It doesn't mention the 50 A320 options nor the 34 777
+options.  I think there are also additional 747-400 orders and options
+still on the books, though that got shuffled around a lot several years
+ago when United wanted to cancel some 777 orders.  (I've also heard
+that United has expressed interest in picking up several more 747-400s
+if they become available with quick deliveries and good prices, like
+the two that Northwest cancelled in 1993 and United picked up last
+year.)
+A more interesting proposition might be an order for more 737s.  United
+has already said that they expect Shuttle by United to make money this
+year, and despite retrenchments in a few markets they're growing quite
+rapidly.  They "only" have a pool of 101 737-300s and around 60 -500s
+that must not only support Shuttle flights but, along with the -200s,
+all of United's shorter flights.  Don't forget the pending retirement
+of the 45 737-222s, so while demand is increasing, supply is going down
+to the tune of almost 20% of their 230 aircraft 737 fleet.  If Shuttle
+continues to grow, United *must* buy additional small aircraft, and the
+737 in some flavor is the obvious choice.
+At the other end of the spectrum, the 747-100s supplement the -400s in
+the Pacific markets (as the "small" aircraft!) and the 767 fleet on the
+heavy routes across the Atlantic (from the east coast -- they don't
+have the range to fly California-Europe) and also down to South
+America.  777s will probably take over the latter routes, while the
+Pacific routes can be handled by additional 747-400s or 747-238Bs freed
+from Atlantic routes.  That still leaves all those DC-10 shoes to be
+filled, and there simply aren't enough 777s on order to do all of the
+work.  Flights that used to rate a DC-10 or 767 from the west coast to
+the east coast or Chicago now get a 757 or even an A320, so maybe they
+just plan on downsizing these domestic routes, but I wonder how far
+they can go with this.
+My only conclusion at this point, other than that it will be interesting
+to  watch it all unfold, is that it might be a good time to buy Boeing
+stock!  :-)
+Yep. T-1 is used by HP,US and WN last I knew, and parking positions are
+at a premium. It isn't a matter of customer demand at LAX, but real
+estate is just not available... Not to mention that ever since the 'ol
+"lets divert landing fee revenue into the City general fund" scam a year
+or two back, the tenant carriers are less likely to be expanding the
+facilities as it will be out of their pockets and not the City's... I
+know that AA killed a $10M+- construction project on their facility...
+The only relief that might be possible is if HP moves out and WN can
+take over their lease in T-1. HP and CO have been working out a recipricol
+handling agreement -- HP has been moving to CO facilities east of
+Phoenix and CO has been moving to HP facilities west of Houston, with a
+few exceptions at major stations... LAX is a major station, but with the
+increase in codesharing between the two carriers, I'd be surprised if HP
+didn't move into CO's larger facility in T-6 (which I believe is partly
+vacant since Morris was absorbed into WN and RenoAir moved into T-4 with
+AA...)
+While this may be a creative thought, IMHO I don't think airlines generally
+schedule flights for the sake of arriving at their destinations at a
+convenient time necessarily.  In India for example, all European flights arrive
+and depart between around 11pm and 4am.  Indeed, some of the busiest hours at
+Bombay and Delhi airports are in the very late hours of the night and wee hours
+of the morning.  This happens because the airlines want the flights departing
+from Europe to leave at a convenient time (so that connecting passengers can
+make the flight without waiting many hours).  Thus, a typical US-India route on
+a European carrier might be something like:  Leave Chicago at 5pm, arrive in
+Frankfurt at 10am, leave for Bombay at 2pm, and arrive in Bombay at 1am.  There
+are exceptions to this.  British Airways' London-Bombay flight leaves Heathrow
+at 10pm and gets into Bombay around 7 or 8 the next morning, but this also
+means passengers connecting from trans-Atlantic flights have to wait 9-12 hours
+in the airport.
+I've always been amazed how my aunt in Bombay can put up with picking up
+relatives at the airport at 2am every few months or so.
+The largest factor is that terminal 2 has customs and terminal 3
+doesn't.  NZ and AC aren't going to move to terminal 3 when it would
+mean that their international passengers would either have to board
+busses or unload in the Bradley terminal.  In fact, I bet Alaska would
+love to move into terminal 2 for this same reason.
+Another, probably less significant factor is that terminal 2 is quite a
+bit nicer than terminal 3.
+My mistake. It was Nagoya, not Fukuoka for HP...
+(sadly enough, I was in Mohave a few weeks back and saw one of the HP
+747-200s that was acquired for the route: it had been cannabalized
+already to the point where only the hull and wings were left. No
+engines, doors, landing gear, rudder, wing control surfaces, or
+windows... I'd assume that it isn't planning to be flown anytime soon!)
+T-1 should be all WN.  HP should be moved to T-6 with CO, space providing.  I
+was at LAX last month, and T-6 seemed pretty busy (from the runway, albeit),
+with a few CO jets and three or four DL jets.  US, in turn, should bemoved to
+T-3, and T-2 should be all NW.  One thing that I can't understand iswhy T-2
+has HA, NZ, and AC there while NW has to overflow into T-3.  The last time I
+flew NW out of LAX, I had to trek over to T-3.  There were four NW planes at
+T-3, and another four, maybe five, over at T-2.  Wouldn't it make sense to
+move AC, HA, NZ, and US over to T-3, which seems pretty dead besides the NW
+activity, and make T-2 all NW?  I know that TW, YX, and Alaska are at T-3, but
+TW doesn't have much going on there, YX only one gate (I think), and Alaska is
+moderately busy.
+Otherwise, there is no other room for expansion at LAX that I know of. T-4 is
+all AA, T-5 is all DL, and T's-7 and 8 are all UA.  Bradley, of course, is a
+complete zoo.  Things have gotten so bad at LAX that charters and others, such
+as Carnaval, Tower, Rich, and ATA leave from Bradley because there is no other
+place for them.
+BUR has plans to expand.  Maybe some carriers will consider entering BUR after
+the expansion is complete as an alternative to the traffic at LAX.
+Scott
+Stephen, we did this in rec.travel.air.
+How many major airlines are in Chapter 11 at the moment?  Zero.
+So it's not a terribly great effect currently.
+It might once again, and it has been in the past, but right now
+it's not a direct factor (CO and TW may be getting some advantage
+over their creditors by the threat of bankruptcy).
+As for fare wars, low fares are not in and of themselves a bad thing.
+Of the majors, Southwest has consistently had the lowest fares and
+consistently been the most profitable (it's current wobble has only
+lowered profits---it's not making a loss yet).  Valujet claims to be
+doing spectacularly well, at far lower average fares than Delta.
+That said, bankruptcy procedure certainly needs to be revamped in the US.
+Well, for starters, the only current Chapter 11 carrier is Mark Air,
+which isn't all that big a carrier. A bunch of carriers have used
+chapter 11 to restructure. Arguing that the industry would be happier
+without those carriers in business is hard to do, as what ifs are always
+somewhat a matter of opinion. But, I'd point out that the history of
+what happens to domestic carriers as they go belly up is that low
+cost carriers spring up in thier markets and the remaning majors
+move in on the markets from thier own strongholds. Both of these
+activities can lead to farewars.
+Fare wars have been waged by both the previous chapter 11 carriers
+when they were (and were not) under chapter 11 protection and the
+non chapter 11 carriers. The economics of the airline industry are
+very nasty. The major carriers found out just how nasty when
+deregulation struck. While some did better than others, all hit
+pretty rough going.
+As long as you have a large number of seats chasing after a smaller
+number of customers, and it's better to make some money then no money
+from a customer, the airlines will have an incentive to offer fares
+right down to the incremental cost to carry the additional body.
+The industry, as a whole has been slowly shedding capacity, as the
+various players deal with some of the realities of the marketplace. This,
+coupled with growth in travel, has given the industry as a whole some
+relief. (As has a mjor focus on productivity, better route management,
+more efficient scheduling, etc)
+All of the efforts to cut capacity and be more efficient won't help
+much as long as people can enter cheaply and run at very low margins.
+There's no reason to imagine that this won't happen. As you point out,
+there are plenty of airplanes to be had cheap. One can imagine the
+ongoing scenario of people opening up little low cost carriers, running
+thier planes into the ground as they make just enough profit to keep
+in business, but not enough to cover the cost of new planes. At the
+same time, they lower the profitability of all thier compeitors as well,
+keeping it hard for them to replace planes.
+Since there's no bar to entry (Unless your last name is Lorenzo)
+anyone can do this in any market, and they only have to convince
+thier backers they might make enough money to pay off their loans.
+Of course, as far as I can tell, every business plan ever offered
+to the banks is optimistic (Probably a requirement to start a
+business in the first place) The industry is littered with
+optimists who didn't realize how hard it is to make money and how
+easy it is to lose money.
+I don't think that you can blame Chapter 11 for all the industry's
+ills. Stupidity, greed, pride, and people who spent 40 years in a
+cozy, regulated industry trying to deal with a free market with
+totally new dynamics all have a place when it comes to blame.
+In reading over the recent spate of articles, it seems that with CO
+drifting out of DEN, UA can keep fares up and really profit.  Pitty
+Coloradoans!  Does DEN  have anyone offering lower-than-UA fares?
+While flying to PHX->STL->BWI and back recently, the STL->PHX leg
+was pretty low on pax, so I had opportunity to chat about this-n-that
+with one of the FAs.  I asked what she knew about WN's perspective of
+DEN, and she indicated it cost WN $38/pax to land at DEN (new DIA).
+If true, that would make it difficult for an low-fare airline to use DEN.
+Is this cost correct?
+Good question.  Here's my guess:
+Or it simply could have been that the Dayton-Greensboro route just looked
+too, too tempting.
+Sorry for the sarcasm.  If it weren't for such eccentric decisions the
+industry would get pretty boring sometimes.  I should thank them.
+Last I heard, CO was flying the Denver-London route once per week.  AA has
+to like that.  American has the best routes to London for a huge chunk of
+the west and southwest with grips on both the Dallas and Chicago gateways.
+There are alternatives via STL on TWA and to a lesser extent MSP on NW, but
+really AA is in a strong position without a London competitor at Denver,
+Dallas, O'Hare or Salt Lake City.
+Btw, Delta's protests on not getting Salt Lake-London were recently blown
+off again.  American gets to keep Raleigh-London and Nashville-London even
+though both of those hubs are virtually dead, but that 40% chunk of the US
+between LA, Dallas, MSP and Seattle gets a single weekly nonstop to London
+from a non-hub airline in Denver.
+Hmmmmm.
+Dale Mueller
+Wisconsin
+What I have read in the Denver papers: 1. Continental was using the route
+for negotiating leverage with the city of Denver. They have renegotiated their
+DIA lease, but nothing was ever mentioned about the london route when the new
+deal was announced.
+2. What CO really will do is move the route to Phoenix, where they can tie-in
+with HP. 3. United would only want the route if they could fly to Heathrow in-
+stead of Gatwick. (Sounds nutty to me. With this mega-hub they have created at
+DEN, UA should still make a go of it at Gatwick)
+Rich
+U of Colorado
+In article <3n22u8$969@kei.com>, saskal@rintintin.Colorado.EDU (SASKAL
+RICHARD TRNKOCZY) wrote:
+Sounds good to me!  When you say "will" do you say that as a personal
+prediction or as a matter of fact?
+I would note that Cleveland (in the persons of the airport & economic
+development folks) has been begging CO for CLE-LGW for a long time.  If CO
+were allowed to move DEN-LGW to some other city it seems like a fairly
+even match between:
+1) Going with its own hub at CLE, even though there is already
+considerable competition from the eastern US to London.
+2) Going with HP at PHX, a market in a region hungrier for LON service,
+but at an airport where the connecting $$ will go to HP.
+AS would definitely have to include SEA as a hub of some sort.
+Upgrade CVG to a Whopper Hub.  DL and OH (Comair/Delta Connection) are the
+two largest airlines at CVG; DL's operations there are now larger than
+either their DFW or SLC hubs.  CVG is even closing in on ATL in some ways,
+with the expansion DL and OH have done.  (OH has their own 50+ gate
+concourse, complete with a duty-free kiosk for their CRJ flights to
+Canada.)  DL ads are now touting CVG as the "O'Hare Bypass", with better
+weather, easier connections, and so forth.  (Interesting similarities here
+to Western's old ads touting SLC as a better alternative to DEN, before
+the merger.)
+SLC is also gaining flights, mostly on SkyWest, another Delta Connection
+carrier; both ComAir and SkyWest are flying larger and larger CRJ fleets,
+picking up "thin" city routes from the hubs at SLC, CVG, and MCO (which is
+getting several of Comair's CRJs).  The SkyWest concourse at SLC was also
+recently expanded and renovated; though it's quite a bit smaller than OH's
+Concourse C at CVG, it still has room for 16 or so gates.
+MCO is a minor hub not just from WDW traffic, but also because of the
+substantial (and growing) Comair presence there.
+BOS should probably be added as a Vestigial Hub; DL does have a fairly
+solid presence here, including one of the two Business Express (Delta
+Connection *and* Northwest Airlink, now) hubs (JFK is the other) as well
+as code-shared flights on SN to Brussels and VS to London-Gatwick.
+Add PDX and LAX to the Vestigial Hubs list for their role in gatewaying
+Pacific Rim traffic (and the SkyWest hub at LAX, for those of you who just
+*love* EM2s).  They're probably at about the same level as JFK.
+I'd add BOS as a "bygone" Vestigial Hub, and add SEA which still had a
+fairly hefty presence last I checked.  MEM probably could go to Minor Hub.
+Other "bygones" could include MKE... I never did figure out why they were
+trying to add another hub in the northern tier.
+BOS probably qualifies as at least a vestigial hub for US, who at times
+seem to have made a vestigial hub out of every city in the northeast US
+with a sizable airport.  (They're reportedly the passenger carrier with
+the most flights per day from BOS.)
+Here's my attempt at a chart.  Division into categories is based on an
+arbitrary weighting based on number of flights, city dominance, number of
+passengers and a rough sense of how profitable the hub is and what I ate
+for dinner tonight.
+The line between Minor Hubs and Vestigial Hubs gets kind of blurry.  Any
+corrections or amendments (like for Alaska and international airlines)
+would be welcome.
+KMC
+[*1] Lots of flights as Official Airline of Walt Disney World
+[*2] Southwest has concentrations of thru/connecting service at these locations
+Monday's (4/17) Minneapolis Star Tribune business section contained a
+typically content free (for the paper) story about Northwest Airlines,
+the wage concessions, and how wonderful everything is. It did contain
+an interesting graph showing costs per ASM for several airlines. Even
+with the concessions, NW was near the highest at about 9.5 cents per
+ASM, second only to USAir. For all airlines, costs were fairly similar
+between 1993 and 1994. There were some brief footnotes, one of which
+stated that NW's costs included "restructuring and ESOP costs". So
+maybe these numbers are more indicative of where the cash costs will
+when the wages snap back next year. A table is included below.
+Assuming that this data is reasonably accurate, it would seem that the
+recent record profits must be coming more from the revenue side than
+the cost side.  Healthy revenue are likely due to
+While NW has done quite well over the last year or so, it isn't
+obvious that this financial performance will be easy to maintain.  I
+would think that there is a lot more downside risk than upside
+potential here. The US economy may very well slow down, other airlines
+should soon enjoy arrangements like the NW-KLM partnership as additional
+open skies treaties are negotiated between the US and European
+countries, and competition seems inevitable. (As long as NW wants
+$1200+ for a MSP-LAX roundtrip I would think that this market would be
+attractive. On a trip last week, our corporate travel agent got us a
+$700 fare on America West; maybe this is a beginning.)
+steve
+Costs in cents per available seat mile (asm) for 1994. 1993 numbers
+were very similar.
+Taken from a bar graph, so these are to the nearest half-cent.
+Why do some people prefer JFK over EWR?  It's all about prestige.  Gatwick
+started life as almost a completely charter based airport.  It's now got
+a respectable amount of scheduled traffic, but it still suffers the old
+stigma.  In terms of airline connections, it is nowhere near as well
+served as Heathrow, tending to be filled by second tier airlines.  There
+are two terminals.  North (Just British Airways I think), and South
+(everyone else).  The South terminal has the direct connection to the
+trains, the north is connected to the South terminal by a people mover.
+As an airport, I like it.  You are right, the public transportation to
+London is probably superior (depending on exactly where you want to go).
+The British rail station is connected with the airport, and there are direct
+services to many parts of central London.
+I have had differing levels of service at Gatwick, from excellent, to total
+shambles.  The last was thanks to those wonderful people at TWA, who made
+a total mess of filling up a 747.
+My main reservations about the place is the single relatively short runway.
+That same TWA flight, we only left the ground at the very very end of the
+runway.  Almost enough to make me give up on my window seat preference.
+Now that is a real question.  There is the matter of cab fare being
+cheaper to JFK (because of EWR being in another state) but other than
+that it's hard to think of any reason to pick JFK over EWR.
+I have heard that there are ATC problems at EWR, but that sounds like
+a fixable problem, and the lineup to depart from JFK in the evenings
+is unbelievably awful.  Traffic is a disaster, JFK is a dump, the
+list of peeves goes on and on.
+I just don't see the prestige.  SAS abandoned JFK years ago, and
+apparently made a lot more money at EWR through their agreement
+with CO.
+Every year you see EWR sneaking up on JFK in the airport rankings.
+The growth rate of EWR is faster, so I bet by the year 2000 we see
+EWR as the largest NYC area airport.
+One thing I don't understand:  EWR is building a larger international
+area in Terminal B.  Why don't they build it off the third unused
+"stub" pier of Terminal C?
+JFK is without a doubt the most insanely crappy airport in the United
+States and possibly in the entire First World.  Every time I go through
+there I am simply amazed at the complete shoddiness of the entire
+operation, and the totally bungled "JFK 2000" project (now on hold
+until 3000) has only added to the frustration and confusion of the
+place.  Even some things which could be remedied without any hassle
+whatsoever are left unattended -- for example, in the UA terminal,
+why does the bar not take credit cards?  And I do not mean -- it
+does not take my favorite credit card, it just doesn't take them
+period.
+So now to the question:  why do people prefer it?  I wondered about this
+repeatedly during the ten years that I lived in the New York area, and
+finally came up with four reasons:
+* prestige from the past.  Crazy as it may seem, to many middle- and late-
+middle-aged New Yorkers, international travel still means departing from
+"Idlewild".  There is a nostalgic romance in their minds which the present
+condition of the airport apparently does not shatter.  Add to this what
+for many New Yorkers remains the "stigma" of New Jersey and these folks
+will continue to choose JFK for international departures.
+* force of habit.  Believe it or not, it took many New Yorkers years to
+realize that a build-up of international service had taken place at
+EWR.  As a friend from northern New Jersey once commented, "Newark was
+our little secret for years and years".  Once word began to get out,
+many people took a long time to change their patterns.
+* orneriness.  Complaining about JFK is a full-time occupation for many
+well-traveled New Yorkers.  EWR is simply too easy to use for the cranky
+New York soul.
+* and finally a more "objective" reason.  A lot of the pax at JFK are not
+coming from Manhattan (and therefore relatively equidistant from EWR and
+JFK) but rather from Long Island.  JFK is their closest international
+gateway (Islip has increasing domestic service but that's all).  Getting
+from Long Island to New Jersey is a colossal hassle and for anyone living
+in Nassau and certainly Suffolk counties, is not really a viable option.
+There's a couple million people right there "captive" to JFK.
+To think that Angelenos complain about LAX...
+There are two reasons for this that I can think of.  If I'm not
+mistaken, the pier at the far end of Terminal C that had been unused
+for a long time is no longer idle.  I believe Air Canada and its
+commuter affiliates are now using it, and it wouldn't surprise me if
+America West is there, too.  The other reason is that the customs
+facilities are all in Terminal B already.
+This is just my speculation, so there may be other reasons or the
+reasons that I've given might be wrong.  I haven't read any official
+reason justifying the decision to expand Terminal B instead of adding
+international capacity elsewhere.
+Martin Eiger
+mie@thumper.bellcore.com
+   While most of JFK may be an old, outdated dump, the original poster said
+he was flying AA. American has their own building at JFK with their own
+customs, and it's not really bad at all.
+   Maybe the way things are right now EWR will catch JFK by 2000, but JFK
+has a couple of billion (yes billion) dollars of renovations and additions
+coming to it that should be completed by early in the next century.
+Several foreign airlines will be building a new terminal where the old
+Eastern one is. I believe they are Lufthansa, Air France, Korea Air and
+some others. Also the worst part of the airport, the international wing
+will be redone. Also a monorail costing over a billion dollars will be
+built from Manhattan to JFK. (The monorail is running into some political
+problems now)
+Mayor LaGuardia once made a big fuss when landing at EWR when holding
+a ticket marked "New York"... and was the force behind the building of
+both LaGuardia and Idlewild (now JFK) airports on landfill (LGA's is
+supposed to be settling noticeably... not sure about JFK's).
+--
+John R. Grout	Center for Supercomputing R & D		j-grout@uiuc.edu
+Coordinated Science Laboratory     University of Illinois at Urbana-Champaign
+If you just want to fly from the US to London or the South East of England
+then from the passengers standpoint flying from Gatwick is generally a
+pleasurable and logical choice to make. Gatwick is a major international
+airport but has less than half the passengers of Heathrow which probably
+gives it a reputation for being a bit more user friendly. Connections to
+Central London are quick and easy from whichever terminal you arrive at
+using the Gatwick Express rail service.
+>From the major international scheduled airline's point of view they're
+going to want to use Heathrow every time. Heathrow captures more of the
+business market and hence yields are higher. Heathrow historically and to
+the presnt day has been a magnet for passengers and so you are more likely
+to put a greater number of bums on seats out of Heathrow than Gatwick. In
+terms of onward connections, Heathrow has a clear advantage over Gatwick
+and this probabaly gives it it's greatest appeal to the international
+passenger. BA obviously uses Heathrow as its major hub, but all operators
+can utilize Heathrow's hubbing synergy through code-sharing, alliances,
+etc..
+RNA (in CALite dead and buried) also wrote:
+   WHAT is your definition of "pulling out?" You'll have to refresh my
+memory on what all these golden markets were that CO left.
+   They didn't leave any market where the yen-paying customer is king.  CO
+serves 8 cites in Japan from GUM (namely Sapporo, Sendai, Tokyo NRT,
+Nagoya, Osaka KIX, Fukuoka, Okinawa) and all but Okinawa from Saipan (SPN)
+as well as NRT-HNL and GUM-HNL connections for the rest of Japan.
+   GUM also has flights to TPE, KHH, HKG, SEL, MNL, CEBu, DPS (Bali,
+Indonesia) and all those little islands in between.
+   Thus CO Mirconesia has no credibility problems among their core Asian
+customers.
+   While I'm sure that SYD *et alia* are very nice cities, at about 120
+yen (my guess for when CO dropped the Anglo Pacific) to the dollar, there
+must not have been enough Japanese wanting to go there that CO should have
+been in (or reassigned its authority to) SYD-GUM.
+   With each drop of the dollar from about 120 yen I'm sure that anything
+from GUM looks better and better but the ANZUS business still looks lame.
+   As of 4/16 CO will start GUM-SYD at three roundtrips a week. Why throw
+planes at LAX-SYD and get lousy old dollars when you can add service
+GUM-SYD and get yen instead?
+   Incidentally CO has parked virtually all its 747 and A300 as of March
+1. CO is basically an all DC10 airline at the top until the 767 arrives in
+1996 and the DC10 fleet is stretched pretty thin covering EWR-ORY,
+EWR-LAX-HNL and wherever else the 747 used to go (with the 757 taking old
+A300/DC10 routes and a few A300 left doing LAX,PBI,&SJU from EWR).  The
+only 747 I see in the schedule does the daily NRT-HNL which probably takes
+2 planes.
+   Do you really think there's good money to be made YVR/YYZ-LAX-SYD/AKL?
+You'll have to excuse me.  When I think of the Pacific I think naturally
+of NZ and Australia, since that's where my parents are from.  So when
+I say CO pulling out of the Pacific, I am thinking of those markets.
+I think there is good money to be made in LAX-AKL/SYD, yes.  QF, NZ and
+UA are having a ball on those routes.  There is less competition there
+than there has been in many a year.  Air NZ just took a 4th and 5th
+747-400 to accomodate demand.
+What was lacking for CO was a long-legged jet, which AC has.  AC has
+a small fleet of 747-400.
+The point is that service by an American carrier to the South Pacific
+is greatly enhanced if its feed is backed up by a guaranteed feed
+from Canada.  Thus CO or HP service to the S.Pacific gets code-shared
+with AC and you have CO/HP flight numbers going e.g. EWR-LAX-SYD/AKL
+etc, and AC flight numbers going YVR-LAX-SYD/AKL for example.  No,
+YYZ-LAX-SYD/AKL isn't viable by itself, of course not.  But it's
+gravy on top of US traffic, of which there would be much.
+RNA (in CALite dead and buried) also wrote:
+   WHAT is your definition of "pulling out?" You'll have to refresh my
+memory on what all these golden markets were that CO left.
+   They didn't leave any market where the yen-paying customer is king.  CO
+serves 8 cites in Japan from GUM (namely Sapporo, Sendai, Tokyo NRT,
+Nagoya, Osaka KIX, Fukuoka, Okinawa) and all but Okinawa from Saipan (SPN)
+as well as NRT-HNL and GUM-HNL connections for the rest of Japan.
+   GUM also has flights to TPE, KHH, HKG, SEL, MNL, CEBu, DPS (Bali,
+Indonesia) and all those little islands in between.
+   Thus CO Mirconesia has no credibility problems among their core Asian
+customers.
+   While I'm sure that SYD *et alia* are very nice cities, at about 120
+yen (my guess for when CO dropped the Anglo Pacific) to the dollar, there
+must not have been enough Japanese wanting to go there that CO should have
+been in (or reassigned its authority to) SYD-GUM.
+   With each drop of the dollar from about 120 yen I'm sure that anything
+from GUM looks better and better but the ANZUS business still looks lame.
+   As of 4/16 CO will start GUM-SYD at three roundtrips a week. Why throw
+planes at LAX-SYD and get lousy old dollars when you can add service
+GUM-SYD and get yen instead?
+   Incidentally CO has parked virtually all its 747 and A300 as of March
+1. CO is basically an all DC10 airline at the top until the 767 arrives in
+1996 and the DC10 fleet is stretched pretty thin covering EWR-ORY,
+EWR-LAX-HNL and wherever else the 747 used to go (with the 757 taking old
+A300/DC10 routes and a few A300 left doing LAX,PBI,&SJU from EWR).  The
+only 747 I see in the schedule does the daily NRT-HNL which probably takes
+2 planes.
+   Do you really think there's good money to be made YVR/YYZ-LAX-SYD/AKL?
+There are a number of factors that can cause a scheduled non-stop to have to
+make a fuel stop. Winds are one as other have pointed out. Higher than normal
+head winds can cause a planned stop (i.e. they know there will be a stop before
+departure) and higher than forecast head winds (or lower than forecast
+tailwinds) can cause a unplanned fuel stop when you realize that you don't have
+enough to make it all the way (most of the very long flights have to trade-off
+fuel vs. payload due to wieght limitations - therefore, you don't carry full
+fuel if you don't expect to need it).
+Another factor is destination weather and how close suitable alternates are. If
+the weather at the destination is forecast to be bad and your alternate is two
+hours away, then you may have to make a fuel stop to insure that you have the
+needed fuel to go to your alternate if required.
+Other factors can be conditions at your departure airport. Closure of the
+"long" runway can limit you max. take-off weight as can runway surface
+conditions (e.g. slush or snow) and winds.
+Newsweek has just published a special report on air travel safety in the
+United States, in the wake of a year in which more there more fatalities than
+in the previous four years combined.
+In the article, Newsweek detailed what it thinks are the major problems that
+threaten safe air travel in the U.S.  Allow me to summarize:
+The article goes on to elaborate on each of these issues, supported by
+citations of disasters and the input of industry insiders.
+The section concludes with a list of ten ways in which the air travel industry
+can be made safer.  Those are:
+Another part of the article that caught my eye was Newsweek's own statistical
+ratings of the airlines, as far as safety is concerned.  Based on data from
+the last ten years, the rankings are as follows, with death risk:
+I compared these figures to the study presented in Newsweek's issue dated
+September 19, 1994, based on a twenty year test period.
+Numbers were also presented for a limited number of international carriers,
+with Air Canada, Quantas, El Al, British Airways, and Japan Air Lines being
+the safest.
+I found the article to be quite interesting, but would have like to have seen
+the charts contain more information (i.e., more carriers).  I also found the
+descriptions of wind shear and icing to be particularly good, supported by
+excellent graphics.
+One problem that I had was seeing NW's low rating on both lists.  I can't
+remember a NW accident in the last five years.  In fact, the only one I
+remember is the DC-10 that crashed near DTW several years ago.  I have to be
+missing some, especially if their rating is so close to that of USAir's, for
+whom I can name at least six accidents off the top of my head.
+All in all, I recommend the article to everyone who reads this newsgroup and
+anyone else who flies, not to intimidate them, but rather to inform them as
+to the state of air travel safety in the United States.  While the article may
+not be totally objective or scientific, it will give you something to think
+about.
+I'm sorry about the length of this post.  I hope that it was found to be
+informative.
+Happy, and above all, safe, flying to all.
+Scott
+saweiss@acs.bu.edu
+75522.3272@compuserve.com
+There are really five fleets -- the two flavors of -200B are quite
+different, and there are two -400 configs.
+Within the *four* (or five) fleets, the aircraft are pretty much
+interchangeable.
+Yes.  Most have been upgraded to 750,000 lbs MGTOW though the last
+data I saw said a few still were at 734,000 lbs.  This doesn't have
+any correlation to -122 or -123; they're probably being upgraded at
+their next D check.  The weight limit of some only seems to restrict
+payload and not routes.
+The -123s have the old three-window upper deck with a 19' upper cabin
+instead of 25', which eliminates the upper galley and makes the cabin
+a bit less comfortable, but otherwise the -122s and -123s of the same
+weight are identical.
+The -222Bs and -238Bs are very different aircraft.  The -222Bs are
+amongst the last 1st generation 747s built, and at 833,000 lbs MGTOW,
+they're actually capable of higher weights than an Air France -400!
+They are configured with a very premium mix of seats (35/134/124) and
+generally stay on the JFK-NRT routes they were purchased for or switch
+over the EWR-NRT depending on loads.  The only other route I've ever
+seen one fly is EWR-SFO, presumably for maintenance.
+The seven ex-Qantas -238Bs are, in contrast, fairly early examples, 12
+years older than the two -222Bs, and even after several upgrade rounds
+are only good for 800,000 lbs MGTOW.  They have a more conventional
+seating config as well (18/79/272).  Originally, they flew European
+routes while the -100s flew Hawaii and the Pacific, but the -238Bs
+have since been reconfigured and now the -100s and -238Bs fly pretty
+much the same routes, except for SFO-LHR (and LAX-LHR, when it gets a
+747) which a -100 doesn't have the range to handle.  They aren't fully
+interchangeable because the -238Bs have a different seating config,
+due to their main galley being on the main deck instead of below as on
+the -100s.  (The first three -238Bs are slightly different from the
+latter four, too, primarily in the setup of the upper deck galley, but
+this doesn't seem to be a significant operational difference.)
+The -451s are essentially the same as all but the first six -422s.
+The first six have more premium seats than the others (36/123/142
+vs 18/80/320).  From what I've heard (and observed), the ORD-NRT
+flights always rate one of these six, while the four not working
+that route are assigned to various routes based on demand.
+Yesterday in our local newspaper, American Eagle announced that they
+were ending all service to Nashville from Willard Airport
+(CMI)... leaving us with no flights at all toward the southeast (and
+leaving my boss, who flew frequently to DCA on business, and got much
+better service via Nashville, irritated).
+Though I've seen statements from AA that they were winding down their
+Nashville hub, I hadn't seen any announcement stating flat-out that
+they were ending all commuter service to there at a certain
+date... has anyone seen such an announcement?
+If memory serves me correctly, CMI's remaining flights (all turboprops
+or prop service) go to ORD (I don't think MDW anymore), STL, DTW, MSP
+and IND (which may not last long if USAir is dehubbing there).
+Customs faciliies exist in the Term-C stub already... in fact this part
+of the terminal was open two or three years before the rest of the
+terminal was -- PE operated their LGW & BRU flights from there back in
+1986; the terminal didn't open until late '87 / early '88. I believe that
+only CO and SK are using these facilities at the moment (AC flights
+arrive and depart as domestic from the US..)
+Given the international traffic growth and the fact that the other carriers
+now operate from Term A and B, the decision was made to expand Term-B and
+meet the expansion needs of those tenant airlines versus expanding what
+is already a newer facility.
+My, my, my... Trying to compare a brand new airport and a new terminal is
+quite the apples and oranges analogy to me... PE staff did get to see the
+inside once the building shell was up, but the passengers never did!
+While it is true that the increase in lease costs that PE was to
+experience in Term C was more than what they were paying for with the
+North Term, it was also fixing a major image problem for the carrier in
+terms of being a non-modern airline who still had an entirely outdoor
+hub operation in the mid 80's. The hope was that by going to the new
+terminal, the hub would work more effectively from a service standpoint.
+I can only assume that people are more willing to fly on an airline using
+jetways with reasonable gate seating areas versus a carrier who used an
+older facility with inadequate seating areas, poor heating/air
+conditioning, and a bunch of rolling stairways.. Have you ever walked up
+the stairs to a 747 with all of your carryons?. Not a pretty site in
+the rain or in the middle of winter....
+I don't have specifics on the construction cost, but most of the physical
+plant construction was financed by the Port from what I remember: PE was
+only locked into the long term lease and not really liable for more than
+the jetways, bagbelt systems and other interior furnishings for space
+occupied by PE. In general, the Port provides the basics i.e. lighting,
+walls, floor coverings in the public areas and concourse halls,
+heating and air conditioning. The carrier provides the rest i.e. gate
+holdroom carpeting, ticket counters, etc....
+In this regard, the costs are the same at DIA as they were for PE/CO at
+EWR. The major difference is that for PE, there was no increase in landing
+fees or general cost of doing business increases. They retained the same
+maintenance and catering facilities, as well as the proximity to their
+training facilities and general offices. They were able to maintain the
+same contracts for hotels, fuel, etc... This is not the case at DIA,
+where the investment in a maintenance facility for most carriers was
+written off. The proximity and convenience that UA had for their crew
+training facility and their data center is now lost. Many of the
+negotiated hotel contracts for crews had to be cancelled in favor of
+hotels closer to DIA (which are few at the moment...). Fuel, catering and
+other service contract costs will be higher as the contractors now have to
+recoup -their- increased costs... So that is a much higher cost increase
+than what PE would have seen at EWR...
+The recent thread regarding the size and classification of airline hubs in
+the US inspired (?) me to evaluate all US hubs and rank them in terms of
+capacity.  To obtain my information I counted each departing flight operated
+by the major airline (and code-sharing regional) at 43 different airline hub
+operations.  By multiplying the number of each aircraft type by the its
+seating capacity I arrived at a total number of daily departing seats
+(weekday).  I used the May 1995 North American OAG (both pocket and desktop
+versions), plus airline timetables to fill in a few international gaps.
+The definition of what is and isn't a hub gets blurry around the margins.  I
+chose to exclude airports like Boston, La Guardia and LAX because I see them
+as much more of a concentration of flights than a real hub.  The so-called
+hubs of Delta at JFK and United at Dulles are virtually nothing but some
+weak, once-a-day feed for a set of international flights.  TWA at JFK,
+however, has multiple flights to several destintions which exist independent
+of international connection, so I included TWA/JFK.  Another judgement call.
+And despite claims to the contrary, several big Southwest airports are de
+facto hubs, so there are included.  If anyone really wants to know why I did
+or didn't include a particular airport among my hubs, write me directly.
+Total Brand = Total offered under the brand of the major airline, including
+code-sharing regional airlines.  Does not include code-sharing with other
+major airlines (such as CO/HP) or with international partners.
+Key to less-obvious abbreviations and codes:
+--------
+Dale
+Milwaukee
+Again the National Institute for Aviation Research has churned out their
+annual ranking of Airline Quality.  And unless they've made some serious
+changes in their methods (and from what I've heard so far they have not),
+their results are pretty much meaningless.
+I've complained about this ranking before, but recently I came upon the July
+1994 issue of "Consumer Reports Travel Letter" which points out the many
+flaws of this much-hyped "ranking" quite well.  I'll draw from their
+words as well as my own thoughts for this posting.
+Three semi-reasonable factors used in the Airline Quality Ratings:
+*Lost Baggage:  Makes sense to me
+*Bumping:  They only consider *involuntary* bumping, not total denied
+boardings due to overbooking.  One of the biggest total-bumpers (AA) is also
+one of the best at coaxing people to volunteer, and thus ranks very well.
+*On-time performance:  This statistic is so manipulated that it is only
+marginally related to what "on-time" is commonly perceived as.
+The AQR includes complaints per 10,000 passengers in their survey, but
+counts this as not one but *eight* separate factors ("flight problems",
+"fares", "customer service", "refunds", "advertising", "credit", "refunds"
+and "other").  By counting this one factor as eight, it makes up almost half
+of the entire set of scoring elements.  Complaints are important, but this
+is much overstated.
+The AQR has three factors which are surrogates for "safety".  But there is
+absolutely positively no reasonably valid way to include the factor of
+safety among the major airlines.  Despite what the fools at Newsweek (who
+have demonstrated a clear knowledge of 8th grade algebra with their
+statistical evaluations) there is no significant difference between the
+major airlines in terms of safety.  This has no business in a quality survey
+of any credibility.
+The AQR includes three factors that have zippo corelation with "quality":
+*Financial Stability, and
+*Cost per Seat Mile:  I suppose they wanted some way of proving that
+financially-troubled airlines are "bad".  But ask youself...has AA's Quality
+imporved versus 1992 when they were losing money hand over fist?  Is DL's
+quality *improving* as they continue to cut ASM costs?  Duh.
+*Fleet Size:  This is laughable.  Nothing makes an airline with a bigger
+fleet have a higher quality serive.  A stronger arguement could be made that
+bigger is *worse*, although I think it is a meaningless factor.
+Lastly, they ignore what Consumer Reports Travel Letter considers very
+important tie-breakers:
+*Comfort:  No consideration is made regarding seat size, pitch or
+configuration that airlines offer.  By the AQR system, there is no scoring
+difference between a 737 coach seat and a 747 sleeper seat.  Somehow I think
+there is a quality difference they've missed here.
+*Food:  Food service is typically low among reasons for chosing a specific
+airline, ranking below price, schedule and frequent flyer considerations.
+Yet when reporting on "quality", the quality and availability of food
+service is viewed as important.  In other words, most will fly Airline X if
+the schedule, fare or FF miles are right, food or not.  "Quality" does not
+lead them to chose one line over another.  Yet replace the meal with peanuts
+and customers will scream.
+The misguided AQR ranks the majors in this order:
+AA, WN, UA, DL, US, NW, HP, TW, CO
+Comsumer Reports Travel Letter divised a similar rating system based on
+seven factors.  Each line was given a score of 0 to 10 (ten is best) in all
+seven categories using 1993 data.  Here are their results:
+I'd like to see them update their rankings, as there have been significant
+changed is frequent flyer programs since 1993, as well as some shuffling
+around in the on-time and complaint records.
+On the subject of CO DEN-LGW.  The route is alive for the time being,
+although not for long, as you will notice that it is an aircraft and crew
+scheduling nightmare; the aircraft must be ferried in and out of DEN.
+This is a route that SHOULD have been enormously successful for CO.
+London is Denver's largest international destination, and from a
+convenience standpoint, virtually all London traffic should have preferred
+CO34 to any other carrier's connect service.  Additionally, CO SHOULD have
+been able to sell out their superior BusinessFirst seats on the route
+daily.  Any executive bound for London would have been crazy to fly in
+conventional J class via ORD or DFW just to support his mileage account.
+The biggest problem with the route was CO's failure to market it.  Very
+few people in the Denver area even knew about the service.  CO had a sales
+staff of 8 for the entire region (I assume that UA had in excess of 50)
+and therefore was unable to get the word out to the community's travel
+agents.  Typically, the flight was filled with group traffic...very low
+yield.  I doubt that the flight will last beyond the summer schedule, and,
+I disagree with Robert Gordon; look for United to want it LHR or not.
+None taken and as a general rule I'm somewhat suspicious of anybody who
+slices and dices statistics to suit their purposes as well.
+Having said that, however, I think in this case there is some validity in
+comparing ourselves against the other network carriers (our claim is based
+on the DOT stats reported for the seven largest airlines - American,
+Continental, Delta, Northwest, TWA, United and USAir) and for excluding HP
+and WN.  WN is a different type of beast and HP is dramatically smaller.
+The DOT definition of a "major" carrier, I believe, is revenues over $1
+billion, which does not address the different products of the airlines in
+that category.
+Regards.
+Jon
+1.  Europe.  UA has 21 transatlantic flights to Europe this summer.  Three
+orig in SFO, two to LHR and one to CDG.  Three to same places from LAX.  That
+leaves 15 that originate in ORD, JFK, EWR, and (mainly) IAD.  A few of these
+flights have SFO or LAX "tags" (same flight number but different aircraft).
+2.  Latin America.  There are six daily flights to "deep" Latin America, that
+is, Brazil, Argentina, Chile.  Five operate in 767-300 and one in 747-100.
+Two leave from JFK and four from MIA.  Of these, three or four have "tags" to
+SFO or LAX, some in the same 767-300s and some in other aircraft.  There are
+also 733 tags from MIA to DCA, EWR, and LGA; 763 to ORD.
+Today  at 2345 UTC I manage to catch N773UA , a B777,  flight UA9431,  on
+a test flight from IAD to HNL.  The flight appeared  routine with one
+exception.  Instead of flying the usual R464 Bitta they flew R463 Apack
+with something very special.  They request  a 90 degree right turn at
+ADENI with a planned decent to 10,000 feet  and requested direct HNL at
+10.0  They did not give the reason for this, but since these are test
+flights and the aircraft is not ETOP's certified yet, well, you guess.
+When do you think any airline would possibly fly a 744 into SAN?  I can't see
+the market ever opening up.  SAN passengers will always have to first fly to
+LAX if they want to go international.
+I don't have any figures, but SAN probably isn't in the 30 busiest airports in
+the country.  In fact, I wouldn't be surprised to see SNA or ONT have higher
+rankings.  So, yes, I agree that SAN is a "sorry excuse" for an airport
+especially given the size of the city.
+Yeah - wasn't there some talk years ago about moving the airport to one of the
+military bases in the area?  I thought that this would have been a good move.
+The runways, some facilities already there, just building terminals and
+roads..could have been done by the of the century.  Too late now.
+BTW, I do love the location of SAN.  Last time I was in SAN, stayed at the
+Hyatt and could see all the planes takeoff/land from my room.
+Scott
+saweiss@acs.bu.edu
+75522.3272@compuserve.com
+In article <3np9ha$2mh@gsb-crown.Stanford.EDU>, rna@gsb-pound.stanford.edu
+wrote:
+Or, when CDG does become a connecting megalopolis it will be as a rail hub
+and therefore possible for anyone, not just AF, to feed connecting
+passengers from the Benelux, Switzerland and Western Germany via TGV (the
+train, not an airport) to CDG.
+So the French, in choosing a land-based strategy to make Paris the center
+of Europe, have sort of undermined AF's position.
+Is there any announced plan to have the TGVs hub at CDG for the benefit of
+making connections with airlines?  Here again AF has problems because the
+TGV competes within France with Air Inter and ORY--so on another level,
+they'd rather their customers take the Air France bus from CDG to ORY to
+make connections than to take the train from CDG.
+I don't think that the either the SCNF or AF folks have thought this one
+through.
+    If fliers think that air travel is becoming more like a trip by bus, I
+guess that assessment may be strengthened when new carrier Western Pacific
+Airlines launches their flying billboards.
+    Western Pacific, which will fly to points in the Southwest U.S. from its
+hub in Colorado Springs, is scheduled to begin service Friday (April 28),
+according to a report in the April 24 edition of Aviation Week & Space
+Technology. And in an attempt to subsidize its "low" fares, the airline has
+instituted an "Air Logo" program in which it will sell space for advertise-
+ments on the exterior of its Boeing 737-300 jets.
+    The first company to sign up for the "Air Logo" program is The Broadmoor
+Hotel, a 5-star resort in Colorado Springs. Aviation Week includes a photo of
+a Western Pacific jet wearing The Broadmoor's "advertisement." At best, the
+plane could be said to resemble a corporate jet; at worst, it brings to mind
+the city buses that are "wrapped" in a colorful message for the local zoo,
+newspaper or sports team.
+    The center of the fuselage is dominated by the words "The Broadmoor/
+Colorado Springs" in letters that are almost three times the size of the
+letters most airlines use to identify themselves on their planes. The hotel's
+slogan, "European Grandeur in the Colorado Rockies," covers the rear of the
+fuselage in slightly smaller letters, and the hotel's emblem -- a stylized
+"B" surrounded by 5 stars -- fills the tailfin. The stylized "B" has also been
+painted on the 737's engines. Squeezed onto the front of the fuselage are the
+letters "WP" and the words "Western Pacific."
+    Tom DeNardin, Western Pacific's vice president of sales and marketing,
+told the magazine, "We have the power to expose a corporation to an enormous
+middle-income and high-income audience at a minimal cost-per-thousand."
+American Express and the Adolph Coors Co. are also considering buying space
+on WP's jets, according to the report.
+    I'm surprised that Frank Lorenzo hadn't thought of this when he was
+trying to squeeze every cent out of Eastern and Continental. The flying
+billboard concept may become popular with beleagured carriers, but I think it
+has two major obstacles to overcome before it's adapted by other airlines.
+    First, the concept actually would have made more sense when jetways
+weren't so common at airport gates. Today, commuter fliers are actually the
+only passengers who get a good look at their plane as they board it. At many
+airports signs at the gates and jetway corridors, as well as the seating
+arrangement in the waiting areas, make it difficult for those inside the
+airport to view the planes at the gates.
+    Second, even though flying is safer than driving to the local Food Lion,
+crashes do occur. USAir has enough of a PR problem when its logo is
+prominently displayed amid twisted plane wreckage in photos accompanying
+coverage of a major crash, so a company like Coors probably wouldn't want to
+renew its "Air Logo" contract if its trademark became associated in the
+public's mind with a highly publicized air disaster.
+The following is a revised edition of the hub rankings I posted eariler this
+week.  See original for additional explanation and disclaimers.
+<2 revisions:  WN at LAS was omitted.  Also the hub at SEA is AS, not AA.>
+Rank of Domestic US Airline Hubs by Total Weekday Seat Capacity 5/95
+Total Brand = Total offered under the brand of the major airline, including
+code-sharing regional airlines.  Does not include code-sharing with other
+major airlines (such as CO/HP) or with international partners.
+Key to less-obvious abbreviations and codes:
+I'd be inclined to say that profitability and customer satisfaction are
+quite closely related. If there wasn't at least a perception of quality,
+there'd be no repeat business. Without repeat business, there is no
+profitability. So yes, the fact that a carrier is financially stable does
+reflect to great extent customer satisfaction. I do agree with you
+that cost per seat mile is a bit hard to tie into the scale, though..
+Again, the airline couldn't afford to have a larger fleet unless there
+was some cash behind it, and cash comes from repeat business. Would you
+say that the number of McDonalds franchises is a reflection on the
+success of the company and its profitability? Yes. Does the fact that
+they have a lot of franchises mean that they provide quality? Indirectly,
+yes. Because there is a demand for their product, they open more stores
+to meet that demand. The same thing with an airline. AA is not the same
+airline it was 10 years ago, and its fleet is almost twice as large as it
+was 10 years ago. They improved the delivery of their product over this
+period, and as a result of the customer demand, was able to expand.
+With expansion came new aircraft. Same for UA and DL. As quality drops,
+demand falls off, the company shrinks and eventually fails. Like Pan Am
+did and MarkAir is in the process of doing as we speak.
+Ok. Prove your stronger argument. I don't see it as completely
+meaningless considering that sustained growth into new markets and
+increases in capacity/productivity are usually strong rating points on
+anyone's scale, such as Wall Street....
+Given that the CRTL ranks TW, NW and US above AA, UA and DL, I'd be a bit
+more concerned if the AQR followed the CRTL's criteria... Despite my
+obvious bias towards one of the carriers here, I've flown on all of the
+carriers ranked. I can't see how even on a bad day for UA and a good day
+for NW where the rankings would fall as they did...
+The even more misguided CRTL ranks them in this order:
+:  NW    TW    US    AA    DL    HP    UA    WN    CO
+Tell me how anyone can seriously say that UA and WN rank lower than
+everyone but CO?... The credibility of this ranking is somewhat lacking.
+DL had its fair share of awards in the 1990 Japan Case, as did UA. AA was
+left out on this one. Admittedly, AA has fared better in Europe and South
+America than they have in the Pacific route cases, but their market
+share is also much stronger in the central and east states, which is
+where most of the US-Europe traffic originates, and where most of the
+Europe-US traffic is destined for.
+They also have more residents and businesses. Just because there is a hub
+at SLC doesn't mean that there is enough demand for an air route to
+London. Public convenience means service the markets with the demand, not
+serving one because of a geographical location or perceived disadvantage.
+As hard as routes into the UK are to secure, the DOT decided that the
+public was better served by leaving the routes on the east coast where
+the demand is. Had DL bid to move a route to JFK to LGW, they probably
+would have been awarded it. By choosing SLC, they put themself at a
+disadvantage.
+Personally, I'm not too fond of Cathay Pacific's management, and I do
+agree with you that CX and the Hong Kong government (wrt aviation policy)
+are definitely not pro-competition.  Nevertheless, they have a good reason
+for limiting capacity/rights to HKG because Hong Kong's Kai Tak Airport has
+long reached its full capacity.  Although talks of building a new airport
+at Chek Lap Kok started as early as mid 70's, it was not feasible at the
+time because landing at CLK would require the use of the Chinese air space.
+(At the time, China was not an open society, and airlines from many
+countries would have problem using the airport.)  Thus, CX has the
+"monopoly" at Kai Tak more or less by default.
+4000 seats a week aren't that many.  However, there is no reciprocating
+fifth-freedom benefit for CX, hence, CX thinks it's doing Qantas a favor
+by letting QF picking up pax in HKG to BKK/SIN (and perhaps to Europe).
+Airlines like Malaysia, Thai, and even Singapore have been offer
+below-market (actually, should be below-CX) European fares from HKG.
+Therefore, I don't think QF's European traffic is the thing that really
+pisses CX off.
+Well, I have to argue with you on this one.  Cathay has been very conscious
+about its cost.  It has moved some of its operations from Hong Kong to
+reduce costs.  The management was very aggressive in making the cockpit
+and cabin crews to accept longer working hours and reduced benefits.  The
+aggressiveness resulted in a walkout by the cabin crew during Chinese New
+Year of 1993.  However, the management was firm with its position and the
+cabin crew gave in.  CX is one the lowest cost operators among major East
+Asian airlines even though doing business in Hong Kong is very expensive.
+Well, the L1011 utilization is not a very good example for at least two
+reasons:
+I think you're a little bit harsh on HK.  HK has one of the freest markets
+in the world.  Do not extrapolate HK's conservative aviation policies to
+general trading policies.  The Hong Kong Aviation Authority may be
+anti-competition, but the Australian government has been practicing
+protectionism for a long long time.  To cite a few Australian
+anti-competition aviation policies that I can remember:
+Well, to be truthful, adenoids ARE your tonsils.  Or, to be more
+specific, are tonsilar tissue in your nasopharynx, as opposed to your
+oropharynx.  But, I still agree that I wouldn't want a 777 in my nose
+flying at 10,000 feet.
+Next question.  Who is paying for all of these flights?  And who is
+flying the planes?  UA pilots who are going to be using them, or Boeing emps?
+And onto the CRJ.  And this is a tad out of the scope of this newsgroup,
+I admit....  But I was at the (shocker) airport last night, and saw a CRJ
+take off.  From PIT.  Anyway, it left on a left parallel runway, and made
+what is probabally a standard 5 degree left turn soon after take off, but
+then was pretty much straight.  To get to the point, the plane just left
+its gear down for a VERY long time... like until I could barely make out
+its outline.  What's the deal?  Were the pilots just asleep or is this
+standard?  And also, what's the deal with winglets?  Boeing nixed them on
+the 777 saying they were not fuel cost effective --the weight of adding
+additional pylons for their installation were offset by any aerodynamic
+benefits from having less powerful wing vortecies (sp).  So, why is the
+CRJ built this way?  Why was it cost-effective for them?
+I addressed this in my original post, but let me summarize here.  I
+agree that new aircraft have greater fuel efficiency and reduced
+reliability/ maintenance costs.  At the same time, a new 100-120 seat
+airplane (read: 737, MD-80, or 320 series) costed around $30,000,000
+(last time I checked - around 1991) and the cost of hush-kitting an
+older airplane like a 727 or DC-9 costs around $3,000,000 (again,
+these figures were approximate in 1991).  Thus, the increased fuel
+efficiency and reduced reliability/maintenance costs are *dwarfed* by
+the ~$25,000,000 savings of using hush kits over new aircraft.  When I
+worked at Northwest, there was a study floating around that made the
+calculations and showed the savings to keep the old aircraft flying.
+I wish I had a copy of this.
+As the original poster noted, this savings is especially true for the
+DC-9s which tend to age better than the B-727 or B-737.  This explains
+why Northwest and Valujet are holding onto a fleet of old DC-9s.  (As
+someone noted to me in a private email, Valujet's fleet is
+*exclusively* a DC-9 fleet).
+As a former AA employee I can understand your confusion.  First of all the
+choices for the PHL/BWI/CLT-LGW.  This decision was based on Several
+factors including European base companies with locations in the cities
+that had applied for route transfer.  RDU has 154 European companies, BNA
+has 74, SLC 26.  The DOT was looking at the highest producing revenue
+cities verses "vacation/tourist" travel.  I have friends who still work
+for AA and say that RDU-LGW always goes out full in busness and most if
+not all are full fare revenue and not AAdvantage Upgrades.  When the
+bilaterial agreed to new US gateways, the DOT decided that one should be
+and stay in the Carolinias.  This bilaterial also stated all new US
+carriers would service LGW.  The PHL-LON was a TW route that DOT did not
+grant to AA when they purchased the LHR routes for TW.  When US purchased
+it because they were limited to LGW the route tranfered to LGW.  When AA
+was awarded the route they were able to switch back to LHR as that was
+where the route was when it was first granted and they had service to LHR.
+USAir has no intentions of selling its 76's, and never did.  They
+announced this a while back, however, as a threat to its unions.
+Meanwhile, they were applying for BOS-FRA and Bos-ORY.
+But we're not evaluating the public's "perception" of quality.  The
+public's perception of quality is based on alot of different factors,
+which would indeed include financial stability, frequency of flights,
+etc.
+However, we're trying to evaluate the *actual* quality in some objective
+manner.  The actual quality of an airline is not determined by how
+the public perceives them.  In particular, the financial stability is
+(can be?) orthogonal to the service quality.
+Again, larger airlines are *perceived* to have a better product.  That
+does not mean that their product *is* any better.
+To use your example, McDonald's may be big, yes.  But that doesn't mean
+that their product is better than, say, Bob's Corner Hamburger Saloon.
+It just means that Bob's Saloon hasn't been recognized by the market for
+it's high-quality burgers.
+The fact is that measuring fleet size gives an unfair advantage to
+larger carriers, at the expense of smaller carriers who may still be
+providing a superior product.
+If we just wanted to measure how people perceive airline quality, a
+Gallop poll would do just fine.
+HNL seems to have been under construction now for well over 10 years.
+What we jokingly called the "dignified welfare project" seems to be
+true: when the original contractor won the bid, the project was
+supposed to be small and self-contained. Over the years, the SAME
+contractor continued to ask for "extensions" on the original contract.
+Basically, we started with a palm-lined, single-tower airport to a
+"modernized" airport (Smart Carte and all) that is always under
+renovation.
+The worst joke of all was the whole inter-island terminal fiasco.
+Aloha & Hawaiian used to have a separate area--and when a third
+carrier (oooh, was it Mid-Pac? They so come and go) wanted to share
+the space, it got the big cold shoulder. So it managed to get counter
+space at the main terminal--and all of a sudden a lot of people
+decided that was a good idea (no need to wait for the Wikiwiki
+Shuttle). That irked Aloha & Haw'n to no end...and after a lot of
+wrangling and shuffling, Haw'n built its own one-story terminal near
+Nimitz Highway. Aloha didn't like that--so they prompted an entire
+renovation of its old terminal. Now, we have a huge, ugly parking
+edifice (for inter-island all-day parkers, I guess) for Aloha--and
+Haw'n operates out of it too (don't ask what happened to its old "new"
+terminal--I think it got hand-me-downed to the smaller
+island-hoppers).
+To make a long story short (and to bring this to the original thread),
+a recent state audit finally revealed what a sweet-heart deal the
+original contractor had gotten itself for the last decade. Of course,
+being that this is Hawaii, I wouldn't be surprised if the contractor
+continues to "upgrade and renovate" HNL for another 10 years on the
+same original contract it got the bid for back in the early '80s.
+Our local newspaper had an article today on an in-flight shutdown of
+a B767 engine:
+ATC lost radio contact with a UA jetliner over the North Altlantic as
+the Boeing 767, having lost one of its two engines, headed on an
+emergency course for Bermuda and flew too low to communicate with the
+controller's antiquated radios. Contact with the airliner was lost for
+stretches of 8-10 minutes or longer. Controllers say that if the plane
+had been forced to ditch in the water, they would not have had a precise
+location to send rescuers.
+A private subcontractor, Aeronautical Radio Inc., was used to relay radio
+messages between the airliner and the ATC. The company transcribes
+reports and then transmits them by teletype to the Controllers at he
+FAA's New York Center. The controllers keep track of locations in their
+heads, or use grease pencils on Plexiglas!!!!
+The incident itself was as follows: the pilot was flying at 33000 ft
+about 330 miles south of Bermuda when he radioed that he had a possible
+oil filter blockage in one engine and asked for permission to descend to
+25000 ft. The controller on duty received the information on teletype,
+telephoned Aeronautical Radio, and asked to be patched through to the
+plane. -- that took 5 minutes and was considered to be pretty quick!
+The pilot later reported that the engine had shut down. The pilot had to
+descend to unusually low altitudes because of a loss in cabin pressure.
+The shut-down of one engine meant the loss of an air conditioning unit,
+and the remaining unit overheated.
+Newsweek had an article just last week on the antiquated ATC equipment!
+Fortunately, the plane was in constant contact with United's own
+dispatchers in Chicago, via satellite link.
+Which immediately led me to think ETOPS.  However, later reports said
+the flight was UA 987, JFK-GRU (Sau Paulo, Brazil), which does not
+require ETOPS even though it does use ETOPS-rated equipment.
+Except, as you note later, the aircraft was in constant contact with
+United in Chicago via more modern communications equipment, and thus
+its position was known and could have been communicated to resuce
+operations should it have been forced to ditch.  The whole article
+seemed rather stilted to me, with the real problem (archaic radio for
+trans-oceanic ATC) lost in hysteria.
+Yeeesh!  Those Tejas folk get some serious hail!
+Hard to see otherwise, unless the hail was restriced to buildings 2E & 3E.
+If it made it over to 4E, Delta must have noticed it.
+Unless I am misinterpreting the question here, isn't any airline with a
+hub-based routing system vulnerable to whatever weather the hub is
+subject to?
+On filghts in/out of ORD,  United seems to have plenty of planes in
+there at any given time.  And of course UA has major a hub operation
+at Denver - an extreme-and-unpredicable weather center if ever there
+were one.  Hmm.. it might even be only a matter of time before HP gets
+bit by duststorms at Sky Harbor or McCarren.  (Would dust in the intake
+take a plane out of service?  I'm out of my experience on that one?)
+The Kobe earthquake is a very bad comparison.  We haven't seen major
+damages to the United fleet at SFO during the 1989 Loma Prieta quake,
+or to aircrafts at LAX during the 1994 Northridge quake.  Besides, if
+an earthquake strikes the Tokyo / Yokohama / Narita area, about the
+last thing I would worry about is damages to the JAL and ANA fleet at
+NRT.
+40% of HK's flights go to China, I think it is definitely an exaggeration.
+Although, traffic between HK and China is huge, many services are to
+secondary points which do not warrant the use of wide-body aircraft.
+One or two weekly flights for CX vs two daily flights for QF.  I don't
+think CX will consider their fifth-freedom rights as "reciprocating".
+In terms of traffic, none of the fifth-freedom rights you mentioned are
+comparable to HKG/SIN and HKG/BKK.  However, I do have to agree with
+Qantas that CX can carry passengers from Australia to almost anywhere in
+Asia and Europe (through six-freedom rights), so why can't QF carry
+passengers from HKG to places other than Australia?
+You are citing an exception rather than the norm.  Even if they pay some
+pilots over US$300K, CX is still one of the lower cost operator in East
+Asia.
+I'm not too fond of Cathay's management nor the British colonial
+administrators.  Cathay has mostly been run by Brits (some Australians
+and few Chinese) even though it is supposedly the airline of Hong Kong
+in where 98% of the population are Chinese.  (They didn't even put their
+Chinese name on the aircraft, because they said that would hurt their
+image).  Because of their British arrogance and discriminatory practices,
+I try to avoid flying CX as much as possible.  Nevertheless, both the HK
+Colonial Government and Cathay have made significant contributions to the
+prosperity of HK (and made of a lot money for themselves, too).
+BTW, the Chinese name of Cathay is literally translated as "a prosperous
+and peaceful nation."  Let's hope the prosperity will last even after
+1997.
+Thought some of y'all would like to know the average meal costs per
+passenger (all classes, I guess) for the different lines, based on the 3
+months ending 9/30/94:
+(From the 4/30/95 Dallas Morning News)
+So what's all this mean?  I don't know, because there are so many
+variables that need to be considered.  Ones I can think of include:
+      -Average flight length (short hauls cheaper)
+      -Relative fares/expected service (Southwest: did anyone expect them
+       to be higher?)
+      -Int'l vs. domestic food service (People expect more Int'l, I think)
+      -Whether costs are being cut by increasing efficiency or reducing food
+On that last note,  The book _Frequent Flyer_ (by Bob Reiss), describes
+some of the results when Delta asked their employees for cost cutting
+suggestions:
+   "A flight attendant had suggested eliminating a decorative piece
+of lettuce in meal service.  Management was amazed to learn the savings
+exceeded $1.4 million a year.  A food service employee modified a machine
+to cut cakes into fourteen instead of thirteen pieces.  A flight
+attendant designed a new way to package napkins.  By perforating the
+packs they came in, they could be removed one at a time, and the unused
+napkins saved instead of thrown out after each flight...."
+(side note:  What did those more knowledgeable than I think about that
+book?)
+Once again, airlines are walking the cost/service tightrope, trying to
+cut costs without losing customers.
+cea
+chris albee
+cea@netcom.com
+I hope the recent rows between the US and Chinese governments will not
+affect the outcome of this order.
+IMHO, the future of the A340 is better than the A330.  There will
+always be airlines which will be uncomfortable operating long-range
+twins.  For example, Thai International, with 8 B777-200As and 6
+B777-300s on order, will not consider the B777-200B to replace the
+MD-11s.
+Interestingly that you brought up the subject.  I've previously discussed
+this subject with Mr. Jennings through e-mail, too.  A few days ago, I
+posted an "analysis" of the A330 program to sci.aeronautics.airliners
+and cross-posted to m.t.a.  Well, we'll have to wait for Karl to approve
+it. :-(.
+SIA is looking for a regional jet, hence, the MD-11 is definitely out of
+the question.  Furthermore, SIA does not have a good track record with MD,
+or, perhaps I should say MD does not have a good track record with SIA.
+SIA dumped the DC-10 after ~ 5 years of operation.  SIA did not even take
+the delivery of the last two (of seven) aircraft and sold them directly to
+Varig.  Around 1990, SIA signed an MOU with MD to order up to 20 MD-11s.
+At the time, one of the major reasons for the order was because both Delta
+and Swissair (SIA's cross-equity partners) had ordered the MD-11s.  Later,
+MD and P&W failed to guarantee certain performance, and SIA switched to
+the A340.  Currently, SIA has 17 A340s on order (plus 20 options) for
+long-haul services.  Thus, on paper, the A330 is the more likely
+candidate, and Airbus made a news release a few weeks ago claiming that
+they were ahead of Boeing in the SIA competition.  Last year, Boeing was
+ready to lease eight B777s to SIA, and SIA's chairman was reported to say
+that the deal was too sweet to refuse.  I believe the lease offer is still
+on.
+As I said it before, the edge apparently goes to Airbus, but I believe
+Boeing has a good chance.
+I don't know whether the Japanese contents in the B777 will affect SIA's
+decision, but I believe Singapore Aerospace is a subcontractor of the B777
+program, too.  IMHO, the B777 is better sized for the Asian market.  If I
+were an SIA executive, I would have picked the B777.  The B777-200 may be
+a little too big to replace some of SIA's A310s (so is the A330, and SIA
+is reported to be looking for a smaller aircraft later on).  However, the
+B777-300 is the most ideal aircraft to replace the B747s used for regional
+services.  SIA's order is important to the A330 program, but I would not
+go so far to say it's a make-or-break order for the A330.  The A330
+program still has some other potential customers.  (See my up-coming
+"analysis", if you are interested.)
+747s are not good choices for short/mid-length domestic flights and are
+essentially unused for such in the U.S.  In fact, most of the city pairs
+you'e named above are dominated by flights on 757s, 737s, 767s, and
+DC10s.  SFO-ORD and SFO-JFK have only a few flights on 747s, and these
+are positioning flights for continuing international flights.
+The 747 is a horrible choice for the intra-Japan flights, and the only
+reason they use them there is because Narita cannot be expanded to
+accomodate the number of flights that would be needed to properly handle
+these flights with 737s or similar aircraft.
+As promised, the list of world airport traffic and growth.  From Airport
+Council International.  PAX are in millions, and are arriving, plus departing,
+plus in transit counted once.  Big airports not reporting to the ACI include
+the Chinese airports:  Beijing, 10.3 M, Guangzhou, 9.2 M, Shanghai 7.6 M.
+To add a little spice, I include my comments.  In general I'd say the growth
+in US traffic is phenomenal, with the low-cost entrants making a big splash.
+Compare with the nearly static numbers for Canada, for instance.
+European airport traffic growth is also pretty sedate.
+Las Vegas, for instance, is in serious danger of cracking the top 10 airports
+in the world in the near future if it can maintain even half its growth.
+* = airport not appearing in the previous year.
+Top 20 Cargo Airports in the World
+Not for several years.  UA is still performing "D" maintenance checks
+on its 72's.  That means at least another four years of flying.  I
+suspect, for UA, at least, the phase-out will coincide with Boeing's
+announcement of a twin-engine plane in the 150 passenger range.
